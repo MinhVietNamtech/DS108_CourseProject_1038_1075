@@ -1,0 +1,37 @@
+﻿RestaurantID,Restaurant Name,Latitude,Longitude,Address,Type,Cuisines,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Style,Has_Online_delivery,Has_Table_booking,Has_Wifi,Price,Product_quality(10),Serving_quality(10),Interior_design(10),Shopee_points(5),Foody_points(5)
+1,"Sushi Vũng Tàu - Cơm Cuộn, Sashimi & Món Nhật - 503 Trương Công Định",10.359655,107.086983,"Shop M90, Số 503 Trương Công Định, P. Thắng Nhì, Tp. Vũng Tàu, Vũng Tàu",Shop Online,Sushi & Sashimi,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,,"Món Á ,  Món Nhật",no,no,yes,0 - 0,0.0,0.0,0.0,4.5,0.0
+2,Sushi Go - Sushi & Sashimi - Trần Phú,10.3825241,107.0657283,"444/2 Trần Phú, P. 5, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Sushi & Sashimi ,  Salad",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+3,Sushi Delivery - Takoyaki - Mạc Đĩnh Chi,10.3587067,107.0762127,"136/2 Mạc Đĩnh Chi, P. 4, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,"Món Á ,  Món Nhật",no,no,yes,25.000 - 45.000,0.0,0.0,0.0,4.5,0.0
+4,Sushi Vũng Tàu - Sashimi - Rạch Dừa,10.3940372,107.1161346,"134 Hàn Thuyên, Tp. Vũng Tàu, Vũng Tàu",Nhà hàng,"Hải sản ,  Bào Ngư ,  Cá ,  Sushi & Sashimi ,  Halal",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,"Món Á ,  Món Nhật",no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+5,Sushi Hokkaido - Sushi - Nguyễn Tri Phương,10.36465,107.082184,"57 Nguyễn Tri Phương, Tp. Vũng Tàu, Vũng Tàu",Nhà hàng,Sushi & Sashimi,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,,no,no,no,15.000 - 1.250.000,0.0,0.0,0.0,4.5,0.0
+6,Asahi Sushi - 214 Thống Nhất Mới,10.3540512,107.0874165,"214 Thống Nhất, P. 8, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,Sushi & Sashimi,10:30 - 13:45,16:30 - 21:45,10:30 - 13:45,16:30 - 21:45,10:30 - 13:45,16:30 - 21:45,10:30 - 13:45,,no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+7,Yori Sushi - 492 Đường 30/4,10.3984846,107.113849,"492 Đường 30/4, P.Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Tôm ,  Hải sản ,  Cá ,  Sushi & Sashimi ,  Mực ,  Cơm",16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,,no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+8,GU Sushi,10.3503818,107.0800934,"111 Đồ Chiểu, P. 3, Tp. Vũng Tàu, Vũng Tàu","Nhà hàng , Quán ăn",Sushi & Sashimi,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,11:00 - 21:00,"Món Á ,  Món Nhật",no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+9,Roji Sushi - Nguyễn Tri Phương,10.3606077,107.0871419,"09 Nguyễn Tri Phương, P. 7, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Hải sản ,  Cá",16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,,no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+10,Yori Sushi - 286 Thống Nhất Mới,10.3564981,107.0890477,"286 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,Sushi & Sashimi,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,,no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+11,Sushi Bụi,10.3490741,107.0796062,"168 Lý Tự Trọng, P. 3, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Cơm Chiên ,  Lẩu ,  Sushi & Sashimi ,  Cơm",11:00 - 14:00,16:00 - 22:00,11:00 - 14:00,16:00 - 22:00,11:00 - 14:00,16:00 - 22:00,11:00 - 14:00,"Món Á ,  Món Nhật",no,no,yes,10.000 - 420.000,7.8,8.5,7.6,4.5,4.8
+12,I Like Sushi,10.3492546,107.0775377,"26 Đồ Chiểu, P. 1, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,Sushi & Sashimi,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,16:00 - 21:30,"Món Á ,  Món Nhật",no,no,no,30.000 - 200.000,6.6,6.5,6.9,4.5,4.6
+13,SUSHI BENKEI - SUSHI & SASHIMI - LÊ LỢI,10.3534703,107.0742968,"17 Lê Lợi, P. 1, Tp. Vũng Tàu, Vũng Tàu","Sang trọng , Nhà hàng","Hải sản ,  Sushi & Sashimi",11:00 - 13:30,17:00 - 21:30,11:00 - 13:30,17:00 - 21:30,11:00 - 13:30,17:00 - 21:30,11:00 - 13:30,"Món Á ,  Món Nhật",no,yes,yes,0 - 0,0.0,0.0,0.0,4.5,0.0
+7,Blackpan - Chuyên Bò Áp Chảo - Thống Nhất Mới,10.3561275,107.0882593,"289 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Thịt Bò ,  Cơm ,  Fastfood - Thức ăn nhanh",10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,10:00 - 20:00,,no,no,no,12.000đ - 159.000,2.0,2.0,5.0,0.0,0.8
+11,Thực Dưỡng Chay Nikaya,10.3392788,107.084604,"118 Hoàng Hoa Thám, P. 2, Tp. Vũng Tàu, Vũng Tàu",Ăn chay,"Bún ,  Món chay ,  Cơm","06:00 - 14:00
+16:30 - 20:30","06:00 - 14:00
+16:30 - 20:30","06:00 - 14:00
+16:30 - 20:30","06:00 - 14:00
+16:30 - 20:30","06:00 - 14:00
+16:30 - 20:30","06:00 - 14:00
+16:30 - 20:30","06:00 - 14:00
+16:30 - 20:30",Món Việt,no,no,no,3.000đ - 35.000,7.5,7.0,7.5,0.0,4.3
+14,Cơm Lê Biên,10.3565998,107.0809279,"18/23 Cô Bắc, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Thịt Gà ,  Cơm Chiên ,  Thịt Heo ,  Thịt Bò ,  Hải sản ,  Sườn nướng ,  Cơm văn phòng ,  Cơm ,  Xúc xích",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,Món Việt,yes,no,no,25.000đ - 50.000,10.0,8.0,8.0,0.0,4.6
+15,Ut'kitchen - Quán Ăn Hàn Quốc,10.397183,107.115507,"524/34/5 Đường 30 Tháng 4, P. Rạch Dừa, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,"Món Á ,  Món Hàn",no,no,yes,20.000đ - 100.000,8.0,10.0,7.0,0.0,4.2
+23,Ngố Sushi,10.494524,107.174125,"332B Cách Mạng Tháng 8, P. Phước Trung, Tp. Bà Rịa, Vũng Tàu",Ăn vặt/vỉa hè,Ăn vặt - Ăn nhẹ,,,,,,,,"Món Á ,  Món Nhật",no,yes,yes,50.000đ - 200.000,7.5,7.0,7.0,0.0,4.3
+26,Sushi Lounge - Thống Nhất,10.3568349,107.0889082,"341 Thống Nhất, P. 8, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Bún ,  Mì ,  Miến ,  Sushi & Sashimi ,  Cơm",,,,,,,,"Món Á ,  Món Nhật",no,no,no,9.000đ - 1.289.000,7.2,7.0,7.7,0.0,3.2
+33,Hana Sushi - Lê Lai,10.350929,107.077592,"157 Lê Lai, P. 7, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Hải sản ,  Cá ,  Sushi & Sashimi ,  Cơm",16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,"Món Á ,  Món Nhật",yes,no,no,20.000đ - 200.000,6.9,6.6,5.9,0.0,3.4
+38,Sushi Ngố,10.4964794,107.1679689,"10 Nguyễn Huệ, P. Phước Hiệp, Tp. Bà Rịa, Vũng Tàu",Quán ăn,"Bún ,  Mì ,  Sushi & Sashimi ,  Cơm","11:30 - 14:30
+16:30 - 20:30","11:30 - 14:30
+16:30 - 20:30","11:30 - 14:30
+16:30 - 20:30","11:30 - 14:30
+16:30 - 20:30","11:30 - 14:30
+16:30 - 20:30","11:30 - 14:30
+16:30 - 20:30","11:30 - 14:30
+16:30 - 20:30","Món Á ,  Món Nhật",yes,no,yes,10.000đ - 80.000,8.0,7.0,8.0,0.0,4.4
+63,GS25 - Nguyễn Tất Thành - Bà Rịa - VN0222,10.4936916,107.1792416,"66 Nguyễn Tất Thành, Khu Phố 1, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu",Shop/Cửa hàng,,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,,no,yes,no,3.000đ - 383.000,1.0,1.0,1.0,0.0,0.2

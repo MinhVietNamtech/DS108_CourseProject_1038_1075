@@ -1,0 +1,205 @@
+﻿source,area_code,source_file,district_city,province
+foody,10,D10.csv,Thành Phố Thủ Dầu Một,Bình Dương
+foody,100,D100.csv,Quận 5,TP. HCM
+foody,1000,D1000.csv,Thành Phố Long Xuyên,An Giang
+foody,101,D101.csv,Quận Tân Phú,TP. HCM
+foody,102,D102.csv,Quận 5,TP. HCM
+foody,103,D103.csv,Quận Gò Vấp,TP. HCM
+foody,104,D104.csv,Quận Bình Thạnh,TP. HCM
+foody,105,D105.csv,Quận 12,TP. HCM
+foody,106,D106.csv,Quận Tân Bình,TP. HCM
+foody,107,D107.csv,Quận Bình Tân,TP. HCM
+foody,108,D108.csv,Tp. Thủ Đức,TP. HCM
+foody,109,D109.csv,Quận 10,TP. HCM
+foody,11,D11.csv,Quận Ninh Kiều,Cần Thơ
+foody,110,D110.csv,Quận 1,TP. HCM
+foody,111,D111.csv,Quận 3,TP. HCM
+foody,112,D112.csv,Quận 4,TP. HCM
+foody,113,D113.csv,Quận 6,TP. HCM
+foody,114,D114.csv,Quận 2,TP. HCM
+foody,115,D115.csv,Quận 7,TP. HCM
+foody,116,D116.csv,Quận 8,TP. HCM
+foody,117,D117.csv,Quận 9,TP. HCM
+foody,118,D118.csv,Quận 11,TP. HCM
+foody,119,D119.csv,Quận Phú Nhuận,TP. HCM
+foody,12,D12.csv,Quận Ninh Kiều,Cần Thơ
+foody,120,D120.csv,Huyện Bình Chánh,TP. HCM
+foody,121,D121.csv,Huyện Nhà Bè,TP. HCM
+foody,122,D122.csv,Huyện Hóc Môn,TP. HCM
+foody,123,D123.csv,Huyện Củ Chi,TP. HCM
+foody,124,D124.csv,Huyện Cần Giờ,TP. HCM
+foody,125,D125.csv,Thành Phố Thủ Dầu Một,Bình Dương
+foody,126,D126.csv,Thị Xã Thuận An,Bình Dương
+foody,127,D127.csv,Thị Xã Dĩ An,Bình Dương
+foody,128,D128.csv,Thị Xã Bến Cát,Bình Dương
+foody,129,D129.csv,Thị Xã Tân Uyên,Bình Dương
+foody,13,D13.csv,Quận Ninh Kiều,Cần Thơ
+foody,130,D130.csv,Huyện Dầu Tiếng,Bình Dương
+foody,131,D131.csv,Huyện Phú Giáo,Bình Dương
+foody,132,D132.csv,Huyện Bắc Tân Uyên,Bình Dương
+foody,133,D133.csv,Huyện Bàu Bàng,Bình Dương
+foody,134,D134.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,135,D135.csv,Tp. Bà Rịa,Vũng Tàu
+foody,136,D136.csv,Thị Xã Phú Mỹ,Vũng Tàu
+foody,137,D137.csv,Huyện Côn Đảo,Vũng Tàu
+foody,138,D138.csv,Huyện Long Thành,Vũng Tàu
+foody,139,D139.csv,Huyện Xuyên Mộc,Vũng Tàu
+foody,140,D140.csv,Huyện Long Điền,Vũng Tàu
+foody,141,D141.csv,Huyện Châu Đức,Vũng Tàu
+foody,142,D142.csv,Huyện Đất Đỏ,Vũng Tàu
+foody,143,D143.csv,Quận 8,TP. HCM
+foody,144,D144.csv,Quận Bình Thạnh,TP. HCM
+foody,145,D145.csv,Quận Tân Bình,TP. HCM
+foody,146,D146.csv,Quận Tân Phú,TP. HCM
+foody,147,D147.csv,Quận Gò Vấp,TP. HCM
+foody,148,D148.csv,Quận Bình Tân,TP. HCM
+foody,149,D149.csv,Quận Ninh Kiều,Cần Thơ
+foody,150,D150.csv,Thành Phố Long Xuyên,An Giang
+foody,151,D151.csv,Quận Tân Bình,TP. HCM
+foody,152,D152.csv,Quận Bình Thạnh,TP. HCM
+foody,153,D153.csv,Quận Gò Vấp,TP. HCM
+foody,154,D154.csv,Quận Ninh Kiều,Cần Thơ
+foody,17,D17.csv,Quận Ninh Kiều,Cần Thơ
+foody,18,D18.csv,Quận Ninh Kiều,Cần Thơ
+foody,19,D19.csv,Quận Ninh Kiều,Cần Thơ
+foody,20,D20.csv,Quận Ninh Kiều,Cần Thơ
+foody,201,D201.csv,Huyện Cờ Đỏ,Cần Thơ
+foody,202,D202.csv,Huyện Phong Điền,Cần Thơ
+foody,203,D203.csv,Huyện Thới Lai,Cần Thơ
+foody,204,D204.csv,Huyện Vĩnh Thạnh,Cần Thơ
+foody,205,D205.csv,Quận Bình Thủy,Cần Thơ
+foody,206,D206.csv,Quận Cái Răng,Cần Thơ
+foody,207,D207.csv,Quận Ninh Kiều,Cần Thơ
+foody,208,D208.csv,Quận Ô Môn,Cần Thơ
+foody,209,D209.csv,Quận Thốt Nốt,Cần Thơ
+foody,21,D21.csv,Thành Phố Long Xuyên,An Giang
+foody,210,D210.csv,Hưng Phú,Cần Thơ
+foody,211,D211.csv,Thành Phố Biên Hòa,Đồng Nai
+foody,212,D212.csv,Huyện Long Thành,Đồng Nai
+foody,213,D213.csv,Thị Xã Long Khánh,Đồng Nai
+foody,214,D214.csv,Huyện Trảng Bom,Đồng Nai
+foody,215,D215.csv,Huyện Nhơn Trạch,Đồng Nai
+foody,216,D216.csv,Huyện Xuân Lộc,Đồng Nai
+foody,217,D217.csv,Huyện Thống Nhất,Đồng Nai
+foody,218,D218.csv,Huyện Định Quán,Đồng Nai
+foody,219,D219.csv,Huyện Tân Phú,Đồng Nai
+foody,22,D22.csv,Thành Phố Long Xuyên,An Giang
+foody,220,D220.csv,Huyện Vĩnh Cửu,Đồng Nai
+foody,221,D221.csv,Huyện Cẩm Mỹ,Đồng Nai
+foody,222,D222.csv,Thành Phố Long Xuyên,An Giang
+foody,223,D223.csv,Thành Phố Châu Đốc,An Giang
+foody,224,D224.csv,Thị Xã Tân Châu,An Giang
+foody,225,D225.csv,Huyện Chợ Mới,An Giang
+foody,226,D226.csv,Huyện Thoại Sơn,An Giang
+foody,227,D227.csv,Huyện Tri Tôn,An Giang
+foody,228,D228.csv,Huyện Châu Thành,An Giang
+foody,229,D229.csv,Huyện Tịnh Biên,An Giang
+foody,230,D230.csv,Huyện Châu Phú,An Giang
+foody,231,D231.csv,Huyện Phú Tân,An Giang
+foody,232,D232.csv,Huyện An Phú,An Giang
+foody,24,D24.csv,Thành Phố Biên Hòa,Đồng Nai
+foody,26,D26.csv,Thành Phố Biên Hòa,Đồng Nai
+foody,32,D32.csv,Thành Phố Biên Hòa,Đồng Nai
+foody,38,D38.csv,Thị Xã Thuận An,Bình Dương
+foody,46,D46.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,48,D48.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,49,D49.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,64,D64.csv,Quận Ninh Kiều,Cần Thơ
+foody,69,D69.csv,Thành Phố Thủ Dầu Một,Bình Dương
+foody,73,D73.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,74,D74.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,79,D79.csv,Quận Ninh Kiều,Cần Thơ
+foody,80,D80.csv,Quận Ninh Kiều,Cần Thơ
+foody,83,D83.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,84,D84.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,85,D85.csv,Thành Phố Long Xuyên,An Giang
+foody,86,D86.csv,Thành Phố Thủ Dầu Một,Bình Dương
+foody,88,D88.csv,Tp. Vũng Tàu,Vũng Tàu
+foody,98,D98.csv,Thành Phố Long Xuyên,An Giang
+foody,99,D99.csv,Thành Phố Long Xuyên,An Giang
+shopee,1,D1.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,10,D10.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,1000,D1000.csv,Tp. Biên Hòa,Đồng Nai
+shopee,11,D11.csv,Quận Ninh Kiều,Cần Thơ
+shopee,12,D12.csv,Quận Ninh Kiều,Cần Thơ
+shopee,14,D14.csv,Quận Ninh Kiều,Cần Thơ
+shopee,15,D15.csv,Quận Ninh Kiều,Cần Thơ
+shopee,16,D16.csv,Quận Ninh Kiều,Cần Thơ
+shopee,17,D17.csv,Quận Ninh Kiều,Cần Thơ
+shopee,18,D18.csv,Quận Ninh Kiều,Cần Thơ
+shopee,19,D19.csv,Quận Ninh Kiều,Cần Thơ
+shopee,2,D2.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,20,D20.csv,Quận Ninh Kiều,Cần Thơ
+shopee,21,D21.csv,Tp. Long Xuyên,An Giang
+shopee,22,D22.csv,Tp. Long Xuyên,An Giang
+shopee,23,D23.csv,Tp. Biên Hòa,Đồng Nai
+shopee,24,D24.csv,Tp. Biên Hòa,Đồng Nai
+shopee,25,D25.csv,Tp. Biên Hòa,Đồng Nai
+shopee,26,D26.csv,Tp. Biên Hòa,Đồng Nai
+shopee,27,D27.csv,Tp. Biên Hòa,Đồng Nai
+shopee,28,D28.csv,Tp. Biên Hòa,Đồng Nai
+shopee,29,D29.csv,Tp. Biên Hòa,Đồng Nai
+shopee,3,D3.csv,Quận 1,TP. HCM
+shopee,30,D30.csv,Tp. Biên Hòa,Đồng Nai
+shopee,31,D31.csv,Tp. Biên Hòa,Đồng Nai
+shopee,32,D32.csv,Tp. Biên Hòa,Đồng Nai
+shopee,33,D33.csv,Thị xã Đồng Xoài,Bình Phước
+shopee,34,D34.csv,Thị xã Đồng Xoài,Bình Phước
+shopee,35,D35.csv,Thị xã Bạc Liêu,Bạc Liêu
+shopee,36,D36.csv,Tp. Bến Tre,Bến Tre
+shopee,37,D37.csv,Tp. Cà Mau,Cà Mau
+shopee,38,D38.csv,Dĩ An,Bình Dương
+shopee,39,D39.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,4,D4.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,40,D40.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,41,D41.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,42,D42.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,43,D43.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,44,D44.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,45,D45.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,46,D46.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,47,D47.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,48,D48.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,49,D49.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,5,D5.csv,Bình Tân,TP. HCM
+shopee,50,D50.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,51,D51.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,52,D52.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,53,D53.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,54,D54.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,55,D55.csv,Bình Thạnh,TP. HCM
+shopee,56,D56.csv,Tân Bình,TP. HCM
+shopee,57,D57.csv,Tp. Biên Hòa,Đồng Nai
+shopee,58,D58.csv,Tp. Biên Hòa,Đồng Nai
+shopee,59,D59.csv,Tp. Biên Hòa,Đồng Nai
+shopee,6,D6.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,63,D63.csv,Quận Ninh Kiều,Cần Thơ
+shopee,64,D64.csv,Quận Ninh Kiều,Cần Thơ
+shopee,65,D65.csv,Quận Ninh Kiều,Cần Thơ
+shopee,66,D66.csv,Tp. Biên Hòa,Đồng Nai
+shopee,67,D67.csv,Dĩ An,Bình Dương
+shopee,68,D68.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,69,D69.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,7,D7.csv,Bình Thạnh,TP. HCM
+shopee,70,D70.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,71,D71.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,72,D72.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,73,D73.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,74,D74.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,75,D75.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,76,D76.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,77,D77.csv,Tân Bình,TP. HCM
+shopee,78,D78.csv,Quận Ninh Kiều,Cần Thơ
+shopee,79,D79.csv,Quận Ninh Kiều,Cần Thơ
+shopee,8,D8.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,80,D80.csv,Quận Ninh Kiều,Cần Thơ
+shopee,81,D81.csv,Tp. Biên Hòa,Đồng Nai
+shopee,82,D82.csv,Tp. Biên Hòa,Đồng Nai
+shopee,83,D83.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,84,D84.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,86,D86.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,87,D87.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,88,D88.csv,Tp. Vũng Tàu,Vũng Tàu
+shopee,89,D89.csv,Thị xã Thủ Dầu Một,Bình Dương
+shopee,9,D9.csv,Thành Phố Thủ Đức,TP. HCM
+shopee,tmp,Dtmp.csv,Tp. Biên Hòa,Đồng Nai

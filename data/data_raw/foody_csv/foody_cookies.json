@@ -1,0 +1,160 @@
+[
+  {
+    "domain": ".foody.vn",
+    "expiry": 1810969225,
+    "httpOnly": false,
+    "name": "floc",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "218"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1810969215,
+    "httpOnly": false,
+    "name": "flg",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "vn"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1810969225,
+    "httpOnly": false,
+    "name": "gcat",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "food"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1779519628,
+    "httpOnly": false,
+    "name": "_gid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.720358442.1779433228"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1813993228,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.2.467718777.1779433228"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1787209228,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.289699563.1779433229"
+  },
+  {
+    "domain": ".foody.vn",
+    "httpOnly": false,
+    "name": "__utmc",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "257500956"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1779433828,
+    "httpOnly": false,
+    "name": "__utmt_UA-33292184-1",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1779435028,
+    "httpOnly": false,
+    "name": "__utmb",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "257500956.1.10.1779433229"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1787209228,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fb.1.1779433228244.9744747405884699"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1779433288,
+    "httpOnly": false,
+    "name": "_gat_ads",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1779433288,
+    "httpOnly": false,
+    "name": "_gat",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": "id.foody.vn",
+    "httpOnly": true,
+    "name": "__RequestVerificationToken",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "FIqe87lU0OyIGF6bRYqtxSs7JS67dPb8zyhMaSCKjkGcKCQpeKPMzzy3eyHf2XG7n7RpW5jS_U3yQnQPkeOsB1JOgENAnMw82o-4boCFPNc1"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1813993228,
+    "httpOnly": false,
+    "name": "_ga_6M8E625L9H",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.2.s1779433228$o1$g0$t1779433228$j60$l0$h0"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1813993228,
+    "httpOnly": false,
+    "name": "__utma",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "257500956.467718777.1779433228.1779433229.1779433229.1"
+  },
+  {
+    "domain": ".foody.vn",
+    "expiry": 1795201228,
+    "httpOnly": false,
+    "name": "__utmz",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "257500956.1779433229.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)"
+  }
+]

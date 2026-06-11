@@ -1,0 +1,16 @@
+﻿RestaurantID,Restaurant Name,Latitude,Longitude,Address,Type,Cuisines,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Style,Has_Online_delivery,Has_Table_booking,Has_Wifi,Price,Product_quality(10),Serving_quality(10),Interior_design(10),Shopee_points(5),Foody_points(5)
+1,Fukee Dimsum & Noodle House,10.3401069,107.0827299,"77 Hoàng Hoa Thám, P. Thắng Tam, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Bún ,  Mì ,  Dimsum ,  Cơm",00:01 - 02:00,06:00 - 23:59,00:01 - 02:00,06:00 - 23:59,00:01 - 02:00,06:00 - 23:59,00:01 - 02:00,,no,no,no,0 - 0,0.0,0.0,0.0,4.5,0.0
+2,Tiệm Nước Ép & Dimsum Vũng Tàu - Bình Giã,10.3596348,107.0931324,"285A2 Bình Giã, P. 8, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Ăn vặt - Ăn nhẹ ,  Nem",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,,no,no,no,0 - 0,0.0,0.0,0.0,5.0,0.0
+6,Wofo Dimsum - Há Cảo 7 Màu,10.358557,107.086557,"465 Trương Công Định, P. 8, Tp. Vũng Tàu, Vũng Tàu",Ăn vặt/vỉa hè,"Dimsum ,  Ăn vặt - Ăn nhẹ",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,,"Món Á ,  Món Trung Hoa",no,yes,yes,5.000đ - 5.000,8.0,9.0,8.0,0.0,4.6
+10,TAKOYAKI WOFO - Bánh Bạch Tuộc - Trương Công Định,10.35699,107.086243,"352 Trương Công Định, P. 7, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Bánh bao ,  Bánh - Kẹo ,  Ăn vặt - Ăn nhẹ ,  Nem",14:00 - 20:00,14:00 - 20:00,14:00 - 20:00,14:00 - 20:00,14:00 - 20:00,14:00 - 20:00,,,no,no,no,10.000đ - 30.000,5.0,5.0,5.0,0.0,1.5
+21,"Nam Nam Express - Món Việt, Thái & Mã",10.4867856,107.4538023,"Tầng Lobby, The Grand Ho Tram Strip, Xã Phước Thuận, Huyện Xuyên Mộc, Vũng Tàu",Nhà hàng,"Dimsum ,  Thức uống",06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,06:00 - 23:00,,"Món Việt ,  Món Á",no,no,yes,20.000đ - 8.000.000,7.5,7.2,8.2,0.0,3.5
+22,Lẩu Cá Đuối Út Mười - Hoàng Hoa Thám,10.340918,107.078826,"1 Hoàng Hoa Thám, P. 3, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Tôm ,  Hải sản ,  Lẩu ,  Cá ,  Mực ,  Dimsum",08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,08:30 - 22:00,,Món Việt,no,yes,no,50.000đ - 220.000,7.0,7.2,6.2,0.0,3.7
+26,C.TAO - Chinese Restaurant - Vũng Tàu,10.3600687,107.0915459,"Số 186 Đường 2 Tháng 9, P. 8, Tp. Vũng Tàu, Vũng Tàu",Nhà hàng,"Thịt Gà ,  Thịt Bò ,  Thịt Heo ,  Hải sản ,  Món nước ,  Salad ,  Dimsum ,  Ăn vặt - Ăn nhẹ","10:00 - 14:00
+17:00 - 23:00","10:00 - 14:00
+17:00 - 23:00","10:00 - 14:00
+17:00 - 23:00","10:00 - 14:00
+17:00 - 23:00","10:00 - 14:00
+17:00 - 22:00","10:00 - 14:00
+17:00 - 22:00",,"Món Á ,  Món Trung Hoa",yes,yes,yes,50.000đ - 180.000,6.6,6.2,6.9,0.0,4.1
+29,Dimsum Mr Hào - Bà Rịa,10.4971978,107.182182,"180 Điện Biên Phủ, P. Phước Nguyên, Tp. Bà Rịa, Vũng Tàu",Quán ăn,"Sinh tố - Nước ép ,  Dimsum ,  Thức uống ,  Nước ngọt ,  Fastfood - Thức ăn nhanh",15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,,"Món Á ,  Món Trung Hoa",yes,no,yes,24.000đ - 52.000,9.0,9.0,8.0,0.0,4.6
+30,Dimsum Mr Hào - Trần Hưng Đạo,10.3431347,107.0774639,"10 Trần Hưng Đạo, P. 1, Tp. Vũng Tàu, Vũng Tàu",Nhà hàng,Dimsum,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,"Món Á ,  Món Trung Hoa",yes,no,yes,24.000đ - 52.000,10.0,10.0,9.0,0.0,5.0

@@ -1,0 +1,138 @@
+﻿RestaurantID,Restaurant Name,Latitude,Longitude,Address,Type,Cuisines,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Style,Has_Online_delivery,Has_Table_booking,Has_Wifi,Price,Product_quality(10),Serving_quality(10),Interior_design(10),Average_rating(5),Total votes
+1,KTD - Sashimi - Lê Lợi,10.0440567000000,105.7906018000000,"31A Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ","Café/Dessert , Quán ăn","Hải sản ,  Cá ,  Nghêu - Sò - Ốc ,  Sushi & Sashimi",10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,,no,no,no,29.000đ - 521.000,0.0,0.0,0.0,_._,0
+2,Sachi Sushi,10.0206242000000,105.7875468000000,"Số 22 Lý Thái Tổ, P. Hưng Phú, Quận Cái Răng, Cần Thơ",Quán ăn,Sushi & Sashimi,,,,,,,,,no,no,no,,0.0,0.0,0.0,_._,0
+3,Sushi - Chợ Đêm Trần Phú,10.0516350000000,105.7894650000000,"Lô 56, Chợ Đêm Hưng Phú, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,Ăn vặt - Ăn nhẹ,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,12.000đ - 25.000,5.0,7.0,6.0,6.6,1
+4,Tiệm Bánh Rán Doremon - Nguyễn Văn Cừ,10.0467890000000,105.7700650000000,"233/44 Đường Nguyễn Văn Cừ, Quận Ninh Kiều, Cần Thơ",Tiệm bánh,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ ,  Nem",07:01 - 20:00,07:01 - 20:00,07:01 - 20:00,07:01 - 20:00,07:01 - 20:00,07:01 - 20:00,,"Món Việt ,  Món Á ,  Món Nhật",no,no,no,,0.0,0.0,0.0,_._,0
+5,Tiệm Cơm Nhật - Nguyễn Văn Cừ,10.0510394000000,105.7728208000000,"47 Nguyễn Văn Cừ, P. An Hoà, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Cơm",09:30 - 19:30,09:30 - 19:30,09:30 - 19:30,09:30 - 19:30,09:30 - 19:30,09:30 - 19:30,,,no,no,no,25.000đ - 69.000,0.0,0.0,0.0,_._,0
+6,Hokkaido Sushi Bar - Món Ăn Sushi Sashimi - A721 Trần Phú,10.0469329000000,105.7819930000000,"A721 Trần Phú, P. Thới Bình, Quận Ninh Kiều, Cần Thơ","Ăn vặt/vỉa hè , Khu Ẩm Thực","Ăn vặt - Ăn nhẹ ,  Fastfood - Thức ăn nhanh",17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,17:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,,0.0,0.0,0.0,_._,0
+7,Eyelash - Mì Cay & Ăn Vặt,10.0413130000000,105.7812300000000,"Đinh Tiên Hoàng, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Món nước ,  Mì ,  Ăn vặt - Ăn nhẹ",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,"Món Á ,  Món Hàn",no,no,no,20.000đ - 50.000,7.6,8.0,7.0,7.6,5
+8,Sushi & Kimpap - Nguyễn Việt Hồng,10.0310072000000,105.7767551000000,"Hẻm 2 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,,Món Việt,no,yes,yes,10.000đ - 30.000,10.0,10.0,10.0,10.0,1
+9,KIN - Japan Food,10.0414220000000,105.7625190000000,"138K Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,,no,no,no,20.000đ - 499.000,0.0,0.0,0.0,_._,0
+10,"Teppan Steak Nam Long - Cơm Xèo Xèo, Bò Bít Tết & Mì Udon",10.0076268000000,105.7840038000000,"Shophouse A9-1 Đường Số 5, Góc Đường Số 5 Và Đường Số 1 KDC Nam Long 2, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Cơm ,  Fastfood - Thức ăn nhanh",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+11,EKI NABE - Sushi & Lẩu Cá Hồi Nauy - KDC 91B,10.0196991000000,105.7558156000000,"15 Đường A3, Khu Dân Cư 91B, Quận Ninh Kiều, Cần Thơ","Ăn vặt/vỉa hè , Café/Dessert","Sinh tố - Nước ép ,  Thức uống",10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,,"Món Á ,  Món Nhật",yes,no,no,,0.0,0.0,0.0,_._,0
+12,Quán Xóm - Trà Sữa & Sushi,10.0286480000000,105.7712160000000,"52/1 Mạc Thiên Tích, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Ăn vặt - Ăn nhẹ ,  Cơm ,  Thức uống ,  Cá/bò viên ,  Trà sữa",08:00 - 20:30,08:00 - 20:30,08:00 - 20:30,08:00 - 20:30,08:00 - 20:30,08:00 - 20:30,,Món Việt,no,no,yes,10.000đ - 50.000,8.2,7.9,7.3,7.9,13
+13,Thủy Nguyễn - Sushi Cái Răng,10.0049168000000,105.7537474000000,"Trần Chiên, P. Lê Bình, Quận Cái Răng, Cần Thơ",Shop Online,"Ăn vặt - Ăn nhẹ ,  Nem",08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,,"Món Á ,  Món Nhật",yes,yes,yes,20.000đ - 25.000,9.0,8.0,9.0,8.4,1
+14,Mì Cay TAKAMI,10.0436150000000,105.7758640000000,"132/42/44A Hẻm 54 Hùng Vương, P. Thới Bình, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Bánh tráng ,  Mì ,  Ăn vặt - Ăn nhẹ ,  Cơm",11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,11:00 - 20:00,,Món Việt,no,yes,yes,10.000đ - 25.000,0.0,0.0,0.0,_._,0
+15,Shinshu - Xúc Xích Nhật Bản,10.0486765000000,105.7656047000000,"54 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Bánh mì ,  Lẩu ,  Sushi & Sashimi ,  Bánh - Kẹo ,  Ăn vặt - Ăn nhẹ ,  Nem ,  Xúc xích",08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,08:00 - 22:00,,Món Nhật,yes,yes,yes,10.000đ - 15.000,7.8,8.0,6.7,7.4,18
+16,BÁNH BẠCH TUỘC TAKOYAKI - TQD - Nguyễn Đệ,10.0481983000000,105.7623496000000,"373 Nguyễn Đệ, P. An Hòa, Quận Ninh Kiều, Cần Thơ","Ăn vặt/vỉa hè , Tiệm bánh","Hải sản ,  Sushi & Sashimi ,  Mực ,  Ăn vặt - Ăn nhẹ ,  Nem",14:59 - 21:00,14:59 - 21:00,14:59 - 21:00,14:59 - 21:00,14:59 - 21:00,14:59 - 21:00,,"Món Việt ,  Món Á ,  Món Nhật",no,no,no,,0.0,0.0,0.0,_._,0
+17,Azerai - Nhà Hàng & Khách Sạn,10.0375510000000,105.8019776000000,"Azerai Hotel, Cồn Ấu, P. Hưng Phú, Quận Cái Răng, Cần Thơ","Nhà hàng , Khách sạn","Thịt Gà ,  Thịt Bò ,  Hải sản ,  Món nước ,  Lẩu ,  Pizza & Pasta ,  Đặc sản vùng ,  Thức uống",00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,,"Món Việt ,  Mỹ ,  Quốc tế",no,yes,yes,140.000đ - 580.000,10.0,10.0,10.0,9.4,1
+18,Japan Food - Co.opMart Cần Thơ,10.0354090000000,105.7865970000000,"1 Đại Lộ Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,10:00 - 21:00,,"Món Á ,  Món Nhật",no,no,no,20.000đ - 100.000,1.0,1.0,3.0,2.4,1
+19,Cơm Cuộn Sushi Hồng,10.0302400000000,105.7836000000000,"14/221 Nguyễn Thị Minh Khai, P. Tân An, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,15:00 - 20:00,15:00 - 20:00,15:00 - 20:00,15:00 - 20:00,15:00 - 20:00,15:00 - 20:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+20,Sushi - Lò Bánh Mì,10.0095820000000,105.7474390000000,"221G Hoàng Quốc Việt, P. An Bình, Quận Ninh Kiều, Cần Thơ",Tiệm bánh,"Bánh mì ,  Ăn vặt - Ăn nhẹ",07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,07:00 - 21:00,,Món Việt,no,yes,no,10.000đ - 20.000,0.0,0.0,0.0,_._,0
+21,Tako House - Bánh Bạch Tuộc - Nguyễn Viêt Hồng,10.0304070000000,105.7766930000000,"143 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Salad ,  Ăn vặt - Ăn nhẹ",16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,25.000đ - 25.000,8.6,8.5,7.7,8.2,39
+22,Oishiiiiii Desu - Ăn Vặt Nhật Bản,10.0361120000000,105.7640190000000,"381Q1/14B Trần Nam Phú, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,12.000đ - 12.000,0.0,0.0,0.0,_._,0
+23,GOLD SUSHI - SUSHI SASHIMI NGÂM TƯƠNG - NGÔ VĂN SỞ,10.0340500000000,105.7855400000000,"33 Ngô Văn Sở, P. Tân An, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+24,Cơm Nắm Harry - Nguyễn Văn Cừ,10.0474222000000,105.7695822000000,"233/24/48 Nguyễn Văn Cừ, P. An Hoà, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Cơm",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,,,no,no,no,16.000đ - 50.000,0.0,0.0,0.0,_._,0
+25,Cây Bưởi 4,10.0483980000000,105.7879070000000,"45 Lê Lợi, P. Cái Khế, Quận Ninh Kiều, Cần Thơ","Nhà hàng , Tiệc cưới/Hội nghị","Thịt Gà ,  Thịt Bò ,  Thịt Heo ,  Hải sản ,  Lẩu",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,"Món Việt ,  Món Miền Nam",no,yes,yes,1.000.000đ - 5.500.000,8.0,8.3,8.3,8.1,3
+26,EKI SUSHI - Sushi & Cơm Lươn Nướng Nhật Bản - Đường A3,10.0196940000000,105.7558610000000,"15 Đường A3, Khu Dân Cư 91B, Quận Ninh Kiều, Cần Thơ","Ăn vặt/vỉa hè , Quán ăn","Gà rán ,  Sushi & Sashimi ,  Fastfood - Thức ăn nhanh",16:30 - 22:00,16:30 - 22:00,16:30 - 22:00,16:30 - 22:00,16:30 - 22:00,16:30 - 22:00,,"Món Á ,  Món Nhật",yes,no,yes,,0.0,0.0,0.0,_._,0
+27,Sushibox & Cappucino,10.0338850630890,105.7857690006494,"Lầu 2 Sense City, Đại Lộ Hòa Bình, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,50.000đ - 100.000,7.5,7.5,7.0,6.9,2
+28,TỊNH BÌNH CHAY - Ẩm Thực Chay - 80 Lương Định Của,10.0437331000000,105.7871444000000,"80 Lương Định Của, P. Cái Khế, Quận Ninh Kiều, Cần Thơ",Ăn chay,"Cơm Chiên ,  Cháo ,  Món chay ,  Cơm",08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,08:30 - 21:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+29,Ăn Vặt O'Kìa - Trần Hoàng Na,10.0128467000000,105.7647090000000,"22/16 Hẻm 22 Trần Hoàng Na, Đường 30/4, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ ,  Nem",14:30 - 23:59,14:30 - 23:59,14:30 - 23:59,14:30 - 23:59,14:30 - 23:59,14:30 - 23:59,,,no,no,no,20.000đ - 65.000,0.0,0.0,0.0,_._,0
+30,Bánh Bạch Tuộc Takoyaki - Hẻm 51,10.0252288000000,105.7666552000000,"51A2 Hẻm 51 Đường 3/2, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,,"Món Á ,  Món Nhật",yes,yes,no,,0.0,0.0,0.0,_._,0
+31,SUSHI - Karil,10.0383936000000,105.7840507000000,"40 Xô Viết Nghệ Tỉnh, P. Tân An, Quận Ninh Kiều, Cần Thơ","Buffet , Giao cơm văn phòng","Ăn vặt - Ăn nhẹ ,  Cơm",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,"Món Á ,  Món Nhật",yes,no,no,,0.0,0.0,0.0,_._,0
+32,Heri - Quán Ăn Truyền Thống Hàn Quốc,10.0370480000000,105.7716150000000,"43 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Lẩu ,  Cháo ,  Sushi & Sashimi",10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,"Món Á ,  Món Hàn",no,no,yes,45.000đ - 295.000,9.3,9.3,9.3,9.0,9
+33,Chú Tắc - Bánh Tráng Trộn,10.0596940000000,105.7646228000000,"53/2E Nguyễn Việt Dũng, Quận Bình Thủy, Cần Thơ",Ăn vặt/vỉa hè,"Bánh tráng ,  Bánh - Kẹo ,  Ăn vặt - Ăn nhẹ",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,,Món Việt,no,yes,yes,10.000đ - 20.000,8.0,8.0,8.0,8.2,4
+34,Lẩu Nướng Hàn Quốc Se-Ong,10.0309710000000,105.7856850000000,"55 Châu Văn Liêm, P. An Lạc, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Thịt Gà ,  Tôm ,  Thịt Bò ,  Bún ,  Thịt Heo ,  Hải sản ,  Mì ,  Lẩu ,  Cá ,  Sushi & Sashimi ,  Miến ,  Mực ,  Cơm ,  Thức uống",10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,10:00 - 23:00,,"Món Á ,  Món Hàn",no,yes,yes,49.000đ - 399.000,9.6,9.8,7.9,8.9,8
+35,Ohisama Sushi,10.0269750000000,105.7783190000000,"139/105A Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Nhà hàng,"Tôm ,  Bào Ngư ,  Hải sản ,  Cá ,  Nghêu - Sò - Ốc ,  Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ ,  Cơm","10:00 - 14:00
+16:00 - 22:00","10:00 - 14:00
+16:00 - 22:00","10:00 - 14:00
+16:00 - 22:00","10:00 - 14:00
+16:00 - 22:00","10:00 - 14:00
+16:00 - 22:00","10:00 - 14:00
+16:00 - 22:00",,"Món Á ,  Món Nhật",yes,no,yes,19.000đ - 269.000,9.0,9.0,7.0,9.0,1
+36,Sushi Kei - Sense City,10.0344588000000,105.7857187000000,"Tầng 2 Sense City, 1 Đại Lộ Hòa Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ",Nhà hàng,Sushi & Sashimi,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,50.000đ - 200.000,7.0,7.0,7.1,7.0,105
+37,FUJI SUSHI - Trần Ngọc Quế,10.0220700000000,105.7705700000000,"320/4 Trần Ngọc Quế, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Cơm Chiên ,  Sushi & Sashimi ,  Cơm",00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,00:01 - 23:59,,,no,no,no,,0.0,0.0,0.0,_._,0
+38,Sushi Shop,10.0490530000000,105.7650328000000,"87 Võ Trường Toản, P. An Hòa, Quận Ninh Kiều, Cần Thơ",Shop Online,Sushi & Sashimi,07:30 - 20:00,07:30 - 20:00,07:30 - 20:00,07:30 - 20:00,07:30 - 20:00,07:30 - 20:00,,"Món Á ,  Món Nhật",yes,yes,yes,50.000đ - 200.000,8.4,7.9,6.6,7.6,35
+39,Sushi Quế Anh,10.0298554000000,105.7754847000000,"19A Mạc Thiên Tích, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Home-made ,  Ăn vặt - Ăn nhẹ ,  Thức uống ,  Fastfood - Thức ăn nhanh",13:00 - 21:00,13:00 - 21:00,13:00 - 21:00,13:00 - 21:00,13:00 - 21:00,13:00 - 21:00,,Món Việt,yes,no,yes,5.000đ - 40.000,8.7,8.5,8.3,8.5,36
+40,Thảo Lâm - Sushi,10.0353205000000,105.7836682000000,"12 Nguyễn Khuyến, P. An Cư, Quận Ninh Kiều, Cần Thơ","Ăn vặt/vỉa hè , Shop Online","Sushi & Sashimi ,  Cơm",17:30 - 21:00,17:30 - 21:00,17:30 - 21:00,17:30 - 21:00,17:30 - 21:00,17:30 - 21:00,,"Món Á ,  Món Nhật",no,no,yes,14.000đ - 24.000,5.1,4.7,4.6,5.1,7
+41,Bánh Bạch Tuộc - Takoyaki Cô Chủ Nhỏ - Mậu Thân,10.0430753000000,105.7656893000000,"94 Mậu Thân, P. An Hòa, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ ,  Nem",14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,,,no,no,no,5.000đ - 55.000,0.0,0.0,0.0,_._,0
+42,Bánh Bạch Tuộc & Bánh Hẹ - Nguyễn Việt Hồng,10.0305040000000,105.7770160000000,"133 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,,Món Việt,no,yes,yes,8.000đ - 38.000,7.6,7.6,6.9,7.5,11
+43,Mini Cake Store - Huỳnh Cương,10.0389989000000,105.7784773000000,"21 Huỳnh Cương, P. An Cư, Quận Ninh Kiều, Cần Thơ",Café/Dessert,"Pizza & Pasta ,  Bánh - Kẹo ,  Café - Kem ,  Sinh tố - Nước ép ,  Thức uống",16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,,Món Việt,no,no,yes,4.000đ - 30.000,8.2,8.2,8.2,7.8,5
+44,Quán Hạnh - Trà Sữa & Ăn Vặt,10.0650630715332,105.7467988505959,"323 Bùi Hữu Nghĩa, P. Bình Thủy, Quận Bình Thủy, Cần Thơ",Ăn vặt/vỉa hè,"Ăn vặt - Ăn nhẹ ,  Thức uống ,  Trứng vịt lộn ,  Trà sữa",07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,07:00 - 19:00,,Món Việt,no,yes,yes,6.000đ - 25.000,0.0,0.0,0.0,_._,0
+45,Hà Vy - Trà Sữa & Ăn Vặt - Nguyễn Văn Cừ Nối Dài,10.0431178000000,105.7608934000000,"160 Hẻm Liên Tổ 12 13 14 15 16 17 18 19 20 Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sinh tố - Nước ép ,  Thức uống ,  Trà sữa",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,,Món Việt,yes,no,yes,,0.0,0.0,0.0,_._,0
+46,Takoyaki - Nước Ép & Bánh Bạch Tuộc Sumo Cần Thơ - Nguyễn Việt Hồng,10.0303311000000,105.7764010000000,"163 Nguyễn Việt Hồng, P. An Phú, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,14:00 - 22:00,,,no,no,no,20.000đ - 120.000,0.0,0.0,0.0,_._,0
+47,Biển Đông 3 - Hải Sản Tươi Sống,10.0487990000000,105.7767400000000,"100 Cách Mạng Tháng Tám, P. Cái Khế, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Thịt Gà ,  Thịt Bò ,  Thịt Heo ,  Hải sản ,  Lẩu ,  Sushi & Sashimi ,  Thịt Vịt ,  Đặc sản rừng ,  Đặc sản vùng ,  Thức uống ,  Thịt Cừu",08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,,"Món Việt ,  Món Thái",yes,no,yes,50.000đ - 450.000,0.0,0.0,0.0,_._,0
+48,Sushi Dori,10.0356100000000,105.7862700000000,"6 Đại Lộ Hoà Bình, P. Tân An, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,16:30 - 21:30,,,no,no,no,,0.0,0.0,0.0,_._,0
+49,Takoyaki - Ngọc Quyên,10.0317310000000,105.7873710000000,"42 Phan Bội Châu, P. Tân An, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Bánh - Kẹo ,  Ăn vặt - Ăn nhẹ ,  Bánh xèo ,  Nem",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,,"Món Á ,  Món Nhật",no,yes,yes,15.000đ - 25.000,7.2,7.2,6.9,7.2,13
+50,GOLD SUSHI - SUSHI SASHIMI,10.0345684000000,105.7731784000000,"19-19B Mậu Thân, P. Thới Bình, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,07:00 - 22:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+51,Enishi - Nhà Hàng Nhật,10.0450293000000,105.7858850000000,"21 Trần Đại Nghĩa, P. Cái Kế, Quận Ninh Kiều, Cần Thơ",Nhà hàng,"Thịt Bò ,  Lẩu ,  Sushi & Sashimi","11:00 - 14:00
+17:00 - 22:00","11:00 - 14:00
+17:00 - 22:00","11:00 - 14:00
+17:00 - 22:00","11:00 - 14:00
+17:00 - 22:00","11:00 - 14:00
+17:00 - 22:00","11:00 - 14:00
+17:00 - 22:00",,"Món Á ,  Món Nhật",no,yes,yes,38.000đ - 200.000,7.6,7.6,7.4,7.3,39
+52,Mechanic Coffee,10.0433728000000,105.7731582000000,"162/19 Phạm Ngũ Lão, P. An Hòa, Quận Ninh Kiều, Cần Thơ",Café/Dessert,"Café - Kem ,  Sinh tố - Nước ép ,  Ăn vặt - Ăn nhẹ ,  Thức uống",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,,Món Việt,yes,no,yes,10.000đ - 30.000,7.9,7.8,8.0,7.7,89
+53,Takoyaki - Yatai - Võ Thị Sáu,10.0367400000000,105.7850000000000,"17A Võ Thị Sáu, P. An Hội, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Thịt Gà ,  Thịt Bò ,  Bún ,  Thịt Heo ,  Hải sản ,  Mì ,  Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ ,  Thức uống",17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,17:00 - 21:00,,"Món Việt ,  Món Á ,  Món Nhật",no,yes,yes,10.000đ - 50.000,8.3,8.1,8.1,8.3,7
+54,Tiệm Bánh Hoshi - Bánh Bạch Tuộc & Bánh Cá,10.0388800000000,105.7605440000000,"138S Nguyễn Văn Cừ, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Hải sản ,  Sushi & Sashimi ,  Mực ,  Ăn vặt - Ăn nhẹ",15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,15:00 - 22:00,,Món Việt,no,yes,yes,15.000đ - 20.000,1.0,7.0,3.0,2.8,1
+55,Arigato San - Mì Ramen Nhật - Đường D4,10.0016400000000,105.7721900000000,"39 Đường D4, Khu Dân Cư Hồng Loan, P. Hưng Thạnh, Quận Cái Răng, Cần Thơ",Quán ăn,"Bún ,  Mì ,  Sushi & Sashimi","05:30 - 13:00
+16:00 - 21:00","05:30 - 13:00
+16:00 - 21:00","05:30 - 13:00
+16:00 - 21:00","05:30 - 13:00
+16:00 - 21:00","05:30 - 13:00
+16:00 - 21:00","05:30 - 13:00
+16:00 - 21:00",,,no,no,no,59.000đ - 85.000,0.0,0.0,0.0,_._,0
+56,KAZOKU SUSHI CẦN THƠ - KDC Đại Ngân,10.0369000000000,105.7636200000000,"67p28b Hẻm 388j - 388z, KDC Đại Ngân, Đường Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+57,Bánh Bạch Tuộc Takoyaki - Lý Tự Trọng,10.0324230000000,105.7823460000000,"2 Lý Tự Trọng, P. An Lạc, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Bào Ngư ,  Hải sản ,  Mực ,  Ăn vặt - Ăn nhẹ ,  Nem ,  Cá/bò viên",15:30 - 22:00,15:30 - 22:00,15:30 - 22:00,15:30 - 22:00,15:30 - 22:00,15:30 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,10.000đ - 50.000,7.5,7.5,6.9,7.4,33
+58,Takoyaki House - Trần Hưng Đạo,10.0390800000000,105.7761900000000,"70/24 Trần Hưng Đạo, P. An Nghiệp, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Halal",08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,08:00 - 20:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+59,Sushi - Shop Online,10.0299170000000,105.7791680000000,"74/45 Đường 30 Tháng 4, Quận Ninh Kiều, Cần Thơ",Shop Online,,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,10:00 - 17:00,,"Món Á ,  Món Hàn",yes,yes,yes,10.000đ - 30.000,0.0,0.0,0.0,_._,0
+60,Mr. Tôm Shushi & Maki - Đường 30 Tháng 4,10.0163500000000,105.7633300000000,"580 Đường 30 Tháng 4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,10:00 - 22:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+61,Sushi OWA - 87 Trần Việt Châu,10.0483553000000,105.7748819000000,"87 Trần Việt Châu, P. An Hòa, Quận Ninh Kiều, Cần Thơ","Nhà hàng , Giao cơm văn phòng",Sushi & Sashimi,"10:00 - 14:00
+16:30 - 21:30","10:00 - 14:00
+16:30 - 21:30","10:00 - 14:00
+16:30 - 21:30","10:00 - 14:00
+16:30 - 21:30","10:00 - 14:00
+16:30 - 21:30","10:00 - 14:00
+16:53 - 21:30",,"Món Á ,  Quốc tế ,  Món Nhật",yes,yes,yes,,0.0,0.0,0.0,_._,0
+62,Gia Linh - Bánh Bạch Tuộc Chợ Đêm,10.0317218000000,105.7871006000000,"44 - 46 Phan Bội Châu, P. Tân An, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Hải sản ,  Sushi & Sashimi ,  Mực",15:30 - 23:00,15:30 - 23:00,15:30 - 23:00,15:30 - 23:00,15:30 - 23:00,15:30 - 23:00,,Món Việt,no,yes,yes,20.000đ - 30.000,0.0,0.0,0.0,_._,0
+63,C Club Sushi,10.0320844000000,105.7805578000000,"Tầng 1 CClub Tower, 22 Nguyễn Việt Hồng, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,16:00 - 23:00,,"Món Á ,  Món Nhật",no,yes,yes,50.000đ - 200.000,10.0,10.0,10.0,10.0,1
+64,Ruby House Sushi,10.0374110000000,105.7720110000000,"Số 112 Nguyễn Văn Trỗi, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+65,K - Sushi & Sashimi,9.9790652000000,105.7449700000000,"126B Nguyễn Thị Trâm, P. Thường Thạnh, Quận Cái Răng, Cần Thơ",Quán ăn,"Hải sản ,  Cá ,  Nghêu - Sò - Ốc ,  Sushi & Sashimi ,  Mực",09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,09:00 - 20:00,,"Món Á ,  Món Nhật",no,no,no,,0.0,0.0,0.0,_._,0
+66,Sushi Takana - Trần Hoàng Na,10.0168843000000,105.7592759000000,"102/14 Trần Hoàng Na, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,"16:00 - 23:59
+23:59 - 03:00","16:00 - 23:59
+23:59 - 03:00","16:00 - 23:59
+23:59 - 03:00","16:00 - 23:59
+23:59 - 03:00","16:00 - 23:59
+23:59 - 03:00","16:00 - 23:59
+23:59 - 03:00",,,no,no,no,15.000đ - 300.000,0.0,0.0,0.0,_._,0
+67,Orange Salmon - Sushi Cá Hồi Cam,10.0379980000000,105.7840380000000,"17 Xô Viết Nghệ Tĩnh, P. An Cư, Quận Ninh Kiều, Cần Thơ",Quán ăn,Sushi & Sashimi,"11:00 - 14:30
+17:00 - 22:00","11:00 - 14:30
+17:00 - 22:00","11:00 - 14:30
+17:00 - 22:00","11:00 - 14:30
+17:00 - 22:00","11:00 - 14:30
+17:00 - 22:00","11:00 - 14:30
+17:00 - 22:00",,,no,no,no,,0.0,0.0,0.0,_._,0
+68,Trà Sữa & Ăn Vặt Deadline - 233 Nguyễn Văn Cừ,10.0473437000000,105.7697648000000,"233/5 Nguyễn Văn Cừ, Phường An Hòa, Quận Ninh Kiều, Cần Thơ",Café/Dessert,"Sinh tố - Nước ép ,  Thức uống ,  Trà sữa",08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,08:00 - 21:00,,,no,no,no,15.000đ - 50.000,0.0,0.0,0.0,_._,0
+69,Sushi 87,10.0511949221759,105.7884874194860,"Trần Phú, P. Cái Khế, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,16:00 - 22:00,,"Món Á ,  Món Nhật",no,yes,yes,1.000đ - 25.000,7.0,8.0,6.0,7.4,1
+70,Thái Thảo Food - Mì & Gà Sốt Hàn Quốc - Đường 30/4,10.0309287000000,105.7799464000000,"42/76 Đường 30/4, P. Thới Bình, Quận Ninh Kiều, Cần Thơ",Quán ăn,,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,11:00 - 22:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+71,Sushi Tokyo Cần Thơ,10.0460000000000,105.7862300000000,"293F Trần Văn Khéo, P. Cái Khế, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Hải sản ,  Cá ,  Sushi & Sashimi","11:00 - 14:00
+16:30 - 21:30","11:00 - 14:00
+16:30 - 21:30","11:00 - 14:00
+16:30 - 21:30","11:00 - 14:00
+16:30 - 21:30","11:00 - 14:00
+16:30 - 21:30","11:00 - 14:00
+16:30 - 21:30",,,no,no,no,,0.0,0.0,0.0,_._,0
+72,"Yuki No Ouchi - Món Ăn Vị Nhật, Hàn & Trung",10.0433869000000,105.7601110000000,"Hẻm Liên Tổ 12-20, Hẻm 160 Liên Tổ 13-14-15, 160V1/14, Nguyễn Văn Cừ Nối Dài, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Bún ,  Mì ,  Miến ,  Sushi & Sashimi ,  Dimsum",16:30 - 22:30,16:30 - 22:30,16:30 - 22:30,16:30 - 22:30,16:30 - 22:30,16:30 - 22:30,,,no,no,no,10.000đ - 99.000,0.0,0.0,0.0,_._,0
+73,Trà Chanh Teehee - Nguyễn An Ninh,10.0314990000000,105.7841370000000,"126 Nguyễn An Ninh, Quận Ninh Kiều, Cần Thơ",Café/Dessert,"Trà ,  Ăn vặt - Ăn nhẹ ,  Thức uống",13:00 - 22:00,13:00 - 22:00,13:00 - 22:00,13:00 - 22:00,13:00 - 22:00,13:00 - 22:00,,Món Việt,no,no,no,20.000đ - 50.000,7.6,7.3,7.3,7.6,14
+74,Mì Ý Chung Cư - 34 Nguyễn Khuyến,10.0345857000000,105.7833937000000,"34 Nguyễn Khuyến, P. Tân An, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Món nước ,  Mì ,  Sushi & Sashimi ,  Fastfood - Thức ăn nhanh",06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,06:00 - 22:00,,Quốc tế,no,no,no,7.000đ - 50.000,8.0,7.9,7.4,7.8,50
+75,Sushi sugi - Đề Thám,10.0338785000000,105.7825877000000,"29 Đề Thám, P. Tân An, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,,"Món Á ,  Món Nhật",no,yes,yes,5.000đ - 8.000,0.0,0.0,0.0,_._,0
+76,Sushi Sugi,10.0318364000000,105.7873023000000,"40 Phan Bội Châu, P. Tân An, Quận Ninh Kiều, Cần Thơ",Ăn vặt/vỉa hè,"Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ",15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,15:00 - 21:00,,Món Việt,no,yes,yes,5.000đ - 8.000,0.0,0.0,0.0,_._,0
+77,Diễm My - Kimpap & Ăn Vặt,10.0393740000000,105.7847200000000,"56 Hẻm 18 Xô Viết Nghệ Tĩnh, P. An Hội, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Trà ,  Ăn vặt - Ăn nhẹ ,  Thức uống ,  Trà sữa ,  Sữa",09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,09:00 - 21:00,,Món Việt,no,no,no,5.000đ - 25.000,8.7,8.4,7.7,8.4,18
+78,Diễm My - Kimpap & Ăn Vặt - Đường 30/4,10.0182740000000,105.7645290000000,"190/15 Đường 30/4, P. Hưng Lợi, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Ăn vặt - Ăn nhẹ ,  Cá/bò viên",08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,08:00 - 23:00,,,no,no,no,,0.0,0.0,0.0,_._,0
+79,Sushi Sakura - Trần Hưng Đạo,10.0368730000000,105.7763120000000,"103 Trần Hưng Đạo, P. An Phú, Quận Ninh Kiều, Cần Thơ",Nhà hàng,"Thịt Bò ,  Thịt Heo ,  Hải sản ,  Sushi & Sashimi ,  Ăn vặt - Ăn nhẹ","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00",,"Món Á ,  Món Nhật",no,no,yes,15.000đ - 490.000,7.3,7.0,7.2,7.1,80
+80,Sushi Sakura 2 - Shophouse Vincom,10.0254560000000,105.7757820000000,"PG2-08A Vincom Shophouse, 209 Đường 30 Tháng 4, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Nhà hàng,"Lẩu ,  Sushi & Sashimi ,  Salad","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00","11:00 - 14:00
+17:00 - 21:00",,"Món Á ,  Món Nhật",no,no,yes,15.000đ - 490.000,6.0,6.0,7.0,6.8,1
+81,TIỆM CƠM NHẬT HARU DON - NGÔ QUYỀN,10.0347650000000,105.7865433000000,"48Bis Ngô Quyền, P. Tân An, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Cơm",10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,,,no,no,no,,0.0,0.0,0.0,_._,0
+82,TIỆM CƠM NHẬT HARU DON - MẬU THÂN,10.0348236000000,105.7732494000000,"F1 Mậu Thân, P. Xuân Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Cơm",10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,,,no,no,no,,0.0,0.0,0.0,_._,0
+83,TIỆM CƠM NHẬT HARU DON - NGUYỄN TRI PHƯƠNG,10.0420329000000,105.7534401000000,"232 Nguyễn Tri Phương, P. An Khánh, Quận Ninh Kiều, Cần Thơ",Quán ăn,"Sushi & Sashimi ,  Cơm văn phòng ,  Cơm",10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,10:00 - 21:30,,,no,no,no,,0.0,0.0,0.0,_._,0

@@ -1,0 +1,2 @@
+﻿RestaurantID,Restaurant Name,Latitude,Longitude,Address,Type,Cuisines,Style,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Has_Online_delivery,Has_Table_booking,Has_Wifi,Price,Product_quality(10),Serving_quality(10),Interior_design(10),Foody_points(5),Shopee_points(5)
+6,Lẩu YaGaMi,21.314005,105.391117,"200 Tôn Đức Thắng, Huyện Phú Tân, An Giang","Khu Ẩm Thực, ",,"Món Việt, ",09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,09:00 - 22:00,yes,yes,yes,10.000 -200.000,0.0,0.0,0.0,1.5,0.0

@@ -1,0 +1,2 @@
+﻿RestaurantID,Restaurant Name,Latitude,Longitude,Address,Type,Cuisines,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday,Style,Has_Online_delivery,Has_Table_booking,Has_Wifi,Price,Product_quality(10),Serving_quality(10),Interior_design(10),Average_rating(5),Total votes
+1,Phở Thìn 1976 - 288 Thống Nhất Mới,10.3565438,107.0890817,"288 Thống Nhất Mới, P. 8, Tp. Vũng Tàu, Vũng Tàu",Quán ăn,"Phở ,  Bún",07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,07:00 - 20:00,,no,no,no,10.000 - 65.000,0.0,0.0,0.0,4.5,999+

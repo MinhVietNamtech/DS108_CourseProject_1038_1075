@@ -1,0 +1,718 @@
+﻿RestaurantID,Restaurant Name,Latitude,Longitude,Address,Type,Cuisines,Style,Has_Online_delivery,Has_Table_booking,Has_Wifi,Price,Product_quality(10),Serving_quality(10),Interior_design(10),Foody_points(5),Shopee_points(5)
+1,Country House Cafe,10.834277,106.668235,"18C Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -66.000,6.8,6.9,8.4,3.2,0.0
+2,Ròm - Chân Gà Rút Xương Ngâm Sả Tắc - Lê Đức Thọ,10.8518829,106.661455,"1144/28 Lê Đức Thọ, P.15, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,70.000 -220.000,8.7,8.7,8.7,5.0,0.0
+3,Du Miên Garden Cafe - Phan Văn Trị,10.8320309278837,106.6739872097969,"7 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -88.000,6.5,6.4,8.4,3.0,0.0
+4,Lộ Thiên Quán - Nguyễn Oanh,10.8427035,106.6769099,"222 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,30.000 -150.000,9.1,6.7,6.7,4.6,0.0
+5,Bánh Sầu Riêng 9 Sạch - Lê Văn Thọ,10.845333,106.657056,"312 Lê Văn Thọ, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,22.000 -155.000,9.9,9.8,9.8,5.0,0.0
+6,Lòng Nướng Chú Tèo 1,10.8314648,106.6872876,"Hẻm 310 Dương Quảng Hàm, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -110.000,8.3,6.2,6.4,3.0,0.0
+6,Chú Tèo Buffet Nướng 99K - K26 Dương Quảng Hàm,10.8305987,106.6862572999999,"N01 Chung Cư K26 Dương Quảng Hàm, P. 7, Quận Gò Vấp, TP. HCM",,,,no,yes,no,99.000 -119.000,7.1,7.2,7.4,3.0,0.0
+6,Chú Tèo Buffet Nướng 99K - 320 Tân Kỳ Tân Quý,10.801434549006,106.6250962391495,"320 Tân Kỳ Tân Quý, Phường Sơn Kỳ, Quận Tân Phú, TP. HCM",,,,yes,yes,yes,99.000 -119.000,6.4,6.4,6.5,3.0,0.0
+6,Chú Tèo Buffet Nướng 99K - 16A Phạm Văn Đồng,10.8340436167262,106.728390455246,"16A Phạm Văn Đồng, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",,,,no,yes,yes,99.000 -119.000,0.0,0.0,0.0,3.0,0.0
+7,Dallas Cakes & Coffee - Quang Trung,10.826985,106.678863,"6 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -50.000,9.8,9.7,9.5,4.6,0.0
+8,SaiGon Chic Cafe,10.8423547,106.6793556,"82 Đường Số 27, P. 6, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -55.000,7.1,7.5,8.5,3.5,0.0
+9,Pepper Lunch - Phan Huy Ích,10.8417445,106.6373006,"Tầng 3, L3-09 Số 385 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,no,no,yes,200.000 -550.000,8.0,7.1,7.3,3.9,0.0
+10,Yuri Yuri - Ẩm Thực Hàn Quốc,10.8433687,106.648852,"350/1B Nguyễn Văn Khối, P, 9, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -250.000,6.9,6.8,6.8,3.6,0.0
+11,Oasis Cafe,10.8141585,106.6802475,"26/14 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -55.000,0.0,0.0,7.4,2.1,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Nguyễn Văn Trỗi,10.796808,106.673216,"197 Nguyễn Văn Trỗi, P. 10, Quận Phú Nhuận, TP. HCM",,,,no,yes,yes,150.000 -308.000,9.0,9.0,9.0,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Vincom Center,10.77742,106.701987,"Tầng B3 Vincom Center, 72 Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,no,149.000 -250.000,8.3,8.3,8.0,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Phú Mỹ Hưng,10.7229067,106.7102129,"153 Nguyễn Đức Cảnh, P. Tân Phong, Quận 7, TP. HCM",,,,no,yes,yes,149.000 -308.000,7.3,7.2,7.2,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Sư Vạn Hạnh,10.77645,106.666684,"830 Sư Vạn Hạnh, P. 13, Quận 10, TP. HCM",,,,no,yes,yes,149.000 -308.000,8.1,8.0,8.1,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Phan Xích Long,10.797645,106.689584,"145 Phan Xích Long, P. 2, Quận Phú Nhuận, TP. HCM",,,,no,yes,yes,149.000 -308.000,7.2,7.0,7.2,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Pandora City,10.8064,106.634833,"Gian 6A - Tầng 4, Pandora City, 1/1 Trường Chinh, P. Tây Thạnh, Quận Tân Phú, TP. HCM",,,,no,yes,no,149.000 -273.000,7.6,7.4,7.3,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Cộng Hòa,10.800707,106.660224,"Tầng Trệt, 15-17 Cộng Hòa, P. 4, Quận Tân Bình, TP. HCM",,,,no,yes,yes,149.000 -220.000,7.5,7.7,7.4,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Quang Trung,10.8267394,106.6793746,"1 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,179.000 -229.000,9.2,9.1,9.2,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Nguyễn Sơn,10.780695,106.634206,"2 Nguyễn Sơn, P.  Phú Thọ Hòa, Quận Tân Phú, TP. HCM",,,,no,no,yes,150.000 -300.000,8.7,8.7,8.5,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Vincom Thủ Đức,10.8502727,106.765321,"Tầng 3, Vincom Thủ Đức, 216 Võ Văn Ngân, Tp. Thủ Đức, TP. HCM",,,,no,no,no,150.000 -250.000,8.9,8.9,8.6,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - AEON Mall Tân Phú,10.801526,106.617653,"Tầng 3 AEON Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ, Quận Tân Phú, TP. HCM",,,,no,no,no,189.000 -300.000,8.7,8.6,8.4,4.5,0.0
+12,Kichi Kichi Lẩu Băng Chuyền - Pearl Plaza,10.801283,106.708289,"L4 03-04, Pearl Plaza, 561A Điện Biên Phủ, Quận Bình Thạnh, TP. HCM",,,,no,yes,yes,149.000 -220.000,8.0,7.8,8.1,4.5,0.0
+13,Food Court - E Mart Gò Vấp,10.822737,106.693586,"Tầng Trệt E - Mart Gò Vấp, 168 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,5.000 -200.000,7.1,6.3,6.3,3.8,0.0
+14,Gogi House - Nướng Hàn Quốc - Phan Xích Long,10.797722,106.689438,"198 Phan Xích Long, P. 7, Quận Phú Nhuận, TP. HCM",,,,no,yes,yes,65.000 -315.000,8.0,7.4,7.9,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - Vincom Thủ Đức,10.850343,106.765246,"Tầng 3 Vincom Thủ Đức, 216 Võ Văn Ngân, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,79.000 -250.000,7.7,7.4,7.7,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - SC VivoCity,10.730089,106.703522,"Tầng 4 - 12A SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong, Quận 7, TP. HCM",,,,no,no,no,79.000 -250.000,8.6,8.3,8.5,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - Vincom Center,10.777209,106.7017936,"Vincom Center, 72 Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,100.000 -300.000,8.4,8.2,8.1,4.5,0.0
+14,Gogi House - Nướng Hàn Quốc - Vincom Quang Trung,10.829543,106.672132,"B1-04 Vincom Quang Trung, 190 Quang Trung, Quận Gò Vấp, TP. HCM",,,,no,no,yes,100.000 -300.000,9.0,8.8,8.8,4.5,0.0
+14,Gogi House - Quán Thịt Nướng Hàn Quốc - Pearl Plaza,10.799865,106.718459,"Lầu 4 - 02 Pearl Plaza, 561A Điện Biên Phủ, P. 25, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,300.000 -550.000,8.8,8.6,8.8,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - AEON Mall Tân Phú,10.80217,106.618436,"Lô T45 Tầng 3, Aeon Mall Tân Phú, 30 Bờ Bao Tân Thắng, P. Sơn Kỳ, Quận Tân Phú, TP. HCM",,,,no,no,yes,300.000 -550.000,8.8,8.7,8.6,4.5,0.0
+14,Gogi House - Thịt Nướng Hàn Quốc - E-Mart Gò Vấp,10.8227366,106.6935754,"Tầng 1 E Mart Gò Vấp, 168 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,100.000 -500.000,8.9,8.7,8.9,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - Vincom Lê Văn Việt,10.845692,106.779025,"Tầng L4-02 Vincom Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú, Tp. Thủ Đức, TP. HCM",,,,no,yes,yes,300.000 -500.000,8.6,8.4,8.8,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - Lotte Mart Gò Vấp,10.838413,106.670952,"Lotte Mart Gò Vấp, 242 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,300.000 -500.000,9.0,8.8,8.9,4.5,0.0
+14,Gogi House - Quán Nướng Hàn Quốc - Saigon Centre,10.773599,106.700937,"Saigon Centre, 65 Lê Lợi, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,300.000 -500.000,8.6,8.4,8.5,4.5,0.0
+14,GoGi House - Quán Thịt Nướng Hàn Quốc - Aeon Mall Bình Tân,10.742589,106.611458,"Tầng 3, Aeon Mall Bình Tân,1 Đường Số 17A, KP. 11, P. Bình Trị Đông B, Quận Bình Tân, TP. HCM",,,,no,no,yes,150.000 -250.000,8.8,8.5,8.4,4.5,0.0
+15,Pizza Base,10.8444981,106.6681863,"90 Đường Số 9, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,40.000 -100.000,7.8,7.6,7.5,3.6,0.0
+16,Papaxốt - Quang Trung,10.8344128,106.6647571,"458 Quang Trung, Quận Gò Vấp, TP. HCM",,,,no,no,yes,19.000 -89.000,6.9,6.3,6.7,2.7,0.0
+17,Bánh Đúc Nóng Bà Già,10.838573,106.636878,"304 Phan Huy Ích, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,no,8.000 -232.000,7.6,7.2,7.0,3.5,0.0
+18,Bánh Mì Chảo Cô 3 Hậu,10.837782,106.655749,"36 Đường Số 18, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,12.000 -45.000,6.7,0.0,0.0,3.9,0.0
+19,Mì Cay Naga - 224 Phạm Văn Đồng,10.817972,106.68679,"224 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -45.000,6.4,0.0,0.0,2.4,0.0
+19,Mì Cay Naga - Phạm Văn Đồng,10.81769,106.685994,"286 Phạm Văn Đồng, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -30.000,0.0,0.0,0.0,2.4,0.0
+19,Mì Cay Naga - Hàn Thuyên,10.846257,106.770592,"2 Hàn Thuyên, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,25.000 -30.000,0.0,0.0,0.0,2.4,0.0
+19,Mì Cay Naga - Phạm Văn Hai,10.795956,106.6647849999999,"15/10 Phạm Văn Hai, Quận Tân Bình, TP. HCM",,,,no,no,no,20.000 -50.000,7.1,7.0,7.4,2.4,0.0
+19,Mì Cay Naga - Lạc Long Quân,10.771001,106.645215,"353 Lạc Long Quân, P. 5, Quận 11, TP. HCM",,,,no,no,yes,35.000 -65.000,0.0,0.0,0.0,2.4,0.0
+19,Mì Cay NaGa - Nguyễn Cửu Đàm,10.7993227,106.63002,"62 - 64 Nguyễn Cửu Đàm, P. Tân Sơn Nhì, Quận Tân Phú, TP. HCM",,,,no,no,yes,18.000 -48.000,6.0,6.0,6.0,2.4,0.0
+19,Mì Cay Naga - Khánh Hội,10.756376,106.700751,"145 Khánh Hội, P. 3, Quận 4, TP. HCM",,,,no,no,yes,35.000 -55.000,0.0,0.0,6.2,2.4,0.0
+19,Mì Cay Naga - 363 Huỳnh Tấn Phát,10.7384227026008,106.7307893559336,"363 Huỳnh Tấn Phát, Quận 7, TP. HCM",,,,no,no,yes,35.000 -49.000,8.0,8.0,8.0,2.4,0.0
+19,Mì Cay Naga - Linh Xuân,10.8739958936792,106.7651457059905,"11 Quốc Lộ 1K, Tp. Thủ Đức, TP. HCM",,,,no,no,no,25.000 -35.000,0.0,0.0,0.0,2.4,0.0
+19,Mì Cay Naga - Phạm Hữu Tâm,10.9785544,106.4990008,"29 Phạm Hữu Tâm, Huyện Củ Chi, TP. HCM",,,,no,no,no,30.000 -50.000,0.0,0.0,0.0,2.4,0.0
+19,Mì Cay Naga - Cây Trâm,10.8426678,106.6551846,"146 Cây Trâm, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -45.000,6.4,0.0,6.9,2.4,0.0
+20,Gong Cha - Trà & Cà Phê - Nguyễn Huệ - HCM,10.774261,106.703887,"Gian Hàng A, Số 52 - 54 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,yes,40.000 -80.000,7.2,6.5,6.4,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Phú Mỹ Hưng,10.7217,106.712981,"SB-02, 201 Tôn Dật Tiên, P. Tân Phong, Quận 7, TP. HCM",,,,yes,no,yes,40.000 -80.000,6.8,6.2,6.6,3.4,0.0
+20,Trà Sữa Gong Cha - 貢茶 - Phan Xích Long,10.7979271,106.6896557,"240 Phan Xích Long, P. 7, Quận Phú Nhuận, TP. HCM",,,,yes,yes,no,40.000 -80.000,6.7,0.0,6.1,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Nguyễn Đình Chiểu,10.7883998,106.6992664,"70 Nguyễn Đình Chiểu, P. Đa Kao, Quận 1, TP. HCM",,,,no,no,yes,40.000 -80.000,7.1,6.3,6.6,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - An Dương Vương,10.7582476,106.6759459,"498 An Dương Vương, P. 4, Quận 5, TP. HCM",,,,no,no,yes,40.000 -80.000,7.3,6.8,6.4,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Phan Văn Trị,10.824252,106.69121,"507 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,40.000 -80.000,7.1,6.5,6.8,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Nguyễn Sơn,10.780868,106.634209,"7 Nguyễn Sơn, P. Phú Thạnh, Quận Tân Phú, TP. HCM",,,,no,no,yes,40.000 -80.000,6.7,6.4,6.4,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Nguyễn Thái Bình,10.7996652,106.6586734,"59 Nguyễn Thái Bình, P. 4, Quận Tân Bình, TP. HCM",,,,no,no,yes,30.000 -50.000,6.8,6.3,6.2,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Hồ Bán Nguyệt,10.725645,106.72039,"Tòa Nhà Cresent Residence 2 - CR2-05, 107 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",,,,no,no,yes,30.000 -50.000,7.1,6.3,6.8,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Vinhomes Central Park,10.790728,106.72144,"Tòa Central 1, SH04 Vinhomes Central Park, 208 Nguyễn Hữu Cảnh, P. 22, Quận Bình Thạnh, TP. HCM",,,,no,no,yes,40.000 -80.000,7.6,7.2,7.1,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Thủ Đức,10.849685,106.76687,"101 Dân Chủ, P. Bình Thọ, Tp. Thủ Đức, TP. HCM",,,,yes,no,yes,30.000 -50.000,6.3,0.0,6.7,3.4,0.0
+20,Gong Cha - Trà & Cà Phê - Thảo Điền Pearl,10.8013462,106.7335076,"L1-23-L1-24, Tầng 1, Thảo Điền Pearl, 12 Quốc Hương, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",,,,yes,no,yes,40.000 -80.000,7.3,6.9,7.4,3.4,0.0
+21,Lẩu Cua Đất Mũi - Quang Trung,10.8413857,106.6440373,"769 Quang Trung, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,yes,100.000 -200.000,7.9,7.9,8.0,4.8,0.0
+22,Bếp Rùa - Chân Gà Rút Xương Ngâm Sả Tắc - Shop Online - Lê Đức Thọ,10.8521862,106.6621294,"1144/28 Lê Đức Thọ, P. 15, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,65.000 -130.000,9.9,9.9,9.9,4.6,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Trần Hưng Đạo,10.767488,106.6944171,"32 Trần Hưng Đạo, P. Phạm Ngũ Lão, Quận 1, TP. HCM",,,,yes,no,yes,20.000 -55.000,6.7,6.0,6.3,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Sư Vạn Hạnh,10.772253,106.669454,"744 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",,,,no,no,no,30.000 -88.000,6.5,6.1,6.7,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Bình Chánh,10.73489,106.689466,"132 Đường Số 9A, KDC Trung Sơn, X. Bình Hưng, Huyện Bình Chánh, TP. HCM",,,,no,no,yes,30.000 -88.000,7.0,6.6,7.1,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Trần Não,10.7975052,106.7315421,"13B Trần Não, P. Bình An, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,14.000 -55.000,7.2,6.8,6.9,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Nguyễn Thị Thập,10.7390726,106.710057,"390A Nguyễn Thị Thập, P. Tân Quy, Quận 7, TP. HCM",,,,yes,no,no,14.000 -55.000,7.3,6.7,7.1,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Hậu Giang,10.749673,106.647062,"64 Hậu Giang, P. 6, Quận 6, TP. HCM",,,,no,no,no,20.000 -55.000,7.4,7.1,7.5,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Quang Trung,10.837651,106.654696,"804 Quang Trung, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -80.000,6.5,0.0,6.1,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Lũy Bán Bích,10.7764907,106.6338926,"384 Lũy Bán Bích, P. Hòa Thạnh, Quận Tân Phú, TP. HCM",,,,no,no,yes,25.000 -50.000,7.1,6.6,7.1,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Tăng Nhơn Phú,10.8288538,106.7718209,"97B Tăng Nhơn Phú, P. Phước Long B, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,30.000 -80.000,7.4,7.2,7.2,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Lê Văn Sỹ,10.7957812,106.6664681,"238B Lê Văn Sỹ, P. 1, Quận Tân Bình, TP. HCM",,,,no,no,yes,20.000 -30.000,6.6,6.4,7.1,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - Phạm Hùng,10.7413603,106.6690275,"123Bis Phạm Hùng, P. 4, Quận 8, TP. HCM",,,,no,no,yes,20.000 -55.000,7.2,7.0,7.3,3.5,0.0
+23,Trà Sữa Xiên Que Hot & Cold - 393Bis Trần Hưng Đạo,10.7596033,106.6882953,"393Bis Trần Hưng Đạo, P. Cầu Kho, Quận 1, TP. HCM",,,,no,no,yes,2.000 -17.000,8.4,8.4,7.2,3.5,0.0
+24,Trái Cây Tô - Ăn Vặt & Bánh Tráng Chấm,10.832952,106.668373,"45/4 Thông Tây Hội, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,26.000 -32.000,6.8,6.6,6.6,4.4,0.0
+25,King BBQ - Vua Nướng Hàn Quốc - Vincom Quang Trung,10.829549,106.672121,"B1-11 Vincom Quang Trung, 190 Quang Trung, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,50.000 -500.000,7.8,7.9,7.3,4.5,0.0
+26,Deli Food - Bánh Tráng Cuốn Trộn Chấm - Lê Đức Thọ,10.846994,106.6698331,"730/7/5 Lê Đức Thọ, P. 15, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,10.000 -30.000,6.8,6.7,6.5,2.3,0.0
+27,Sweet Sushi - Nhi Sushi,10.8246747,106.6857667,"61 Nguyễn Văn Nghi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -250.000,9.0,9.0,7.7,4.7,0.0
+28,Busan Korean Food - Phan Văn Trị,10.828068,106.685642,"763 - 765 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -150.000,6.6,6.2,6.8,1.4,0.0
+29,Hana BBQ & Hot Pot Buffet - Phan Văn Trị,10.827647,106.6868369999999,"705 - 707 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,200.000 -330.000,6.2,0.0,0.0,2.4,0.0
+30,Lẩu Thái Đế Vương - Food House - Nguyễn Kiệm,10.813384,106.678743,"800 Nguyễn Kiệm, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,30.000 -200.000,6.6,6.2,6.6,1.8,0.0
+31,Làng Vòng - Bún Đậu Mắm Tôm & Bún Chả - Phan Huy Ích,10.83659,106.63583,"236 Phan Huy Ích, P. 12, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,6.000 -69.000,8.6,8.6,8.6,3.8,0.0
+32,Pizza Ore - B,10.843196,106.635741,"006 Lô A Chung Cư Khang Gia, Đường Số 45, P. 14, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,25.000 -300.000,7.9,6.2,6.5,4.2,0.0
+33,Sky Garden - BBQ & Hot Pot - Phan Văn Trị,10.8287273,106.6824415,"823 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,50.000 -594.000,8.0,8.0,7.4,4.5,0.0
+34,TL Sushi & Sashimi - Đường 45,10.8427724,106.6382122,"34 Đường Số 45, P. 14, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,10.000 -200.000,8.9,8.8,8.7,4.4,0.0
+35,Bún Bò Huế Xưa - Phạm Văn Đồng,10.820156,106.691554,"309 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -35.000,7.5,7.5,7.5,4.1,0.0
+36,Tàu Hũ Orisoy - Quang Trung,10.828353,106.674618,"171 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -33.000,6.4,6.6,7.0,3.2,0.0
+37,Thanh Thúy - Ẩm Thực Miền Trung,10.835806,106.6590334,"679 Quang Trung, P.11, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -30.000,6.7,6.1,6.6,3.0,0.0
+38,Bún Chả Cá Nha Trang Hai Lúa - Cây Trâm,10.843738,106.64808,"400 Cây Trâm, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,8.2,7.4,7.8,2.7,0.0
+39,Cánh Đồng Quán - Lẩu Nướng Tại Bàn - Dương Quảng Hàm,10.8324155527134,106.6890880465508,"310/14 Dương Quảng Hàm, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,50.000 -110.000,6.7,0.0,6.5,2.6,0.0
+39,Cánh Đồng Quán - 948A Phạm Văn Đồng,10.813969,106.679406,"948A Phạm Văn Đồng, P. Hiệp Bình Chánh, Quận Gò Vấp, TP. HCM",,,,no,no,yes,50.000 -110.000,0.0,6.8,7.5,2.6,0.0
+39,Cánh Đồng Quán - Lê Văn Việt,10.844819,106.779326,"136/10 Lê Văn Việt, P. Hiệp Phú, Quận 9, TP. HCM",,,,no,no,yes,30.000 -150.000,0.0,0.0,0.0,2.6,0.0
+40,Trà Sữa ToCoToCo - 152 Nguyễn Phúc Nguyên,10.7805192,106.6795025,"152 Nguyễn Phúc Nguyên, P. 10, Quận 3, TP. HCM",,,,no,no,no,28.000 -89.000,6.7,6.7,6.9,2.9,0.0
+40,Trà Sữa ToCoToCo - Nguyễn Tri Phương,10.762822,106.66842,"306 Nguyễn Tri Phương, P. 4, Quận 10, TP. HCM",,,,no,no,yes,28.000 -89.000,6.2,0.0,6.6,2.9,0.0
+40,TocoToco Bubble Tea - Cộng Hòa,10.801243,106.657279,"130 Cộng Hoà, P. 4, Quận Tân Bình, TP. HCM",,,,yes,no,yes,28.000 -59.000,6.0,0.0,6.9,2.9,0.0
+40,Trà Sữa ToCoToCo - 392 Phan Huy Ích,10.84156,106.63841,"392 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -85.000,0.0,0.0,0.0,2.9,0.0
+40,Trà Sữa ToCoToCo - Huỳnh Tấn Phát,10.711749,106.737614,"Tầng 2 Co.op Mart, 1362 Huỳnh Tấn Phát, P. Phú Mỹ, Quận 7, TP. HCM",,,,yes,no,yes,20.000 -85.000,0.0,0.0,6.7,2.9,0.0
+40,Trà Sữa ToCoToCo - Nguyễn Sơn,10.7818654,106.6296483,"91 Nguyễn Sơn, Quận Tân Phú, TP. HCM",,,,yes,no,yes,29.000 -89.000,0.0,0.0,6.5,2.9,0.0
+40,TocoToco Bubble Tea - Co.op Mart Huỳnh Tấn Phát,10.7128775994063,106.7369456961751,"Co.op Mart, 80/4A Huỳnh Tấn Phát, Quận 7, TP. HCM",,,,no,no,yes,30.000 -60.000,0.0,0.0,6.5,2.9,0.0
+40,TocoToco Bubble Tea - Nguyễn Văn Đậu,10.809793,106.6897259,"160A Nguyễn Văn Đậu, P. 7, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,25.000 -70.000,7.6,7.5,7.7,2.9,0.0
+40,Trà Sữa ToCoToCo - Quốc Hương,10.805373,106.731328,"51 Quốc Hương, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,20.000 -85.000,0.0,0.0,0.0,2.9,0.0
+40,TocoToco Bubble Tea - Auchan,10.783949,106.665677,"Siêu Thị Auchan, 11 Trường Sơn, P. 15, Quận 10, TP. HCM",,,,yes,no,yes,35.000 -70.000,0.0,0.0,0.0,2.9,0.0
+41,Mr. Nem - Nem Nướng Nha Trang & Bún Thịt Nướng - Cây Trâm,10.8437633,106.6498526,"400 Cây Trâm, P. 8, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -35.000,7.7,7.7,7.3,2.9,0.0
+41,Mr. Nem - Nem Nướng Nha Trang & Bún Thịt Nướng - Hồ Đắc Di,10.8057317,106.6333189,"31 Hồ Đắc Di, P. Tây Thạnh, Quận Tân Phú, TP. HCM",,,,no,no,yes,20.000 -99.000,6.8,0.0,0.0,2.9,0.0
+41,,,,,,,,yes,yes,yes,,0.0,0.0,0.0,2.9,0.0
+42,Texas Chicken - Phạm Thái Bường,10.7277566,106.7090473,"228 Phạm Thái Bường, Phú Mỹ Hưng, Quận 7, TP. HCM",,,,no,no,no,50.000 -220.000,7.8,7.0,7.3,2.6,0.0
+42,Texas Chicken - Phan Xích Long,10.798036,106.688907,"274 - 276 Phan Xích Long, P. 7, Quận Phú Nhuận, TP. HCM",,,,no,no,yes,50.000 -220.000,7.4,6.7,7.0,2.6,0.0
+42,Texas Chicken - Nguyễn Văn Cừ,10.761847,106.682948,"217B Nguyễn Văn Cừ, Quận 5, TP. HCM",,,,no,no,yes,20.000 -275.000,7.3,6.6,7.2,2.6,0.0
+42,Texas Chicken - Nguyễn Thái Học,10.7675525,106.6955649,"115 Nguyễn Thái Học, Quận 1, TP. HCM",,,,no,no,yes,30.000 -300.000,7.2,6.5,7.0,2.6,0.0
+42,Texas Chicken - Hậu Giang,10.749877,106.643509,"176C-176D Hậu Giang, P. 6, Quận 6, TP. HCM",,,,no,no,no,50.000 -220.000,6.5,6.2,6.6,2.6,0.0
+42,Texas Chicken - Quang Trung,10.8348719,106.6636871,"578 Quang Trung, P.11, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,50.000 -220.000,7.1,6.5,7.1,2.6,0.0
+42,Texas Chicken - Sư Vạn Hạnh,10.7733956,106.6686922,"463 Sư Vạn Hạnh, Quận 10, TP. HCM",,,,yes,no,yes,20.000 -295.000,6.7,0.0,6.7,2.6,0.0
+42,Texas Chicken - Vincom Mega Mall Thảo Điền,10.802116,106.740707,"Tầng 5, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,50.000 -250.000,7.3,6.3,7.2,2.6,0.0
+42,Texas Chicken - Aeon Mall Bình Tân,10.74256,106.611427,"Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông B, Quận Bình Tân, TP. HCM",,,,no,no,yes,50.000 -250.000,6.2,6.1,6.4,2.6,0.0
+42,Texas Chicken - Hoàng Văn Thụ,10.796169,106.656294,"392 - 394 Hoàng Văn Thụ, Quận Tân Bình, TP. HCM",,,,yes,no,yes,40.000 -200.000,6.2,0.0,0.0,2.6,0.0
+42,Texas Chicken - Nguyễn Gia Trí,10.807358,106.716267,"203 Nguyễn Gia Trí (Đường D2), P. 25, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,38.000 -275.000,6.3,0.0,6.1,2.6,0.0
+42,Texas Chicken - Vạn Hạnh Mall,10.770823,106.669862,"16 Vạn Hạnh Mall, 11 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",,,,yes,no,yes,50.000 -250.000,6.2,0.0,6.8,2.6,0.0
+43,Lẩu Dê Bình Dương - Đường Số 1,10.846115,106.660663,"186 Đường Số 1, P. 11, Quận Gò Vấp, TP. HCM",,,,no,yes,no,75.000 -340.000,9.8,9.8,9.7,4.7,0.0
+44,Food Court - AEON Citimart Quang Trung,10.8361142,106.6593288999999,"672 Quang Trung, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -250.000,7.0,7.3,7.3,3.6,0.0
+45,Daruma - Quán Ăn Nhật Bản - Vincom Quang Trung,10.829433,106.671688,"Tầng B1 Vincom Quang Trung, 190 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,no,50.000 -250.000,7.1,6.7,7.2,4.1,0.0
+46,Đông Mập - Trà Sữa & Gà Cay Phô Mai,10.8339033,106.6758218,"164/5 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -50.000,8.1,8.2,7.2,3.1,0.0
+47,Má Mix & Dừa Mix An - Nguyễn Văn Dung,10.850373,106.682701,"Khu Căn Hộ Chung Cư Felix Homes, 44 Nguyễn Văn Dung, Quận Gò Vấp, TP. HCM",,,,no,no,no,,10.0,10.0,10.0,5.0,0.0
+48,Bún Đậu Hoàng Anh,10.83427,106.67951,"40/55 Lê Thị Hồng, KP 12 , P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,17.000 -35.000,7.3,6.5,6.5,2.7,0.0
+49,Cơm Sườn Nướng Chú Danh - Lê Văn Thọ,10.843757,106.657089,"243 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,,10.0,10.0,10.0,5.0,0.0
+50,Sumo BBQ - Phan Xích Long - Buffet Nướng & Lẩu,10.797516,106.689863,"210 Phan Xích Long, P. 2, Quận Phú Nhuận, TP. HCM",,,,no,yes,yes,300.000 -407.000,7.8,7.7,7.6,4.2,0.0
+50,Sumo BBQ - Lê Văn Sỹ - Buffet Nướng & Lẩu,10.796485,106.665391,"300 Lê Văn Sỹ, P. 1, Quận Tân Bình, TP. HCM",,,,no,yes,yes,300.000 -407.000,8.0,7.7,7.9,4.2,0.0
+50,Sumo BBQ - Quang Trung - Buffet Nướng & Lẩu,10.8290085,106.673279,"50 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,300.000 -407.000,7.9,7.5,7.5,4.2,0.0
+50,Sumo BBQ - Cao Thắng - Buffet Nướng & Lẩu,10.770565,106.68113,"59B Cao Thắng, Quận 3, TP. HCM",,,,no,yes,yes,239.000 -378.000,7.6,7.2,7.4,4.2,0.0
+50,Sumo BBQ - SC VivoCity - Buffet Nướng & Lẩu,10.7300774,106.7036149,"Tầng 2 Lô 02 - 39 SC Vivo City, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong, Quận 7, TP. HCM",,,,yes,yes,yes,300.000 -407.000,8.6,8.4,8.5,4.2,0.0
+50,Sumo BBQ - Vincom Mega Mall Thảo Điền - Buffet Nướng & Lẩu,10.802127,106.740699,"Tầng 4, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",,,,no,yes,yes,300.000 -400.000,8.3,8.3,8.3,4.2,0.0
+50,Sumo BBQ - TTTM Đông Phương - Buffet Nướng & Lẩu,10.7897904,106.6402486,"TTTM Đông Phương, 685 Âu Cơ, P. Tân Thành, Quận Tân Phú, TP. HCM",,,,no,yes,yes,300.000 -500.000,8.8,8.5,8.8,4.2,0.0
+50,Sumo BBQ - Aeon Mall Bình Tân - Buffet Nướng & Lẩu,10.742674,106.612107,"Tầng Trệt Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông, Quận Bình Tân, TP. HCM",,,,no,yes,yes,300.000 -450.000,8.6,8.7,8.7,4.2,0.0
+50,Sumo BBQ - Vạn Hạnh Mall - Buffet Nướng & Lẩu,10.770843,106.6699317,"Tầng 5 Vạn Hạnh Mall, 11 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",,,,no,yes,yes,269.000 -389.000,8.5,8.1,8.7,4.2,0.0
+50,Sumo BBQ - Phan Văn Trị - Buffet Nướng & Lẩu,10.822999,106.692762,"439A1 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,300.000 -500.000,6.6,6.6,7.0,4.2,0.0
+50,Sumo BBQ - Gigamall - Buffet Nướng & Lẩu,10.828425,106.721999,"Gian Hàng 05 - 16, 05 - 17, Tầng 5 Giga Mall, 240 - 242 Phạm Văn Đồng, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",,,,no,yes,yes,300.000 -407.000,9.6,9.6,9.6,4.2,0.0
+51,Gà Rán & Burger Lotteria - Trần Hưng Đạo,10.767713,106.695163,"95A Trần Hưng Đạo, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -77.000,6.6,6.2,7.0,2.6,0.0
+51,Lotteria - CoopMart Đinh Tiên Hoàng,10.800306,106.696274,"127 Đinh Tiên Hoàng, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,30.000 -77.000,7.0,6.6,6.4,2.6,0.0
+51,Gà Rán & Burger Lotteria - Khu Phố Mỹ Khánh 4,10.727202,106.708787,"051 Nguyễn Đức Cảnh, Khu Phố Mỹ Khánh 4 - H12-2, P. Tân Hưng, Quận 7, TP. HCM",,,,yes,no,yes,30.000 -77.000,6.7,6.3,7.0,2.6,0.0
+51,Gà Rán & Burger Lotteria - Tô Hiến Thành,10.777768,106.665316,"307A Tô Hiến Thành, Quận 10, TP. HCM",,,,yes,no,yes,30.000 -77.000,6.1,0.0,6.4,2.6,0.0
+51,Gà Rán & Burger Lotteria - Xô Viết Nghệ Tĩnh,10.7986547,106.7111478,"222A Xô Viết Nghệ Tĩnh, P. 21, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,30.000 -77.000,0.0,0.0,0.0,2.6,0.0
+51,Gà Rán & Burger Lotteria - Bình Phú,10.745678,106.630844,"211 - 213 Bình Phú, P. 11, Quận 6, TP. HCM",,,,yes,no,yes,30.000 -110.000,0.0,0.0,6.2,2.6,0.0
+51,Gà Rán & Burger Lotteria - HTV,10.7864535,106.701538,"11Bis Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -77.000,6.2,0.0,6.6,2.6,0.0
+51,Gà Rán & Burger Lotteria - 283 Võ Văn Ngân,10.849892,106.768162,"283 Võ Văn Ngân, P. Linh Chiểu, Tp. Thủ Đức, TP. HCM",,,,yes,no,no,30.000 -77.000,0.0,0.0,0.0,2.6,0.0
+51,Gà Rán & Burger Lotteria - Pandora City,10.8064,106.634833,"Tầng 4 Pandora City, 1/1 Trường Chinh, P. Tây Thạnh, Quận Tân Phú, TP. HCM",,,,no,no,no,35.000 -132.000,0.0,0.0,6.0,2.6,0.0
+51,Gà Rán & Burger Lotteria - Lottemart Nguyễn Hữu Thọ,10.740539,106.701075,"Tầng Trệt, Lotte Mart Nam Sài Gòn, 469 Nguyễn Hữu Thọ, P. Tân Hưng, Quận 7, TP. HCM",,,,no,no,no,18.000 -310.000,6.0,0.0,6.2,2.6,0.0
+51,Lotteria - Crescent Mall,10.728557,106.718345,"Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",,,,yes,no,no,30.000 -77.000,6.8,6.4,7.0,2.6,0.0
+51,Gà Rán & Burger Lotteria - Nguyễn Ánh Thủ,10.855582,106.6072135,"159/6 - 160/1 Nguyễn Ảnh Thủ, X. Trung Chánh, Huyện Hóc Môn, TP. HCM",,,,yes,no,yes,40.000 -132.000,0.0,0.0,0.0,2.6,0.0
+52,Chattea - Trà Chất - Phan Văn Trị,10.830835,106.67856,"624 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,15.000 -30.000,8.6,8.4,7.7,3.6,0.0
+53,Trà Sữa Hiberry - Lê Đức Thọ,10.830285,106.683246,"A0.10 Chung cư Ba Son, Hẻm số 2 Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,15.000 -30.000,7.5,7.5,6.3,2.4,0.0
+54,Trà Sữa Tiên Hưởng Cotcha - Nguyễn Văn Nghi,10.822086,106.688508,"46 Nguyễn Văn Nghi, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,18.000 -50.000,7.1,6.7,8.2,3.3,0.0
+55,Gyu-Kaku Japanese BBQ - Vincom Plaza Gò Vấp,10.827195,106.68839,"Tầng 4, Vincom Plaza Gò Vấp, 12 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,100.000 -500.000,7.1,6.8,7.0,3.6,0.0
+56,Bún Bò Sông Hương - Quang Trung,10.837562,106.654754,"808 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -50.000,7.3,6.4,6.9,2.6,0.0
+57,Titi Quán - Bún Thái & Mì Xào,10.835302,106.644364,"979 Phạm Văn Bạch, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -45.000,9.6,9.4,9.3,4.3,0.0
+58,Quán Bò Hai Châu - Cây Trâm,10.843543,106.650341,"268 Nguyễn Văn Khối (Cây Trâm), P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -220.000,7.0,0.0,6.6,3.0,0.0
+59,Sawadee Milk Tea - Nguyễn Văn Công,10.8164523,106.6775036,"Lô E, 3 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -60.000,8.0,7.8,8.2,3.2,0.0
+60,Starbucks Coffee - New World,10.771117,106.693704,"Góc Phạm Hồng Thái & Nguyễn Thị Nghĩa, 76 Đ. Nguyễn Thị Nghĩa, Quận 1, TP. HCM",,,,no,no,yes,50.000 -220.000,7.2,7.2,7.7,3.7,0.0
+60,Starbucks Coffee - Phan Xích Long,10.797456,106.690001,"214 - 216 Phan Xích Long, Quận Phú Nhuận, TP. HCM",,,,no,no,yes,70.000 -200.000,7.4,7.6,7.8,3.7,0.0
+60,Starbucks Coffee - Panorama,10.7214822,106.7140299,"SN-44 Tòa Nhà Panorama, P. Tân Phong, Quận 7, TP. HCM",,,,yes,no,yes,75.000 -120.000,7.8,7.6,7.8,3.7,0.0
+60,Starbucks Coffee - Mplaza Saigon,10.7843863,106.7023408,"Mplaza Saigon, 39 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,yes,50.000 -200.000,8.3,8.0,8.2,3.7,0.0
+60,Starbucks Coffee - Nguyễn Huệ,10.773097,106.704333,"99 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,yes,100.000 -200.000,7.7,7.9,7.5,3.7,0.0
+60,Starbucks Coffee - Emart,10.822738,106.693572,"Emart, 366 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,35.000 -100.000,7.5,7.4,7.6,3.7,0.0
+60,Starbucks Coffee - Lakai Building,10.753669,106.66965,"98 Nguyễn Tri Phương, Quận 5, TP. HCM",,,,yes,no,yes,60.000 -100.000,7.6,8.0,7.8,3.7,0.0
+60,Starbucks Coffee - Nguyễn Văn Trỗi,10.794915,106.67706,"66 Nguyễn Văn Trỗi, Quận Phú Nhuận, TP. HCM",,,,no,no,yes,80.000 -200.000,7.5,7.3,7.8,3.7,0.0
+60,Starbucks Coffee – The Vista,10.80504,106.751927,"The Vista An Phú, 628C Xa Lộ Hà Nội, P. An Phú, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,50.000 -150.000,7.8,7.6,9.0,3.7,0.0
+60,Starbucks Coffee - Hồng Hà,10.813244,106.665682,"2 Hồng Hà, P. 2, Quận Tân Bình, TP. HCM",,,,no,no,yes,75.000 -150.000,6.9,7.4,7.8,3.7,0.0
+60,Starbucks Coffee - TTTM RomeA,10.777832,106.689589,"Tầng Trệt TTTM RomeA, 117 Nguyễn Đình Chiểu, P. 6, Quận 3, TP. HCM",,,,no,no,yes,50.000 -220.000,7.8,8.2,8.2,3.7,0.0
+60,Starbucks Coffee - Cách Mạng Tháng 8,10.776647,106.6837655,"241Bis Cách Mạng Tháng 8, P. 4, Quận 3, TP. HCM",,,,no,no,yes,40.000 -110.000,7.6,7.2,7.2,3.7,0.0
+61,Lẩu Gà Ớt Hiểm 109 - Phạm Ngũ Lão,10.8214997,106.6827959,"19 Phạm Ngũ Lão, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -200.000,6.4,0.0,6.3,2.5,0.0
+62,Phá Lấu Cô Ba Vân,10.8376369,106.6652617,"228/7 Thống Nhất, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,17.000 -22.000,7.7,7.2,0.0,0.0,0.0
+63,Mì Trộn & Bún Thái A Luan,10.8304606,106.6880038,"282 Dương Quảng Hàm, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -65.000,9.0,9.0,8.9,5.0,0.0
+64,Bò Né Hai Chị Em - Quang Trung,10.833733,106.665707,"460 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -110.000,0.0,0.0,6.4,0.9,0.0
+65,Trà Sữa Tiên Hưởng - Quang Trung,10.8275102,106.6766144,"69 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -61.000,6.6,6.3,6.9,4.5,0.0
+66,Hồng Diên - Bánh Căn & Bánh Xèo,10.8384848,106.6705554,"269 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,7.0,6.2,0.0,3.3,0.0
+67,Gà Ủ Muối Hoa Tiêu - Ăn Vặt LaTin - Lê Thị Hồng,10.833237,106.68021,"32/84 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,,10.0,10.0,9.9,5.0,0.0
+68,Bún Đậu Hùng Cường,10.844397,106.657156,"280 Lê Văn Thọ, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,22.000 -50.000,7.9,7.6,7.6,3.6,0.0
+69,Bún Thịt Nướng Kiều Bảo - Quang Trung,10.837798,106.653412,"850 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,7.8,7.2,7.1,2.8,0.0
+70,Pizza Đà Lạt - Lê Lợi,10.820354,106.686019,"13 Lê Lợi, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -20.000,8.2,8.1,7.3,4.4,0.0
+71,Megustas Cafe,10.83814,106.68024,"197/1 Lê Đức Thọ, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -50.000,7.8,8.0,7.8,4.0,0.0
+72,Lâm Bô Hotpot & Barbecue - Quang Trung,10.826636,106.679137,"1 Quang Trung, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,no,no,50.000 -165.000,6.4,0.0,6.4,3.0,0.0
+73,The Adora - Tiệc Cưới Hội Nghị - Nguyễn Kiệm,10.816087,106.678512,"371 Nguyễn Kiệm, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,no,350.000 -1.100.000,6.5,6.7,7.6,3.3,0.0
+74,Phố Nướng Anh Em - Dương Quảng Hàm,10.830306,106.690071,"258 Dương Quảng Hàm, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -150.000,7.0,6.9,7.7,3.5,0.0
+75,Bánh Bột Lọc Cô Bê,10.828338,106.670821,"327/28/9 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,75.000 -75.000,8.4,7.8,6.0,4.1,0.0
+76,Bánh cuốn Tây Sơn - Ms.Smile Food - Phạm Văn Đồng,10.815928,106.683379,"132 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,25.000 -150.000,6.6,6.2,6.4,4.0,0.0
+76,Bánh cuốn Tây Sơn - Ms.Smile Food - Trương Công Định,10.797458,106.641229,"44 Trương Công Định, P. 14, Quận Tân Bình, TP. HCM",,,,yes,yes,yes,25.000 -150.000,8.8,8.6,8.3,4.0,0.0
+77,Mộc Miên Cafe,10.837921,106.653192,"830 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -55.000,6.8,7.0,7.8,3.3,0.0
+78,A Xìn - Chân Gà Rút Xương Ngâm Sả Tắc - Quang Trung - Shop Online,10.837773,106.644334,"745/182 Quang Trung, P. 12, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,30.000 -100.000,9.9,9.9,9.9,5.0,0.0
+79,Trà Sữa Tam Cốc,10.8297747,106.681858,"543A/3 Lê Đức Thọ, P.17, Quận Gò Vấp, TP. HCM",,,,no,no,no,9.000 -15.000,7.8,7.7,0.0,3.5,0.0
+80,Chè Thái Ý Phương - Quang Trung,10.8361663,106.6587641,"663 Quang Trung, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -45.000,0.0,0.0,0.0,0.9,0.0
+81,The Alley - Trà Sữa Đài Loan - Quang Trung,10.827414,106.677729,"56 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -70.000,7.2,7.0,7.1,4.0,0.0
+82,Thức Coffee - 40D Lý Tự Trọng,10.7769085,106.7001855,"40D Lý Tự Trọng, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,no,20.000 -44.000,6.9,6.8,6.8,2.8,0.0
+82,Thức Coffee - Cống Quỳnh,10.763874,106.690428,"42 Cống Quỳnh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",,,,no,no,yes,20.000 -55.000,6.8,6.7,6.9,2.8,0.0
+82,Thức Coffee - Lý Tự Trọng,10.779306,106.702475,"37/11 Lý Tự Trọng, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,yes,20.000 -45.000,6.8,6.4,6.6,2.8,0.0
+82,Thức Coffee - Nguyễn Thái Sơn,10.82266,106.685715,"320 Nguyễn Thái Sơn, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -55.000,6.3,0.0,7.0,2.8,0.0
+82,Thức Coffee - Nguyễn Oanh,10.828427,106.6788527,"45 Nguyễn Oanh, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,28.000 -65.000,0.0,0.0,6.2,2.8,0.0
+82,Thức Coffee - Đường Số 41,10.7581812,106.700003,"2 Đường Số 41, P. 6, Quận 4, TP. HCM",,,,yes,no,yes,20.000 -44.000,0.0,0.0,7.3,2.8,0.0
+82,Thức Coffee - Gò Dầu,10.7958,106.627115,"65 Gò Dầu, P. Tân Quý, Quận Tân Phú, TP. HCM",,,,no,no,yes,20.000 -44.000,6.3,0.0,6.9,2.8,0.0
+82,Thức Coffee - Hoa Phượng,10.796415,106.687611,"42 Hoa Phượng, P. 2, Quận Phú Nhuận, TP. HCM",,,,no,no,yes,20.000 -40.000,0.0,0.0,6.8,2.8,0.0
+83,Ù Quay - Chân Gà Sả Tắc - Lê Thị Hồng - Shop Online,10.832968,106.678571,"28/25 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,100.000 -100.000,9.3,8.8,8.2,3.9,0.0
+84,Beefsteak Hoàng Gia Quý Tộc,10.8423273,106.6585974,"77 - 79 Đường Số 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,98.000 -230.000,0.0,6.0,6.3,2.7,0.0
+85,Steak Bin & Pizza - Đường Số 8,10.8395123,106.6628525,"47 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -60.000,7.1,6.7,0.0,3.0,0.0
+85,Steak Bin & Pizza - Cây Trâm,10.8454334,106.645486,"475 Cây Trâm, P. 8, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -60.000,6.2,6.5,7.2,3.0,0.0
+85,Steak Bin & Pizza - Phan Huy Ích,10.8357837,106.6353682,"255 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -60.000,9.0,9.0,8.0,3.0,0.0
+86,Hutong - Hotpot Paradise - Quang Trung,10.826575,106.678567,"1 Quang Trung, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,30.000 -350.000,8.1,7.5,8.3,4.1,0.0
+87,Hủ Tiếu Gõ Tiệp - Nguyễn Thái Sơn Gò Vấp,10.8208061,106.6837873,"Hẻm 41 Nguyễn Thái Sơn, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -100.000,9.4,9.1,8.8,4.9,0.0
+88,Rau Má Pha - Phan Văn Trị,10.824246,106.69141,"507 Phan Văn Trị, Quận Gò Vấp, TP. HCM",,,,no,no,yes,16.000 -25.000,7.5,7.2,7.5,3.7,0.0
+89,Bún Mắm Cô Ba - Phan Huy Ích,10.8436858,106.6396877,"451 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -55.000,7.2,6.4,6.6,3.3,0.0
+90,Chip Chip - Trà Sữa Thạch Phô Mai - Lê Đức Thọ,10.832722,106.683096,"40/20 Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -20.000,7.7,7.3,6.3,4.3,0.0
+91,Gần Nhà - Coffee & Tea,10.8194954,106.6888263,"609/29 Lê Quang Định, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,8.000 -28.000,9.6,9.5,9.2,4.8,0.0
+92,FOX Tea - Trà Sữa & Ăn Vặt -  Đường Số 8,10.8439409,106.6619843,"202 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -30.000,0.0,0.0,0.0,1.6,0.0
+93,Trà Sữa & Thức Ăn Nhanh Tombo - Thống Nhất,10.8448566,106.6647704,"447 Thống Nhất, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -55.000,6.5,0.0,6.3,2.3,0.0
+94,Đậu Mía Lá - Sen Dừa - Lê Văn Thọ,10.8375164,106.6581483,"28 Lê Văn Thọ, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -25.000,9.7,9.5,8.8,4.9,0.0
+95,Royaltea Việt Nam - Trà Sữa Hồng Kông - Phan Văn Trị,10.825847,106.690042,"366A18 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,35.000 -60.000,6.1,0.0,6.7,2.1,0.0
+96,Royaltea Việt Nam - 108 Quang Trung,10.8278098,106.6762871,"108 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,35.000 -60.000,6.2,6.3,6.1,3.8,0.0
+97,Manwah Taiwanese Hotpot - Lotte Mart Gò Vấp,10.838124,106.6711,"Tầng 1 Lotte Mart Gò Vấp, 242 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,390.000 -480.000,9.2,9.2,9.3,4.9,0.0
+98,Three O'clock - Coffee & Tea - Phan Văn Trị,10.822765,106.69302,"459 - 461 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -50.000,6.5,0.0,7.0,3.2,0.0
+99,Quán Nướng Ngói Sài Gòn,10.8190903855339,106.6895145177841,"232 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -30.000,6.4,0.0,0.0,2.0,0.0
+100,JERRY COFEE & FAST FOOD,10.8408522,106.6506259,"22/9/15 Đường Số 21, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -25.000,9.8,9.8,9.0,4.1,0.0
+101,Mr. Tôm - Sushi Đường Phố - Lê Văn Thọ,10.8472,106.65706,"364 Lê Văn Thọ, P. 11, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,8.000 -129.000,6.9,0.0,0.0,1.9,0.0
+101,Mr. Tôm - Sushi Đường Phố - Nguyễn Văn Lượng,10.838814,106.665522,"354 Nguyễn Văn Lượng, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,8.000 -130.000,0.0,0.0,0.0,1.9,0.0
+101,Mr. Tôm - Sushi Đường Phố - Man Thiện,10.8500843,106.7939501,"435 Man Thiện, P. Tăng Nhơn Phú A, Tp. Thủ Đức, TP. HCM",,,,no,no,no,8.000 -129.000,7.0,7.2,7.0,1.9,0.0
+102,KOI Thé - Phan Văn Trị,10.8239125,106.6918946,"L6.2 Khu Dân Cư City Land, Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -70.000,7.4,6.7,7.2,3.5,0.0
+103,Chất BBQ - Xiên Nướng Đồng Giá,10.835145,106.675867,"192/2 Nguyễn Oanh, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,5.000 -40.000,6.5,0.0,0.0,3.1,0.0
+104,Family Garden Cafe,10.8287108,106.6839189,"438 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -55.000,0.0,0.0,7.4,2.4,0.0
+105,Trà Sữa Huy's - Quang Trung,10.8414203,106.6441164,"781 Quang Trung, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -48.000,7.5,7.0,6.5,3.6,0.0
+105,Trà Sữa Huy's - Nguyễn Văn Nghi,10.826383,106.682569,"326 Nguyễn Văn Nghi, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,15.000 -48.000,7.4,7.6,6.4,3.6,0.0
+105,Trà Sữa Huy's - Phan Văn Hớn,10.829264,106.616023,"173 Phan Văn Hớn, P. Tân Thới Nhất, Quận 12, TP. HCM",,,,no,no,yes,15.000 -48.000,8.5,9.5,9.0,3.6,0.0
+105,Trà Sữa Huy's - Nguyễn Thái Bình,10.798923,106.655645,"46 Nguyễn Thái Bình, P. 4, Quận Tân Bình, TP. HCM",,,,no,no,yes,15.000 -48.000,6.4,6.3,7.6,3.6,0.0
+105,Trà Sữa Huy's - Xô Viết Nghệ Tĩnh,10.794255,106.708925,"38 Xô Viết Nghệ Tỉnh, P. 19, Quận Bình Thạnh, TP. HCM",,,,no,no,no,20.000 -38.000,7.5,7.2,7.1,3.6,0.0
+105,Trà Sữa Huy's - Lê Văn Lương,10.739479,106.703458,"388 Lê Văn Lương, P. Tân Hưng, Quận 7, TP. HCM",,,,yes,no,yes,20.000 -40.000,8.1,7.9,7.3,3.6,0.0
+105,Trà Sữa Huy's - Đường 3 Tháng 2,10.769241,106.669416,"406 3 Tháng 2, P. 12, Quận 10, TP. HCM",,,,no,no,no,15.000 -48.000,10.0,10.0,10.0,3.6,0.0
+106,Phúc Long Crescent Mall,10.729155,106.718531,"Tầng G Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",,,,no,no,yes,30.000 -50.000,7.4,6.8,7.5,2.8,0.0
+106,Phúc Long 63 Mạc Thị Bưởi,10.77469,106.704369,"63 Mạc Thị Bưởi, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,yes,25.000 -44.000,7.7,6.9,6.1,2.8,0.0
+106,Phúc Long Centre Point,10.79717,106.673325,"Tầng Trệt Center Point, 106 Nguyễn Văn Trỗi, P. 8, Quận Phú Nhuận, TP. HCM",,,,yes,no,no,25.000 -44.000,7.0,6.7,6.7,2.8,0.0
+106,Phúc Long 188 Trần Hưng Đạo,10.7525153,106.6666936,"188 Trần Hưng Đạo, P. 11, Quận 5, TP. HCM",,,,no,no,yes,25.000 -77.000,6.8,6.1,6.5,2.8,0.0
+106,Phúc Long Coffee & Tea - SC VivoCity,10.7296716,106.7031452,"Tầng 1 - 41A - 41B SC VivoCity, 1058 Nguyễn Văn Linh, KP. 1, P. Tân Phong, Quận 7, TP. HCM",,,,no,no,yes,30.000 -100.000,7.8,7.1,7.7,2.8,0.0
+106,Phúc Long Nowzone,10.7640025,106.6826052,"Tầng Trệt - Nowzone, 235 Nguyễn Văn Cừ, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",,,,yes,no,yes,25.000 -77.000,7.3,6.6,7.1,2.8,0.0
+106,Phúc Long Phạm Hồng Thái,10.771489,106.6955685,"42 Phạm Hồng Thái, P. Bến Thành, Quận 1, TP. HCM",,,,yes,no,yes,25.000 -77.000,6.8,6.3,7.0,2.8,0.0
+106,Phúc Long Cộng Hoà,10.800532,106.660613,"1B Cộng Hòa, Quận Tân Bình, TP. HCM",,,,yes,yes,yes,25.000 -77.000,7.1,6.4,7.0,2.8,0.0
+106,Phúc Long AEON Mall Bình Tân,10.7428274,106.6119296,"Tầng 1, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông, Quận Bình Tân, TP. HCM",,,,no,no,yes,30.000 -50.000,6.9,6.8,7.4,2.8,0.0
+106,Phúc Long Lê Văn Sỹ,10.787514,106.678831,"350 Lê Văn Sỹ, P. 14, Quận 3, TP. HCM",,,,no,no,yes,50.000 -200.000,0.0,0.0,0.0,2.8,0.0
+106,Phúc Long Coffee & Tea - TTTM Takashimaya,10.77313,106.700348,"Tầng Hầm 2 - TTTM Takashimaya, 92 - 94 Nam Kỳ Khởi Nghĩa, P. Bến Nghé, Quận 1, TP. HCM",,,,yes,no,yes,25.000 -80.000,7.4,7.1,6.6,2.8,0.0
+106,Phúc Long Nguyễn Thái Học,10.768063,106.695113,"157 - 159 Nguyễn Thái Học, P. Phạm Ngũ Lão, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -80.000,6.8,6.3,6.8,2.8,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Đường D5,10.805811,106.717317,"147 Đường D5, P. 25, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,50.000 -100.000,7.4,7.4,7.0,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Nguyễn Thị Minh Khai,10.785002,106.700159,"19/1 Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",,,,yes,no,no,20.000 -50.000,7.1,7.6,6.4,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Đề Thám,10.7663376,106.6944666,"40 Đề Thám, P. Cầu Ông Lãnh, Quận 1, TP. HCM",,,,no,no,no,20.000 -50.000,0.0,0.0,6.1,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Phan Văn Trị,10.83323,106.67085,"1257 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -50.000,7.5,7.4,6.7,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Thủ Đức,10.84725,106.768431,"22 Đoàn Kết, P. Bình Thọ, Tp. Thủ Đức, TP. HCM",,,,no,yes,yes,20.000 -50.000,6.3,0.0,7.0,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Nguyễn Hồng Đào,10.790783,106.641143,"236 Nguyễn Hồng Đào, P. 13, Quận Tân Bình, TP. HCM",,,,no,no,no,20.000 -50.000,0.0,0.0,0.0,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Nhật Tảo,10.76407,106.66532,"276 Nhật Tảo, P. 8, Quận 10, TP. HCM",,,,no,no,no,20.000 -50.000,0.0,0.0,0.0,2.7,0.0
+107,Bula Bento - Cơm Trưa & Ăn Tối - Dương Quảng Hàm,10.8279473,106.689975,"9 Dương Quảng Hàm, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,50.000 -100.000,0.0,0.0,0.0,2.7,0.0
+108,Trà Sữa Maycha - 38 Trịnh Đình Trọng,10.775344,106.64628,"38 Trịnh Đình Trọng, P. Phú Trung, Quận Tân Phú, TP. HCM",,,,no,no,no,12.000 -34.000,7.0,6.9,6.9,3.3,0.0
+108,Trà Sữa Maycha - Nguyễn Văn Nghi,10.824381,106.686145,"41 Nguyễn Văn Nghi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,yes,12.000 -34.000,7.4,7.1,7.1,3.3,0.0
+108,Trà Sữa Maycha - Nguyễn Thượng Hiền,10.774256,106.683984,"214 Nguyễn Thượng Hiền, P. 4, Quận 3, TP. HCM",,,,no,no,yes,12.000 -34.000,7.4,7.0,7.0,3.3,0.0
+108,Trà Sữa Maycha - Đồng Đen,10.794122,106.644733,"74 Đồng Đen, P. 14, Quận Tân Bình, TP. HCM",,,,yes,no,yes,12.000 -34.000,0.0,0.0,6.2,3.3,0.0
+108,Trà Sữa MayCha - 406 Nguyễn Tri Phương,10.764805,106.667891,"406 Nguyễn Tri Phương, P. 4, Quận 10, TP. HCM",,,,no,no,no,12.000 -34.000,0.0,6.1,6.1,3.3,0.0
+108,Trà Sữa Maycha - Ngô Tất Tố,10.792925,106.711117,"65 Ngô Tất Tố, P. 21, Quận Bình Thạnh, TP. HCM",,,,no,no,no,12.000 -34.000,6.7,6.9,6.7,3.3,0.0
+108,Trà Sữa Maycha - 192 Nguyễn Thị Tú,10.815383,106.590157,"192 Nguyễn Thị Tú, P. Bình Hưng Hòa B, Quận Bình Tân, TP. HCM",,,,yes,no,yes,12.000 -34.000,7.0,8.1,7.1,3.3,0.0
+108,Trà Sữa Maycha - Tôn Đản,10.757361,106.706457,"197 Tôn Đản, P. 15, Quận 4, TP. HCM",,,,yes,no,yes,12.000 -34.000,6.1,6.1,6.3,3.3,0.0
+108,Trà Sữa MayCha - Nguyễn Văn Quá,10.849156,106.636195,"14/1B Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM",,,,yes,no,yes,12.000 -34.000,6.6,6.3,0.0,3.3,0.0
+108,Trà Sữa Maycha - Thạch Lam,10.776417,106.632306,"29 Thạch Lam, P. Phú Thạnh, Quận Tân Phú, TP. HCM",,,,no,no,yes,12.000 -34.000,8.6,8.0,8.2,3.3,0.0
+108,Trà Sữa Maycha - Hậu Giang,10.7496155,106.6466784,"92B Hậu Giang, P. 6, Quận 6, TP. HCM",,,,no,no,no,12.000 -34.000,6.8,6.7,6.7,3.3,0.0
+108,Trà Sữa Maycha - Vạn Kiếp,10.8008133,106.693523,"45 - 47 Vạn Kiếp, P. 3, Quận Bình Thạnh, TP. HCM",,,,no,no,no,12.000 -34.000,7.6,7.3,7.1,3.3,0.0
+109,Cút Vịt Lộn 10 Món,10.828477,106.684482,"775 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,8.000 -16.000,6.6,6.7,0.0,3.7,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - SG Centre",10.773159,106.701094,"Tầng Hầm 2 - 15 TTTM Takashimaya, 92 - 94 Nam Kỳ Khởi Nghĩa, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.7,7.4,7.4,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Mạc Đĩnh Chi",10.785314,106.698575,"39 Mạc Đĩnh Chi, P. Đakao, Quận 1, TP. HCM",,,,yes,yes,yes,9.000 -65.000,7.5,7.1,7.7,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Vincom B3",10.777921,106.701728,"Tầng B3 Vincom Center, 72 Lê Thánh Tôn, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.5,7.0,7.2,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Saigon Trade",10.784362,106.703623,"37 Tôn Đức Thắng, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.5,7.1,7.3,4.1,0.0
+110,Highlands Coffee - SG Tower,10.782763,106.700989,"Saigon Tower, 29 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.6,7.1,6.4,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Diamond",10.7808612,106.6979625,"Diamond Plaza, 34 Lê Duẩn, P. Bến Nghé, Quận 1, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.5,7.3,7.5,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Liberty Phạm Ngũ Lão",10.768652,106.693383,"187 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.1,6.9,7.0,4.1,0.0
+110,Highlands Coffee - Food Court Parkson Hùng Vương,10.756092,106.66222,"Tầng 4, Food Court Parkson Hùng Vương,126 Hùng Vương, P. 12, Quận 5, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.5,7.1,7.1,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Lotte Mart Nam Sài Gòn",10.741003,106.701339,"Tầng Trệt, Lotte Mart Nam Sài Gòn, 469 Nguyễn Hữu Thọ, P. Tân Hưng, Quận 7, TP. HCM",,,,no,no,yes,9.000 -65.000,7.3,6.8,7.5,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - Garden Plaza",10.7222656,106.7125781,"SB-01, Garden Plaza 1, 22 Tôn Dật Tiên, P. Tân Phong, Quận 7, TP. HCM",,,,no,no,yes,30.000 -100.000,7.3,6.7,7.8,4.1,0.0
+110,Highlands Coffee - Parkson Paragon,10.7312,106.720181,"3 Nguyễn Lương Bằng, P. Tân Phú, Quận 7, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.7,7.4,7.5,4.1,0.0
+110,"Highlands Coffee - Trà, Cà Phê & Bánh - The Manor",10.792786,106.717962,"The Manor, 91 Nguyễn Hữu Cảnh, P. 22, Quận Bình Thạnh, TP. HCM",,,,no,yes,yes,9.000 -65.000,7.5,7.1,7.8,4.1,0.0
+111,The Hideout Coffee & Desserts,10.8423383,106.6571799,"190 Lê Văn Thọ, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -55.000,7.8,7.5,8.1,3.4,0.0
+112,Cháo Sườn Cô Giang - Nguyễn Du,10.8273404,106.6859976,"83 Nguyễn Du, P. 7, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -20.000,7.6,7.6,7.0,3.3,0.0
+113,Tokyo Deli Express - Sushi - Phan Văn Trị,10.8238827,106.6922706,"366A3 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,80.000 -200.000,8.8,8.6,7.9,4.7,0.0
+114,Bánh Flan & Bánh Bèo - Chợ Hạnh Thông Tây,10.8364988,106.660364,"Chợ Hạnh Thông Tây, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -25.000,6.8,6.0,6.1,3.3,0.0
+115,Bánh Tráng May - Nguyễn Thái Sơn,10.8229061,106.6849878,"139/12 Nguyễn Thái Sơn, P. 4, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,3.000 -15.000,10.0,10.0,10.0,4.7,0.0
+116,Meo Meo - Bánh Tráng & Ăn Vặt - Nguyễn Thái Sơn,10.8248173,106.687308,"478/3 Nguyễn Thái Sơn, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,,9.9,10.0,9.8,5.0,0.0
+117,Bò Cười Quán,10.830919,106.682358,"39 Lê Đức Thọ, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -149.000,7.7,7.5,6.9,4.1,0.0
+118,Bún Đậu 29 - Phan Huy Ích,10.83456,106.6349,"221/1 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -55.000,7.6,7.8,7.8,2.7,0.0
+119,Món Huế O Hiệp - Shop Online,10.842869,106.638116,"44/9 Đường Số 45, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,25.000 -39.000,7.6,7.1,7.0,3.1,0.0
+120,Lẩu Ếch Sáu Hiếu,10.8312512,106.6685287,"429/9 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -150.000,7.0,0.0,0.0,3.6,0.0
+120,Lẩu Ếch Sáu Hiếu 2,10.8413286222999,106.6473456355993,"49 Đường Số 14, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -150.000,6.4,6.4,6.7,3.6,0.0
+121,Bê Thui Lẩu Bò - Dê Tuấn Râu,10.8463203,106.6439778,"101 Phạm Văn Chiêu, P.  14, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -200.000,9.7,9.5,9.3,4.5,0.0
+122,AZ - Trà Sữa & Chè Khúc Bạch - Thống Nhất,10.847884,106.664562,"539 Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,2.000 -32.000,9.3,9.8,8.3,4.4,0.0
+122,AZ - Trà Sữa & Chè Khúc Bạch - Phan Huy Ích,10.8410007,106.6378669,"383 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,no,no,no,2.000 -32.000,10.0,9.8,9.4,4.4,0.0
+122,AZ - Trà Sữa & Chè Khúc Bạch - Bùi Đình Túy,10.80671,106.70275,"223 Bùi Đình Túy, P. 24, Quận Bình Thạnh, TP. HCM",,,,no,no,no,2.000 -40.000,0.0,8.0,8.0,4.4,0.0
+123,Umbala - Cơm Gà & Spaghetti - Nguyễn Oanh,10.8359965,106.676598,"214/50/6 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -50.000,6.9,6.8,6.7,2.9,0.0
+123,Umbala - Cơm Gà & Spaghetti - Đào Duy Anh,10.805823,106.677369,"19 Đào Duy Anh, P. 9, Quận Phú Nhuận, TP. HCM",,,,no,no,no,25.000 -50.000,0.0,0.0,0.0,2.9,0.0
+124,Royaltea Center Hills - Gò Vấp,10.82934,106.680075,"71 Đường Số 7, KDC Cityland Center Hills, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -60.000,9.3,9.2,9.4,4.7,0.0
+125,The Pizza Company - Nguyễn Thị Minh Khai,10.7659442,106.6821734,"506 - 508 Nguyễn Thị Minh Khai, P. 2, Quận 3, TP. HCM",,,,yes,no,yes,100.000 -250.000,7.6,7.1,7.6,3.5,0.0
+125,The Pizza Company - Lê Đại Hành,10.768887,106.652564,"Lô 4, Khu B, Căn số 7, Chung cư Phú Thọ, Lê Đại Hành, P. 15, Quận 11, TP. HCM",,,,no,yes,yes,100.000 -250.000,7.7,7.0,7.5,3.5,0.0
+125,The Pizza Company - Lê Văn Sỹ,10.787934,106.677434,"333 Lê Văn Sỹ, P. 13, Quận 3, TP. HCM",,,,yes,no,yes,100.000 -250.000,7.2,6.9,7.3,3.5,0.0
+125,The Pizza Company - Nguyễn Thái Học,10.76657,106.695956,"105 - 107 Nguyễn Thái Học, P. Cầu Ông Lãnh, Quận 1, TP. HCM",,,,yes,no,yes,100.000 -250.000,7.6,7.2,7.3,3.5,0.0
+125,The Pizza Company - Phan Xích Long,10.8011938,106.6831597,"355 Phan xích Long, P. 1, Quận Phú Nhuận, TP. HCM",,,,yes,no,yes,100.000 -250.000,7.5,6.9,7.4,3.5,0.0
+125,The Pizza Company - Vincom Mega Mall Thảo Điền,10.8021232,106.7407316,"Tầng 5, Vincom Mega Mall Thảo Điền, 159 Xa Lộ Hà Nội, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",,,,no,yes,yes,50.000 -200.000,7.7,7.2,7.6,3.5,0.0
+125,The Pizza Company - Bàu Cát,10.7919324,106.6439062,"207-209 Bàu Cát, P. 13, Quận Tân Bình, TP. HCM",,,,no,no,yes,100.000 -300.000,7.6,7.6,7.8,3.5,0.0
+125,The Pizza Company - Võ Văn Ngân,10.851214,106.755943,"26 - 28 - 30 Võ Văn Ngân, P. Trường Thọ, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,90.000 -150.000,7.2,6.8,7.2,3.5,0.0
+125,The Pizza Company - Nguyễn Ảnh Thủ,10.8641579,106.6129948,"75/3 - 75/4 Nguyễn Ảnh Thủ, Ấp Vạn Thạnh, Xã Trung Chánh, Huyện Hóc Môn, TP. HCM",,,,yes,yes,yes,50.000 -200.000,7.3,7.4,7.2,3.5,0.0
+125,The Pizza Company - Nguyễn Sơn,10.7839037,106.6228618,"303F Nguyễn Sơn, P. Phú Thạnh, Quận Tân Phú, TP. HCM",,,,yes,no,yes,100.000 -250.000,6.9,7.9,7.5,3.5,0.0
+125,The Pizza Company - Hậu Giang,10.749514,106.645402,"167 Hậu Giang, P. 5, Quận 6, TP. HCM",,,,yes,no,yes,100.000 -250.000,6.8,7.0,7.0,3.5,0.0
+125,The Pizza Company - Tân Sơn Nhì,10.7935139,106.6285298,"456A Tân Sơn Nhì, P. Tân Quý, Quận Tân Phú, TP. HCM",,,,no,no,yes,100.000 -300.000,7.5,7.0,7.9,3.5,0.0
+126,Ăn Vặt Kem Gà - Giao Hàng Tận Nơi - Nguyễn Văn Công,10.8225476,106.6768155,"80/5 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,30.000 -40.000,8.2,8.0,7.6,4.2,0.0
+127,"3 Râu - Gà Rán, Pizza & Mì Ý - Phan Văn Trị",10.830327,106.679997,"558 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -35.000,7.4,7.7,7.4,3.8,0.0
+127,"3 Râu - Gà Rán, Pizza, Trà Sữa & Xiên Que - Quang Trung",10.834088,106.665849,"458/21A Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -35.000,8.2,7.7,7.2,3.8,0.0
+127,"3 Râu - Gà Rán, Pizza & Trà Sữa - Bùi Đình Túy",10.807816,106.703748,"183 Bùi Đình Túy, P. 24, Quận Bình Thạnh, TP. HCM",,,,no,no,no,12.000 -120.000,0.0,0.0,0.0,3.8,0.0
+127,"3 Râu - Gà Rán, Pizza & Mì Ý - Cây Trâm",10.843565,106.64993,"329 Nguyễn Văn Khối (Cây Trâm), P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,12.000 -120.000,8.4,7.3,7.2,3.8,0.0
+128,Yam Coffee And More,10.8361624,106.659895,"656/43 Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,,9.2,9.0,8.9,4.4,0.0
+129,Effoc Cafe - Quang Trung,10.841181,106.644221,"777 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -45.000,6.2,0.0,7.4,3.7,0.0
+130,Bánh Xèo Sammy,10.821905,106.684488,"89 Nguyễn Thái Sơn, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -55.000,8.5,8.0,7.8,4.2,0.0
+131,Lẩu Đồng Quê 2 Thống Nhất - Lẩu - 1398 Lê Đức Thọ,10.8570392,106.6537048,"1398 Lê Đức Thọ, P. 13, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,100.000 -330.000,8.0,6.8,7.6,3.5,0.0
+131,Lẩu Đồng Quê 3 - Lê Đức Thọ,10.845547,106.671699,"198 Lê Đức Thọ, P.15, Quận Gò Vấp, TP. HCM",,,,no,no,no,70.000 -165.000,7.3,6.9,7.1,3.5,0.0
+131,Lẩu Đồng Quê 3 - Đường 13,10.834367,106.685784,"57/2 Đường 13, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -132.000,6.7,6.5,7.0,3.5,0.0
+131,Lẩu Đồng Quê 3B - Đường 11,10.8422277,106.659484,"149 Đường 11, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -132.000,0.0,0.0,8.0,3.5,0.0
+131,Lẩu Đồng Quê - Quang Trung,10.83688,106.6573,"732 - 734 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -150.000,6.2,6.0,6.6,3.5,0.0
+131,Lẩu Đồng Quê 3 - Cây Trâm,10.84342,106.648617,"171/2A Cây Trâm, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -100.000,6.3,0.0,7.9,3.5,0.0
+132,Bún Măng Vịt Hà Nội - Đường Số 8,10.8399179,106.6628674,"104 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,,10.0,10.0,10.0,5.0,0.0
+133,Mì Gà Da Giòn & Bò Né,10.8281847,106.6859552,"452 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -40.000,7.2,6.9,6.7,3.6,0.0
+134,Bảo Lộc - Nướng Ngói - Phạm Văn Đồng,10.8148777,106.6817201,"160 Phạm Văn Đồng, Quận Gò Vấp, TP. HCM",,,,no,no,no,39.000 -140.000,6.4,0.0,6.0,2.4,0.0
+135,Sky Heaven Coffee,10.8283065,106.6777198,"41/29 Nguyễn Oanh, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -50.000,8.1,8.3,8.2,4.5,0.0
+136,Cháo Dinh Dưỡng Panda - Lê Đức Thọ,10.8504307,106.6640773,"1022 Lê Đức Thọ, P. 13, Quận Gò Vấp, TP. HCM",,,,no,no,no,13.000 -35.000,9.6,9.3,9.2,4.9,0.0
+137,Bún Bò Phở Số 7,10.814387,106.680695,"Số 54, Pham Van Dong, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -55.000,10.0,10.0,10.0,5.0,0.0
+138,Ajikoi - Ice Cream & Matcha - Phạm Văn Đồng,10.8189704,106.6890291,"286 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,yes,28.000 -55.000,8.9,9.2,8.5,4.7,0.0
+139,Trà Sữa 2C - 189 Lê Đức Thọ,10.8395222,106.6792204,"189 Lê Đức Thọ, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,no,,10.0,10.0,10.0,5.0,0.0
+140,SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Lê Văn Thọ,10.8475519,106.6568553,"351 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -50.000,6.7,6.8,6.3,2.3,0.0
+140,SaSin - Mì Cay 7 Cấp Độ Hàn Quốc - Nguyễn Oanh,10.848279,106.678504,"511-513 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -400.000,0.0,0.0,6.5,2.3,0.0
+141,Lavida - Trà Sữa & Cà Phê - Nguyễn Oanh,10.840701,106.676187,"223 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -50.000,6.1,0.0,6.9,3.2,0.0
+142,Gà rán và Mì Ý - Jollibee - Trần Hưng Đạo - HCM,10.75635,106.684628,"354 - 356 Trần Hưng Đạo, P. 2, Quận 5, TP. HCM",,,,yes,yes,yes,15.000 -44.000,6.9,6.4,6.8,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Coop Mart Xa Lộ Hà Nội,10.84828,106.774557,"Tầng Trệt Coop Mart, 191 Quang Trung, P. Hiệp Phú, Tp. Thủ Đức, TP. HCM",,,,yes,no,yes,15.000 -50.000,6.9,6.4,6.6,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Pasteur,10.781556,106.694809,"194D Pasteur,  P. 6, Quận 3, TP. HCM",,,,yes,no,yes,15.000 -44.000,6.8,6.6,6.6,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Cộng Hòa,10.800638,106.658953,"Tầng Trệt, Vincom Maximark Cộng Hòa, 15 -17 Cộng Hòa, P. 4, Quận Tân Bình, TP. HCM",,,,yes,no,yes,15.000 -44.000,6.8,6.6,7.0,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Hòa Hảo,10.75995,106.661559,"Tầng 3, Coopmart Lý Thường Kiệt, 497 Hòa Hảo, P. 7, Quận 10, TP. HCM",,,,yes,yes,yes,15.000 -44.000,6.1,0.0,6.0,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Nguyễn Thị Minh Khai,10.774955,106.690558,"Saigon Star Hotel, 204 Nguyễn Thị Minh Khai, Quận 3, TP. HCM",,,,yes,no,yes,20.000 -50.000,7.3,6.9,7.0,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Trường Chinh,10.799071,106.641471,"360 Trường Chinh, Quận Tân Bình, TP. HCM",,,,yes,no,yes,20.000 -120.000,7.2,7.3,7.1,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Phan Văn Trị,10.8271386,106.6892785,"Tầng 4, Vincom Gò Vấp, 12 Phan Văn Trị, Quận Gò Vấp, TP. HCM",,,,no,no,yes,3.000 -100.000,7.3,7.3,7.3,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Lê Văn Việt,10.8455952,106.779036,"Vincom Plaza Lê Văn Việt, 50 Lê Văn Việt, P. Hiệp Phú, Tp. Thủ Đức, TP. HCM",,,,yes,no,yes,20.000 -100.000,6.9,7.5,6.9,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - BigC An Lạc,10.730744,106.603414,"BigC An Lạc, Quốc Lộ 1A, P. Bình Trị Đông, Quận Bình Tân, TP. HCM",,,,no,no,yes,35.000 -200.000,6.2,6.2,6.4,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Âu Cơ,10.785256,106.642101,"650 Âu Cơ, P. 10, Quận Tân Bình, TP. HCM",,,,no,no,yes,40.000 -100.000,7.0,6.6,6.4,3.1,0.0
+142,Gà rán và Mì Ý - Jollibee - Sư Vạn Hạnh,10.7705795,106.6699371,"Tầng Hầm 1 - B3 Vạn Hạnh Mall, 11 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",,,,yes,no,yes,40.000 -100.000,7.2,6.9,7.0,3.1,0.0
+143,Bánh Canh Cá Lóc Cường Đô La - Lê Thị Hồng,10.834281,106.677782,"42 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -66.000,7.3,6.2,6.6,3.3,0.0
+143,Bánh Canh Cá Lóc Cường Đô La - Cityland Center Park Hills,10.829725,106.679256,"128 Đường Số 7, KDC Cityland Center Park Hills, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,37.000 -52.000,0.0,0.0,0.0,3.3,0.0
+144,Gà Rán Popeyes - Phú Mỹ Hưng,10.726562,106.708531,"62 Nguyễn Đức Cảnh, P. Tân Phong, Quận 7, TP. HCM",,,,yes,no,yes,50.000 -165.000,7.2,6.7,7.1,3.4,0.0
+144,Gà Rán Popeyes - Cộng Hòa,10.800762,106.659362,"TTTM Maximark, 15 - 17 Cộng Hòa, P. 4, Quận Tân Bình, TP. HCM",,,,no,no,yes,40.000 -88.000,7.4,7.2,7.4,3.4,0.0
+144,Gà Rán Popeyes - Điện Biên Phủ,10.792798,106.699255,"58/13 Nguyễn Bỉnh Khiêm (Vòng Xoay Nguyễn Bỉnh Khiêm), P. Đa Kao, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -170.000,6.9,6.6,6.9,3.4,0.0
+144,Gà Rán Popeyes - Sân Bay Tân Sơn Nhất,10.814413,106.6659,"Sân Bay Tân Sơn Nhất, Bạch Đằng, Quận Tân Bình, TP. HCM",,,,no,no,yes,30.000 -170.000,6.1,0.0,6.4,3.4,0.0
+144,Gà Rán Popeyes - Thảo Điền,10.80287,106.737841,"20 Thảo Điền, P. Thảo Điền, Tp. Thủ Đức, TP. HCM",,,,no,no,no,40.000 -80.000,7.7,7.3,7.4,3.4,0.0
+144,Gà Rán Popeyes - Nguyễn Gia Trí,10.8032255,106.715578,"67-69 Nguyễn Gia Trí (Đường D2), Quận Bình Thạnh, TP. HCM",,,,no,no,yes,40.000 -88.000,6.8,6.9,6.8,3.4,0.0
+144,Gà Rán Popeyes - Dương Bá Trạc,10.7463277,106.689076,"222 Dương Bá Trạc, P. 2, Quận 8, TP. HCM",,,,no,no,yes,40.000 -88.000,7.9,7.8,7.8,3.4,0.0
+144,Gà Rán Popeyes - Lê Đại Hành,10.767244,106.653331,"397A Lê Đại Hành, P. 11, Quận 11, TP. HCM",,,,no,no,yes,30.000 -170.000,6.9,6.6,6.6,3.4,0.0
+144,Gà Rán Popeyes - Nguyễn Thị Thập,10.739307,106.7069865,"519 Đường Nguyễn Thị Thập, P. Tân Phong, Quận 7, TP. HCM",,,,no,no,yes,30.000 -150.000,6.6,6.5,7.0,3.4,0.0
+144,Gà Rán Popeyes - Tùng Thiện Vương,10.746642,106.660988,"311 Tùng Thiện Vương, Quận 8, TP. HCM",,,,yes,no,yes,40.000 -88.000,6.4,6.3,6.5,3.4,0.0
+144,Gà Rán Popeyes - Lê Đức Thọ,10.834349,106.681639,"121 Lê Đức Thọ, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,40.000 -88.000,6.4,6.0,6.7,3.4,0.0
+144,Gà Rán Popeyes - Nguyễn Văn Luông,10.7535356,106.6347253,"500C Nguyễn Văn Luông, P. 12, Quận 6, TP. HCM",,,,yes,no,yes,30.000 -150.000,6.5,0.0,6.5,3.4,0.0
+145,Small House - Trà & Rau Má Non,10.8411805,106.6811494,"350/54/37 Lê Đức Thọ, P. 6, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -35.000,10.0,10.0,9.9,5.0,0.0
+146,Sài Gòn Givral Bakery - Phan Xích Long,10.797418,106.690609,"244 Phan Xích Long, P. 2, Quận Phú Nhuận, TP. HCM",,,,no,no,no,25.000 -77.000,7.8,6.7,6.9,3.4,0.0
+146,Sài Gòn Givral Bakery - Hai Bà Trưng,10.790104,106.689193,"350 Hai Bà Trưng, P. Tân Định, Quận 1, TP. HCM",,,,no,no,no,25.000 -77.000,7.4,6.5,6.6,3.4,0.0
+146,Sài Gòn Givral Bakery - Hàm Nghi,10.771233,106.702562,"114 Hàm Nghi, P. Bến Nghé, Quận 1, TP. HCM",,,,no,no,no,25.000 -77.000,7.8,7.3,7.4,3.4,0.0
+146,Sài Gòn Givral Bakery - Cao Thắng,10.769458,106.6829663,"40 Cao Thắng, P. 5, Quận 3, TP. HCM",,,,no,no,no,25.000 -77.000,7.6,6.0,6.8,3.4,0.0
+146,Sài Gòn Givral Bakery  - Khánh Hội,10.758838,106.699165,"236 Khánh Hội, P. 6, Quận 4, TP. HCM",,,,no,no,no,25.000 -77.000,7.9,0.0,0.0,3.4,0.0
+146,Sài Gòn Givral Bakery - Sư Vạn Hạnh,10.772983,106.668947,"770E Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",,,,no,no,no,25.000 -77.000,7.5,6.1,6.6,3.4,0.0
+146,Sài Gòn Givral Bakery - Nguyễn Văn Trỗi,10.796301,106.674022,"98 Nguyễn Văn Trỗi, P. 8, Quận Phú Nhuận, TP. HCM",,,,no,no,no,25.000 -77.000,8.0,6.9,7.0,3.4,0.0
+146,Sài Gòn Givral Bakery - Xô Viết Nghệ Tĩnh,10.79834,106.711026,"208 Xô Viết Nghệ Tĩnh, P. 21, Quận Bình Thạnh, TP. HCM",,,,no,no,no,1.000 -77.000,7.8,6.3,6.0,3.4,0.0
+146,Sài Gòn Givral Bakery - Quang Trung,10.827605,106.67671,"77 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -77.000,8.2,7.0,7.4,3.4,0.0
+146,Sài Gòn Givral Bakery - Hậu Giang,10.749678,106.641911,"281A Hậu Giang, P. 5, Quận 6, TP. HCM",,,,no,no,no,25.000 -77.000,7.9,6.3,7.0,3.4,0.0
+146,Sài Gòn Givral Bakery - Hòa Bình,10.771317,106.628891,"218 Hòa Bình, P. Hiệp Tân, Quận Tân Phú, TP. HCM",,,,no,no,no,25.000 -77.000,7.3,0.0,7.5,3.4,0.0
+146,Sài Gòn Givral Bakery - Tân Sơn Nhì,10.802129,106.634272,"79 Tân Sơn Nhì, P. Tân Sơn Nhì, Quận Tân Phú, TP. HCM",,,,no,no,no,25.000 -77.000,6.6,0.0,0.0,3.4,0.0
+147,Bắp Bò Phương,10.828099,106.679784,"46 Đường Số 1, KDC CityLand, Quận Gò Vấp, TP. HCM",,,,no,no,no,27.000 -40.000,0.0,0.0,0.0,1.2,0.0
+148,Thế Giới Steak - Phan Văn Trị,10.8239359,106.6917897,"493 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -80.000,7.3,7.0,7.3,3.9,0.0
+149,Kem Xôi Dừa - Nguyễn Văn Nghi,10.825782,106.6841179,"290 Nguyễn Văn Nghi, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,18.000 -120.000,0.0,0.0,0.0,0.6,0.0
+150,Gà Nướng Lu Việt Hương - Lê Quang Định,10.815139,106.68916,"449A3 Lê Quang Định, P. 5, Quận Bình Thạnh, TP. HCM",,,,no,no,no,90.000 -150.000,7.7,7.1,7.1,2.4,0.0
+150,Gà Nướng Lu Việt Hương - Phạm Văn Đồng,10.814156,106.679665,"20 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,no,25.000 -230.000,7.0,6.4,6.8,2.4,0.0
+151,Ghiền Sữa Chua Nếp Cẩm 39,10.834108,106.6682455,"1351/1/5 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,no,22.000 -35.000,7.6,7.7,7.4,3.4,0.0
+152,Bột Chiên A Bình - Đường Số 18,10.8390948,106.6564955,"28 Đường Số 18, P. 8, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -15.000,8.4,8.1,7.1,4.3,0.0
+153,Tiệm Súp Giấu Tên,10.8165401,106.6872984,"61/13 Nguyễn Bỉnh Khiêm, P. 1, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -35.000,8.2,7.3,6.4,3.2,0.0
+154,MNS ICE SNOW - Đá Bào Mật Trái Cây Rừng - Quang Trung,10.8426261882579,106.6427937354735,"69D Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -15.000,8.6,8.0,6.6,4.4,0.0
+154,MNS ICE SNOW - Đá Bào Mật Trái Cây Rừng - Nguyễn Thị Thập,10.7390556,106.7087878,"347 Nguyễn Thị Thập, Quận 7, TP. HCM",,,,no,yes,yes,15.000 -45.000,8.3,7.8,7.0,4.4,0.0
+155,Royaltea Vietnam - Lotte Mart Gò Vấp,10.8381944,106.6707505,"Tầng Trệt Lotte Mart Gò Vấp, 242 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,38.000 -54.000,6.2,6.1,7.0,1.8,0.0
+156,Dì Ba - Nem Nướng Nha Trang,10.824648,106.68718,"354/3 Nguyễn Thái Sơn, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -40.000,7.7,7.7,7.3,2.9,0.0
+157,Bánh Flan Tây Ban Nha,10.846124,106.660629,"119 Đường Số 1, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -30.000,8.5,7.4,6.8,4.3,0.0
+158,Cremista - Kem Cuộn Thái Lan,10.847986,106.667805,"621 Lê Đức Thọ,P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -25.000,7.0,7.0,0.0,3.9,0.0
+159,Bích Liên - Ẩm Thực Huế,10.8378741,106.6464123,"759 Tân Sơn, P. 12, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -77.000,7.1,6.4,0.0,2.4,0.0
+160,Bánh Bèo Chén,10.8404608932727,106.659242809082,"107/39 Đường Số 11, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,4.000 -15.000,7.0,7.1,6.4,3.6,0.0
+161,Moda House Coffee,10.8282268,106.6783297,"11 Nguyễn Oanh, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -40.000,8.4,8.7,8.6,4.0,0.0
+162,Taste Tea - Nguyễn Oanh,10.8313058,106.6774219,"89 Nguyễn Oanh, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,35.000 -54.000,7.0,7.2,8.0,4.1,0.0
+163,"Ka’s - Mì Trộn Indomie, Xiên Que & Lẩu Ly",10.8444188,106.6820819,"179 Đường Số 28, P. 6, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,10.0,10.0,10.0,5.0,0.0
+164,OLA Ngon Nha - Trà & Trà Sữa - Dương Quảng Hàm,10.826817,106.697941,"80/101 Dương Quảng Hàm, P. 5, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,6.000 -29.000,9.4,9.3,8.9,4.7,0.0
+165,Mizu - Trà Kiểu Nhật,10.821367,106.687066,"33 Nguyễn Văn Bảo, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -30.000,0.0,0.0,6.8,3.1,0.0
+166,Uncle Tea - Trà Đài Loan - Lê Lợi,10.820501,106.686845,"60 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -60.000,0.0,0.0,0.0,1.8,0.0
+167,Dinosaur Hotpot & Sushi,10.8299187,106.6817536,"543/13 Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,8.000 -370.000,8.5,8.6,7.6,3.9,0.0
+168,Mẹt Quán - Ẩm Thực Tây Bắc,10.8323639,106.6732305,"1117 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,29.000 -790.000,7.5,7.3,7.5,3.9,0.0
+169,Canh Bún Thái Sơn,10.82603,106.689037,"269 Nguyễn Thái Sơn, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,24.000 -30.000,6.4,6.4,6.3,2.3,0.0
+170,Sushi Street - Sushi Đường Phố,10.829839,106.680856,"913 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,9.000 -348.000,6.6,6.3,6.9,3.2,0.0
+171,Uyên Phương - Bánh Canh & Chả Cuốn,10.8416312,106.6770446,"24 Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,3.000 -25.000,7.9,7.6,7.4,3.9,0.0
+172,TonyTony Chopper - Lẩu & Mì Cay,10.826934,106.690049,"482 Nguyễn Thái Sơn, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,16.000 -299.000,7.9,7.8,7.5,4.3,0.0
+173,Quán Hân - Mì Xào Bò & Nui Xào Bò - Phạm Ngũ Lão,10.826097,106.6803518,"248/10 Phạm Ngũ Lão, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,5.000 -60.000,10.0,10.0,10.0,5.0,0.0
+174,Ốc Hoàng - Lê Thị Hồng,10.834425,106.678663,"40/40 Lê Thị Hồng, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,20.000 -35.000,7.1,6.6,6.1,2.9,0.0
+174,Ốc Hoàng - 11 Lê Thị Hồng,10.832084,106.677729,"11 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,30.000 -50.000,8.3,6.7,6.3,2.9,0.0
+175,Nhi Bún Thái - Lê Đức Thọ,10.8396411,106.6795503,"296 Lê Đức Thọ, P. 6, Quận Gò Vấp, TP. HCM",,,,yes,yes,no,20.000 -40.000,6.3,6.4,0.0,2.9,0.0
+176,Phá Lấu Bò Cây Trâm - Nguyễn Văn Khối,10.8429748,106.6533299,"208 Nguyễn Văn Khối, P. 9, Quận Gò Vấp, TP. HCM",,,,yes,no,no,16.000 -25.000,8.1,7.2,6.5,4.5,0.0
+177,Bean Plus Coffee & Tea,10.8230682,106.6919621,"465/7 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,22.000 -39.000,7.7,7.6,8.3,3.7,0.0
+178,Xôi Ngon - Thống Nhất,10.8369853,106.6651079,"230/11 Thống Nhất, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,15.000 -65.000,7.5,7.6,7.6,2.6,0.0
+179,Gành Ốc Quán,10.845665,106.662298,"68 Đường Số 1, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -35.000,8.7,7.9,7.8,4.1,0.0
+180,Bánh Khọt Vũng Tàu - Nguyễn Văn Khối,10.842145,106.658853,"78/62 Nguyễn Văn Khối, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -33.000,7.7,7.0,6.5,4.3,0.0
+181,NGÕ PHỐ CAFE - Cafe & Trà - Lê Thị Hồng,10.8332787,106.6800917,"3287 Hẻm 32 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,,9.6,9.5,9.4,4.7,0.0
+182,Xiên Nướng Pé Mập,10.832225,106.6862,"256/6 Dương Quảng Hàm, P. 5, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,5.000 -10.000,6.5,0.0,0.0,2.5,0.0
+183,"Phá Lấu Bò, Bún Thái & Bò Bía - Thùy Dương",10.8226265,106.68106,"52 Đường Số 1, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -30.000,0.0,0.0,0.0,1.7,0.0
+184,Youth House Coffee - Nguyễn Văn Nghi,10.821576,106.68851,"29 Nguyễn Văn Nghi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,yes,12.000 -35.000,6.6,6.9,7.5,3.7,0.0
+185,Racing Beer Club - RBC,10.826305,106.6796708,"1 Quang Trung, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,50.000 -250.000,0.0,6.2,7.0,3.0,0.0
+186,Gỏi Đu Đủ Thái - Cậu Hai - Phạm Văn Bạch,10.835342,106.644437,"678 Phạm Văn Bạch, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,no,19.000 -59.000,10.0,10.0,9.9,4.8,0.0
+187,Meem Meem - Chân Vịt Cay Singapore,10.844999,106.65955,"227/7 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -400.000,9.0,8.7,8.2,4.0,0.0
+188,Tào Lao Quán - Cà Phê & Ăn Vặt,10.834108,106.6703155,"5 Đường Số 3, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,no,10.000 -30.000,9.3,9.8,9.4,4.8,0.0
+189,Sentosa Food - Cháo Ếch Singapore - Phan Văn Trị,10.8300865,106.6801555,"544 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,40.000 -40.000,6.6,0.0,6.1,2.4,0.0
+190,"Thanh Xuân - Ăn Vặt, Bánh Tráng Trộn & Bánh Bột Lọc - Lê Thị Hồng",10.832925,106.678725,"28/25 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,30.000 -30.000,9.6,9.1,8.6,4.8,0.0
+191,Mì Vịt Tiềm A Cón - Quang Trung,10.834256,106.664749,"557 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,40.000 -80.000,6.4,0.0,0.0,2.0,0.0
+192,Gyu Shige - Ngưu Phồn - Nướng Nhật Bản - Phan Văn Trị,10.822976,106.692776,"463 Phan Văn Trị, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,150.000 -400.000,7.5,7.1,7.7,2.7,0.0
+193,,,,,,,,yes,yes,yes,,0.0,0.0,0.0,0.0,0.0
+194,Tài Vượng Quán 1 - Lẩu & Nướng - Phạm Văn Đồng,10.814903,106.680337,"302 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,40.000 -200.000,7.3,7.3,7.0,4.5,0.0
+194,Tài Vượng Quán 2 - Lẩu & Nướng - Phạm Văn Đồng,10.8199046,106.690876,"35 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,35.000 -150.000,8.0,7.5,8.2,4.5,0.0
+195,Agechan Restaurant - Cơm & Món Ăn Nhật,10.81636,106.67894,"814 Nguyễn Kiệm, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,no,20.000 -60.000,9.1,9.2,8.5,4.4,0.0
+196,Chuti Korean Food - Phan Văn Trị,10.823249,106.69247,"477 Phan Văn Trị, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,30.000 -90.000,8.0,8.3,7.2,3.7,0.0
+197,Hủ Tiếu Mực Ông Già Cali - Phạm Văn Đồng,10.818973,106.688757,"288 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,yes,35.000 -59.000,7.0,6.3,7.1,2.5,0.0
+198,Ong Nâu Spaghetti - Lê Quang Định,10.817844,106.689111,"511 Lê Quang Định, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -50.000,7.5,7.0,7.2,3.3,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Kha Vạn Cân,10.853069,106.754603,"743 - 745 Kha Vạn Cân, P. Linh Tây, Tp. Thủ Đức, TP. HCM",,,,yes,no,no,18.000 -28.000,7.1,6.7,6.7,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Tô Ngọc Vân,10.8532563,106.751779,"124 - 132 Tô Ngọc Vân, P. Linh Tây, Tp. Thủ Đức, TP. HCM",,,,yes,yes,no,20.000 -50.000,6.4,0.0,6.7,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Lê Văn Việt,10.8489029,106.7755618,"31 - 33 Lê Văn Việt, P. Hiệp Phú, Tp. Thủ Đức, TP. HCM",,,,yes,no,no,20.000 -50.000,6.8,6.2,6.7,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Đỗ Xuân Hợp,10.8288896,106.7686292,"139 Đỗ Xuân Hợp, P. Phước Long B, Tp. Thủ Đức, TP. HCM",,,,no,no,no,25.000 -50.000,6.7,6.0,7.2,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Nguyễn Duy Trinh,10.787522,106.765501,"256 Nguyễn Duy Trinh, P. Bình Trưng Tây, Tp. Thủ Đức, TP. HCM",,,,yes,no,no,7.000 -37.000,6.2,0.0,6.8,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - 590 Quang Trung,10.8359113,106.661762,"590 - 592 Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,29.000 -55.000,6.8,6.5,7.0,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Phan Văn Trị,10.825187,106.69035,"539 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,no,29.000 -129.000,6.2,6.2,6.7,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Bàu Cát,10.792156,106.642906,"130 Bàu Cát, P. 14, Quận Tân Bình, TP. HCM",,,,no,no,no,29.000 -129.000,6.8,6.7,6.9,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Ung Văn Khiêm,10.807749,106.715806,"64 Ung Văn Khiêm, P. 25, Quận Bình Thạnh, TP. HCM",,,,no,no,yes,29.000 -129.000,6.9,6.4,6.9,3.6,0.0
+199,,,,,,,,yes,yes,yes,,0.0,0.0,0.0,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Nguyễn Thị Thập,10.738154,106.717813,"223 Nguyễn Thị Thập, P. Tân Phú, Quận 7, TP. HCM",,,,no,no,yes,32.000 -139.000,6.9,6.9,7.4,3.6,0.0
+199,Cơm Tấm Phúc Lộc Thọ - Tô Ký,10.867327,106.615545,"12/6 Tô Ký, P. Tân Chánh Hiệp, Quận 12, TP. HCM",,,,no,no,yes,32.000 -139.000,6.4,6.3,6.5,3.6,0.0
+200,Steak Viet - Phan Văn Trị,10.8306189,106.6785094,"610 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -100.000,6.1,6.4,6.5,2.6,0.0
+201,Ông Phương - Tiệm Nước Sâm - Phạm Ngũ Lão,10.825963,106.680509,"1A Phạm Ngũ Lão, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -20.000,9.7,9.5,8.8,4.8,0.0
+202,Chewy Chewy - Thống Nhất,10.8453274,106.6648653,"446 Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -60.000,6.6,6.7,6.5,2.6,0.0
+203,Ăn Vặt Công Viên Bến Hải,10.825717,106.694224,"112 Dương Quảng Hàm, P. 5 (Đầu Công Viên Bến Hải), Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,5.000 -20.000,9.8,9.5,8.9,4.8,0.0
+204,I Love Kem - Lê Văn Sỹ,10.7966077,106.665078,"355 Lê Văn Sỹ, P. 1, Quận Tân Bình, TP. HCM",,,,no,no,yes,15.000 -50.000,7.0,7.0,7.6,4.0,0.0
+204,I Love Kem - Phạm Văn Đồng,10.815739,106.68299,"124 Phạm Văn Đồng, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -50.000,6.5,6.6,6.8,4.0,0.0
+204,I Love Kem - Nguyễn Thị Thập,10.739991,106.70397,"518 Nguyễn Thị Thập, P. Tân Quy, Quận 7, TP. HCM",,,,no,no,yes,15.000 -60.000,7.2,7.2,7.7,4.0,0.0
+204,I Love Kem - 257 Thống Nhất,10.8385448,106.6649941,"257 Thống Nhất, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,27.000 -80.000,6.9,6.9,7.8,4.0,0.0
+204,I Love Kem - Lê Hồng Phong,10.761363,106.676788,"260 Lê Hồng Phong, P. 4, Quận 5, TP. HCM",,,,no,no,yes,30.000 -50.000,7.2,6.8,7.1,4.0,0.0
+204,I Love Kem - Lũy Bán Bích,10.7890368,106.6372322,"654 Lũy Bán Bích, P. Tân Thành, Quận Tân Phú, TP. HCM",,,,no,no,yes,30.000 -50.000,6.9,7.2,6.0,4.0,0.0
+204,,,,,,,,yes,yes,yes,,0.0,0.0,0.0,4.0,0.0
+204,I Love Kem - Thống Nhất Thủ Đức,10.842799,106.768188,"23 Thống Nhất, P. Bình Thọ, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,20.000 -55.000,7.6,7.9,7.3,4.0,0.0
+204,I Love Kem - Nguyễn Ảnh Thủ,10.8788741,106.6374699,"53 Nguyễn Ảnh Thủ, P. Hiệp Thành, Quận 12, TP. HCM",,,,no,no,yes,30.000 -60.000,9.0,9.3,9.5,4.0,0.0
+204,I Love Kem - Đinh Tiên Hoàng,10.792031,106.695812,"207 Đinh Tiên Hoàng, P. Tân Định, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -60.000,7.6,7.6,6.8,4.0,0.0
+205,Kem Cuộn Mập Mập - Phạm Văn Đồng,10.8204392629413,106.6934734582901,"343 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,18.000 -25.000,8.1,8.2,7.3,4.1,0.0
+206,Hanuri - Quán Ăn Hàn Quốc - Phan Văn Trị,10.829772,106.681175,"530 - 532 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -110.000,7.8,7.3,7.2,4.0,0.0
+207,Buffet Haha,10.8386874,106.668171,"292 Nguyễn Văn Lượng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,100.000 -400.000,6.3,6.5,7.1,3.3,0.0
+208,Sữa Chua Nếp Cẩm Minh Hà,10.8324751,106.6801584,"57 Phạm Huy Thông, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,8.000 -25.000,7.9,7.4,7.2,4.1,0.0
+209,Bánh Mì T - Nguyễn Tiểu La,10.811553,106.682627,"5/40/7 Trương Đăng Quế, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,5.000 -290.000,8.0,7.9,7.9,3.3,0.0
+210,Bánh Canh Mì Cô Túc,10.834518,106.681026,"125/46A Lê Đức Thọ, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -25.000,7.7,6.8,7.4,3.8,0.0
+211,Mì Cay Hara,10.821241,106.688665,"11 Nguyễn Văn Nghi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -70.000,0.0,0.0,0.0,2.3,0.0
+212,Food House Restaurant,10.8340857671332,106.6698324680328,"18B Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,50.000 -200.000,0.0,0.0,6.7,3.0,0.0
+213,Phố Nướng Tư Trì - Lê Văn Thọ,10.852019,106.655972,"499 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,100.000 -220.000,7.8,6.3,7.0,3.5,0.0
+214,Hana - Mì Cay 7 Cấp Độ Hàn Quốc - Quang Trung,10.8428223,106.6421383,"751 Quang Trung, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -39.000,0.0,6.3,6.9,3.4,0.0
+215,Mì Nhật Tano Q,10.84191,106.660297,"77 - 79 Đường Số 11, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -85.000,7.5,7.1,7.6,3.8,0.0
+216,Món Ngon Quy Nhơn,10.819418,106.685597,"109/1 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -55.000,7.1,6.2,6.3,2.7,0.0
+217,Trà Sữa Bubble Fly - 23 Lê Lợi,10.820499,106.68591,"23 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -30.000,6.1,6.1,6.4,2.4,0.0
+218,Hủ Tíu Mì 217,10.826309,106.681563,"217 Nguyễn Văn Nghi, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -30.000,7.4,7.4,7.1,3.7,0.0
+219,Bún Chả & Bún Đậu Bà Hiền - 206 Nguyễn Oanh,10.8356038,106.675664,"206 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -48.000,6.8,6.6,6.6,4.0,0.0
+220,Cháo Ếch Singapore 86 - Lê Văn Thọ,10.850035,106.656288,"491 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,19.000 -59.000,9.4,9.3,9.3,4.5,0.0
+221,Bún Đậu 426 - Cây Trâm,10.8453477,106.6455094,"395 Cây Trâm, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -60.000,6.6,0.0,6.1,2.6,0.0
+222,Kem Xôi Dừa Bu Bu - Phan Văn Trị,10.8306244,106.6785943,"622 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -20.000,0.0,0.0,0.0,1.6,0.0
+223,Xôi Bình Tiên - Nguyễn Văn Nghi,10.825344,106.685144,"254 Nguyễn Văn Nghi, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -15.000,8.5,7.4,6.6,3.8,0.0
+224,Tuệ Mẫn Cafe - Êm Đềm Một Không Gian,10.8436843,106.6484936,"452 Cây Trâm, P.9, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,20.000 -55.000,6.7,6.7,7.6,2.8,0.0
+225,"Ajikoi By Tea, Coffee & Cream - Phan Văn Trị",10.8242664,106.6912971,"507 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,28.000 -55.000,8.3,8.4,8.5,4.3,0.0
+226,Pizza Pan,10.8451317,106.6462693,"446 Cây Trâm, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -177.000,7.8,7.6,6.7,3.9,0.0
+227,Tiệm Trà Bà Xã - Nguyễn Kiệm,10.8199058,106.6787684,"849 Nguyễn Kiệm, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,9.6,9.6,9.7,4.8,0.0
+228,Trà Sữa Wozzi,10.82434,106.68616,"Đối Diện 214 Nguyễn Văn Nghi, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,6.3,0.0,0.0,2.5,0.0
+229,Obi Cafe,10.8431078,106.6404962,"5 Nguyễn Duy Cung, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -40.000,6.6,6.2,7.7,3.3,0.0
+230,Xôi Ghẹ Cái Bang 1986 - Lê Văn Thọ,10.843703,106.65712,"Số 239, Đường Lê Văn Thọ, Quận Gò Vấp, TP. HCM",,,,no,no,no,,10.0,10.0,10.0,5.0,0.0
+231,Ốc Thịnh - Dương Quảng Hàm,10.8368558,106.6831418,"255 Dương Quảng Hàm, P. 6, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,30.000 -50.000,9.9,9.8,9.6,4.9,0.0
+232,Gà Rán KFC - Phú Mỹ Hưng Đường Phạm Văn Nghị,10.7302836,106.7066001,"60 Phạm Văn Nghị, Khu Sky Garden 2-R1-2, Khu Phố 3, P. Tân Phong, Quận 7, TP. HCM",,,,yes,no,yes,30.000 -88.000,0.0,0.0,6.8,2.5,0.0
+232,Gà Rán KFC - Crescent Mall,10.7290836,106.7188731,"Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",,,,yes,no,yes,30.000 -88.000,7.0,7.0,7.4,2.5,0.0
+232,Gà Rán KFC - Bến Xóm Củi,10.7468405,106.6601768,"48 - 50 Cần Giuộc, P. 13, Quận 8, TP. HCM",,,,yes,no,yes,30.000 -88.000,0.0,6.1,7.1,2.5,0.0
+232,Gà Rán KFC - Vincom Maximark Cộng Hòa,10.8006814,106.65859,"15 - 17 Cộng Hòa, P. 4, Quận Tân Bình, TP. HCM",,,,yes,no,yes,30.000 -88.000,7.0,6.8,7.3,2.5,0.0
+232,Gà Rán KFC - Nguyễn Sơn,10.7822334,106.6281014,"111 Nguyễn Sơn, P. Phú Thạnh, Quận Tân Phú, TP. HCM",,,,yes,no,yes,30.000 -88.000,0.0,0.0,0.0,2.5,0.0
+232,Gà Rán KFC - Tân Sơn Nhì,10.802148,106.633954,"76-78 Tân Sơn Nhì, P. Tân Sơn Nhì, Quận Tân Phú, TP. HCM",,,,yes,no,yes,50.000 -165.000,0.0,0.0,6.0,2.5,0.0
+232,Gà Rán KFC - Võ Văn Ngân,10.850812,106.764692,"251 Võ Văn Ngân, P. Linh Chiểu, Tp. Thủ Đức, TP. HCM",,,,yes,no,yes,30.000 -88.000,6.0,6.1,6.6,2.5,0.0
+232,Gà Rán KFC - Xô Viết Nghệ Tĩnh,10.7994873,106.7109289,"195 Xô Viết Nghệ Tĩnh, P. 17, Quận Bình Thạnh, TP. HCM",,,,yes,no,yes,50.000 -165.000,6.1,0.0,6.3,2.5,0.0
+232,Gà Rán KFC - Phạm Ngọc Thạch,10.7836024,106.6951299,"14 Phạm Ngọc Thạch, P. 6, Quận 3, TP. HCM",,,,yes,no,yes,30.000 -88.000,6.9,7.0,7.2,2.5,0.0
+232,Gà Rán KFC - Lê Văn Sỹ,10.7887451,106.675888,"407C - 407D Lê Văn Sỹ, P. 12, Quận 3, TP. HCM",,,,yes,no,yes,50.000 -165.000,6.5,6.2,6.4,2.5,0.0
+232,Gà Rán KFC - Trịnh Văn Cấn - Nguyễn Thái Học,10.7673434,106.696404,"35 Trịnh Văn Cấn, P. Cầu Ông Lãnh, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -88.000,6.8,6.4,7.1,2.5,0.0
+232,Gà Rán KFC - Nguyễn Văn Giai,10.7927708,106.6972065,"2 Nguyễn Huy Tự, P. Đa Kao, Quận 1, TP. HCM",,,,yes,no,yes,30.000 -88.000,6.8,6.6,6.6,2.5,0.0
+233,Bánh Bèo 53,10.8196485765057,106.6829642280936,"53 Nguyễn Thái Sơn, P. 4, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -30.000,8.2,7.5,6.5,3.7,0.0
+234,Lộ Thiên Quán - Quán Nhậu,10.816054,106.688694,"524 - 526 Lê Quang Định, P. 1, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,79.000 -360.000,7.0,0.0,6.4,4.4,0.0
+235,Quán Tư Mập - Cá Lóc Nướng,10.838209,106.6631995,"29 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -130.000,8.1,7.7,6.9,4.3,0.0
+236,Xiên Nướng 5K,10.838522,106.668228,"70Bis Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,5.000 -40.000,6.1,0.0,6.6,3.4,0.0
+237,Sari - Tiệm Bánh Sầu Riêng,10.8174,106.6762833,"489/5 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,no,no,29.000 -350.000,7.9,7.8,7.0,3.4,0.0
+238,Lẩu Dê Đức Dưỡng,10.8337472,106.644381,"607/2/8 Tân Sơn, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,no,60.000 -165.000,7.7,7.0,7.2,4.3,0.0
+239,Hằng Ù - Chân Gà Rút Xương Ngâm Sả Tắc - Shop Online - Đường Số 20,10.835641,106.687898,"Lô A 005 Trệt, Đường Số 20, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,110.000 -210.000,9.2,9.1,8.9,4.9,0.0
+240,Thủy Mộc Cafe - Lê Lợi,10.819559,106.685835,"94 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,20.000 -55.000,6.4,0.0,7.4,4.0,0.0
+241,Pizza Hut - Trương Định,10.77684,106.69055,"61 Trương Định, Quận 3, TP. HCM",,,,yes,yes,yes,150.000 -330.000,7.1,7.0,7.3,3.8,0.0
+241,Pizza Hut - Phan Xích Long,10.797212,106.690719,"93 Phan Xich Long, P. 2, Quận Phú Nhuận, TP. HCM",,,,yes,yes,yes,150.000 -330.000,7.3,6.9,6.9,3.8,0.0
+241,Pizza Hut - Crescent Mall,10.7286720119973,106.7181351958007,"Tầng 5 Crescent Mall, 101 Tôn Dật Tiên, P. Tân Phú, Quận 7, TP. HCM",,,,yes,yes,yes,200.000 -330.000,7.2,7.1,7.3,3.8,0.0
+241,Pizza Hut - Vincom Maximark Cộng Hoà,10.800079,106.658401,"Vincom Maximark Cộng Hoà, 15 – 17 Cộng Hòa, Quận Tân Bình, TP. HCM",,,,yes,yes,yes,200.000 -330.000,7.2,7.4,7.6,3.8,0.0
+241,Pizza Hut - Nguyễn Trãi,10.756329,106.67613,"264-266 Nguyễn Trãi, Quận 5, TP. HCM",,,,yes,yes,yes,150.000 -330.000,7.5,7.1,7.3,3.8,0.0
+241,Pizza Hut - Parkson CT Plaza,10.812915,106.66523,"Tầng Hầm B1 Parkson CT Plaza, 60A Trường Sơn, p. 2, Quận Tân Bình, TP. HCM",,,,yes,yes,yes,200.000 -330.000,7.6,7.6,7.3,3.8,0.0
+241,Pizza Hut - Vincom Maximark 3 Tháng 2,10.776629,106.680599,"Tầng 3, Vincom Maximark, 3 Đường 3 Tháng 2, Quận 10, TP. HCM",,,,yes,yes,yes,150.000 -330.000,7.2,7.4,7.6,3.8,0.0
+241,Pizza Hut - Etown Cộng Hoà,10.801894,106.645738,"364 Cộng Hòa, Quận Tân Bình, TP. HCM",,,,yes,yes,yes,200.000 -330.000,6.1,0.0,6.1,3.8,0.0
+241,Pizza Hut - Lotte Mart Nam Sài Gòn,10.74113,106.701375,"Tầng Trệt Lotte Mart Nguyễn Hữu Thọ, 469 Nguyễn Hữu Thọ, P. Tân Hưng, Quận 7, TP. HCM",,,,yes,yes,yes,10.000 -330.000,7.4,7.4,7.6,3.8,0.0
+241,Pizza Hut - Trần Hưng Đạo,10.766701,106.694155,"38A Trần Hưng Đạo, P. Phạm Ngũ Lão, Quận 1, TP. HCM",,,,yes,no,no,59.000 -164.000,6.4,6.4,6.4,3.8,0.0
+241,Pizza Hut - Pandora City,10.8064,106.634833,"Tầng 4 Pandora City, 1/1 Trường Chinh, P. Tây Thạnh, Quận Tân Phú, TP. HCM",,,,yes,yes,yes,120.000 -330.000,7.5,7.2,7.6,3.8,0.0
+241,Pizza Hut - Nguyễn Tri Phương,10.763475,106.667944,"397 Nguyễn Tri Phương, Quận 10, TP. HCM",,,,yes,no,yes,100.000 -220.000,6.9,6.4,6.4,3.8,0.0
+242,Food Court - Lotte Mart Gò Vấp,10.838665,106.670339,"242 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -200.000,6.3,6.6,7.0,3.7,0.0
+243,Minh Anh - Quán Mì Cay & Bánh Mì Chảo,10.8451372,106.6648729,"440/60 Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -40.000,7.9,7.3,7.1,4.0,0.0
+244,Trà Sữa Lee Cường,10.8347483,106.6848173,"496/55 Dương Quảng Hàm, P. 6, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -25.000,8.0,7.8,7.3,4.1,0.0
+245,Cơm Tấm Cây Khế 3 - Nguyễn Văn Khối,10.8426836,106.6558913,"126 Nguyễn Văn Khối, P. 9, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -30.000,0.0,0.0,0.0,1.5,0.0
+246,Thành Danh - Bánh Tráng Trộn Tây Ninh,10.8439698,106.6568731,"245 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,10.000 -20.000,8.0,7.9,7.6,4.2,0.0
+247,2 Tòn Quán - Món Ngon Phan Rang,10.817731,106.689177,"570 Lê Quang Định, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -39.000,6.9,6.3,6.4,3.6,0.0
+248,Ốc Lắc Cô Mai - Lê Thị Hồng,10.8336757,106.6808063,"36/114 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,25.000 -50.000,6.0,0.0,0.0,2.1,0.0
+249,Super Prime Pizza - E Mart Gò Vấp,10.822601,106.693647,"Tầng 1 E - Mart Gò Vấp, 366 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -160.000,7.4,6.5,6.2,3.2,0.0
+250,Mì Quảng Chính Hiệu,10.840663,106.657208,"163 Lê Văn Thọ, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -39.000,0.0,6.4,6.1,3.6,0.0
+251,Phen's Coffee,10.823685,106.676274,"142 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -70.000,6.4,6.1,7.2,3.9,0.0
+252,Cơm Tấm Tròn,10.817283,106.682129,"18 Nguyễn Tuân, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,16.000 -35.000,6.8,6.5,6.4,3.3,0.0
+253,Bánh Tráng Nướng Gà Xé,10.821419,106.688066,"2E Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -20.000,7.7,7.0,6.0,4.2,0.0
+254,"Nhà Tít - Trà Sữa, Trà Trái Cây & Ăn Vặt - Lê Đức Thọ",10.8496124,106.6627194,"945/70 Lê Đức Thọ, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -35.000,9.8,9.3,9.0,4.5,0.0
+255,"Mai Hoa - Bò Lá Lốt, Mỡ Chài",10.8444164,106.6736501,"570 Lê Đức Thọ, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,12.000 -100.000,6.7,6.6,6.3,3.1,0.0
+256,Nem Nướng Thanh Hùng,10.84243,106.65796,"151 Nguyễn Văn Khối, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -40.000,6.9,6.2,6.5,2.5,0.0
+257,Tiệm Bánh Mì Những Chàng Trai - Thống Nhất,10.84919,106.66488,"584 - 586 - 588 Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -20.000,0.0,0.0,0.0,1.9,0.0
+258,Dunkin' Donuts - Vincom Plaza,10.826743,106.689061,"Tầng Trệt Vincom Plaza, 12 Phan Văn Trị, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -79.000,7.5,7.5,6.6,4.0,0.0
+259,Ngộ - Lẩu & Nướng Hải Sản,10.845544,106.642568,"69 Phạm Văn Chiêu, P. 14, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,15.000 -50.000,7.1,7.1,7.4,3.5,0.0
+260,Bún Đậu Hà Nội - Thống Nhất,10.837721,106.665096,"284 - 286 Thống Nhất. P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -100.000,6.2,6.0,0.0,2.6,0.0
+261,Cơm Chay Việt - Nguyễn Thái Sơn,10.821921,106.684775,"103 Nguyễn Thái Sơn, P. 4, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -60.000,7.5,6.9,7.0,4.2,0.0
+262,Phá Lấu & Súp Ngũ Sắc,10.847778,106.664024,"535/8 Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -25.000,7.7,7.8,7.6,4.0,0.0
+263,Trà Sữa Laxy - Quang Trung,10.8414576,106.6445124,"1082 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,,10.0,10.0,9.9,5.0,0.0
+264,Funny - Trà Sữa & Bánh Tráng Trộn - Nguyễn Văn Công,10.8203744,106.6744195,"396 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,2.000 -20.000,7.7,7.0,6.9,4.0,0.0
+264,Funny - Trà Sữa & Bánh Tráng Trộn - Nguyễn Kiệm,10.822647,106.678844,"963 Nguyễn Kiệm, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -30.000,7.7,8.1,7.4,4.0,0.0
+265,Papiyon Coffee - Nguyễn Văn Lượng,10.8386695884795,106.6787105798721,"46 Nguyễn Văn Lượng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,10.000 -35.000,7.0,7.3,7.4,3.6,0.0
+266,Bánh Canh Ghẹ Bảy Liên,10.811434,106.678609,"778F Nguyễn Kiệm, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,50.000 -77.000,7.0,6.4,6.4,3.1,0.0
+267,Xoài Lắc Lão Xoài,10.8230144,106.6920983,"479/10 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -20.000,8.2,7.8,6.3,4.1,0.0
+268,Mì Quảng Vinh,10.840669,106.662616,"111/23 Đường Số 8, P. 11, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -33.000,7.1,6.7,7.0,2.7,0.0
+269,Súp Cua Hạnh - Sư Vạn Hạnh,10.771951,106.669329,"549 Sư Vạn Hạnh, Quận 10, TP. HCM",,,,no,no,no,12.000 -22.000,6.6,6.1,0.0,2.8,0.0
+269,Súp Cua Hạnh - Thống Nhất,10.835898,106.664929,"208 Thống Nhất, Quận Gò Vấp, TP. HCM",,,,yes,no,no,15.000 -33.000,6.7,0.0,0.0,2.8,0.0
+269,Súp Cua Hạnh - Nguyễn Tri Phương,10.764424,106.667933,"402 Nguyễn Tri Phương, Quận 10, TP. HCM",,,,no,no,no,10.000 -22.000,6.6,6.1,0.0,2.8,0.0
+269,Súp Cua Hạnh - Nguyễn Thái Sơn,10.81478,106.679326,"12 Nguyễn Thái Sơn, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -33.000,7.1,6.3,6.4,2.8,0.0
+269,Súp Cua Hạnh - Đinh Tiên Hoàng,10.798451,106.69614,"87C Đinh Tiên Hoàng, P. 3, Quận Bình Thạnh, TP. HCM",,,,no,no,no,10.000 -22.000,7.0,6.7,6.0,2.8,0.0
+269,Súp Cua Hạnh - Liên Tỉnh 5,10.7358488,106.6560889,"108 Liên Tỉnh 5, P. 6, Quận 8, TP. HCM",,,,no,yes,yes,20.000 -40.000,8.0,7.5,6.5,2.8,0.0
+269,Súp Cua Hạnh - Nguyễn Công Trứ,10.76558,106.69786,"381 Nguyễn Công Trứ, Quận 1, TP. HCM",,,,no,no,no,12.000 -22.000,0.0,0.0,0.0,2.8,0.0
+269,Súp Cua Hạnh - Phạm Văn Hai,10.793287,106.662735,"95 Phạm Văn Hai, Quận Tân Bình, TP. HCM",,,,no,yes,yes,20.000 -55.000,0.0,0.0,0.0,2.8,0.0
+269,Súp Cua Hạnh - Lê Đức Thọ,10.852391,106.660616,"Lê Đức Thọ, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,17.000 -20.000,10.0,0.0,0.0,2.8,0.0
+269,Súp Cua Hạnh - Phạm Viết Chánh,10.76667,106.683406,"144 Phạm Viết Chánh, Quận 1, TP. HCM",,,,no,no,no,22.000 -44.000,8.6,8.6,8.3,2.8,0.0
+270,Cơm Gà Chiên Giòn JNGON,10.8265795,106.6864373,"51 Nguyễn Du, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -50.000,8.2,7.6,7.0,4.2,0.0
+271,Chả Lụi Lagi,10.82162,106.68868,"21 Nguyễn Văn Nghi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,20.000 -20.000,7.7,8.0,6.9,3.9,0.0
+272,Cô Thảo - Bánh Tráng Nướng,10.844017,106.662878,"405/47 Thống Nhất, P. 11, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -24.000,8.4,8.3,8.0,4.3,0.0
+273,Rất Quảng Quán - Mì Quảng,10.8153579,106.681721,"35 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,no,no,25.000 -35.000,8.5,8.7,8.1,4.1,0.0
+274,Cơm Tấm Tài - Nguyễn Văn Nghi,10.8229315,106.6880983,"106 Nguyễn Văn Nghi, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -30.000,6.7,0.0,0.0,2.5,0.0
+275,Bánh Căn - Bánh Xèo Quán Tui Hương Vị Phan Rang,10.8332383,106.681935,"22 Phạm Huy Thông, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -50.000,7.4,6.6,7.0,3.7,0.0
+276,Kem Dairy Queen - Lotte Mart Gò Vấp,10.838665,106.670339,"Tầng Trệt Lotte Mart Gò Vấp, 242 Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,9.000 -80.000,7.5,7.2,6.8,3.3,0.0
+276,Kem Dairy Queen - Emart Gò Vấp,10.8235338,106.6936111,"Tầng Trệt, Emart Gò Vấp, 366 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -80.000,6.2,0.0,6.0,3.3,0.0
+276,Kem Dairy Queen - Vạn Hạnh Mall,10.7703314,106.6701577,"Tầng 6 Vạn Hạnh Mall, 11 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",,,,no,no,yes,10.000 -80.000,7.6,7.4,6.0,3.3,0.0
+276,Kem Dairy Queen - Estella Place,10.8021489,106.7484,"Tầng 4 TTTM Estella Place, 88 Song Hành, P. An Phú, Tp. Thủ Đức, TP. HCM",,,,no,no,no,10.000 -80.000,8.3,8.0,7.0,3.3,0.0
+276,Kem Dairy Queen - Sense City Phạm Văn Đồng,10.82784,106.721292,"Tầng 2 Sense City Phạm Văn Đồng, 240 - 242 Kha Vạn Cân, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",,,,no,no,no,10.000 -80.000,7.0,7.0,0.0,3.3,0.0
+277,I.Korea.U - Ẩm Thực Hàn Quốc,10.8375,106.654416,"808 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -70.000,0.0,0.0,7.1,2.5,0.0
+278,Sương Sáo Đài Loan - Cityland Center Hills,10.8279511,106.679005,"2 Đường Số 2, KDC Cityland Center Hills, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,yes,no,25.000 -30.000,7.2,7.5,7.1,4.5,0.0
+279,Bún Quậy Tâm Quán - Phan Văn Trị,10.835361,106.665336,"736 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,30.000 -55.000,7.1,7.1,7.0,3.9,0.0
+280,Quán Ngon - Bánh Hỏi Cháo Lòng & Bánh Canh Bột Gạo - Nguyễn Văn Khối,10.842662,106.654662,"160 Nguyễn Văn Khối, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,yes,50.000 -120.000,0.0,0.0,0.0,2.4,0.0
+281,Lẩu Dê SOS Làng Hoa,10.842153,106.659821,"108/2 Nguyễn Văn Khối, Quận Gò Vấp, TP. HCM",,,,no,no,no,27.000 -220.000,7.5,6.7,6.6,3.8,0.0
+282,Mr. Sumo - Mì Ý - Shop Online,10.841974,106.639923,"448/23A Phan Huy Ích, P. 12, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,35.000 -39.000,8.2,8.6,6.8,3.9,0.0
+283,Mr.Good Tea - Cây Trâm,10.8438356,106.6480965,"433 Cây Trâm, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,7.3,6.7,7.1,4.0,0.0
+284,Ụt Ụt Coffee,10.8172455,106.6824016,"40 Nguyễn Tuân, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,yes,10.000 -35.000,7.8,7.6,6.6,3.8,0.0
+285,Đắc Hùng - Vịt & Heo Quay - Nguyễn Oanh,10.8425282,106.676775,"295 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,200.000 -400.000,6.3,0.0,6.1,2.6,0.0
+286,Nhà Hàng Ẩm Thực Quê Nhà - Quang Trung,10.8283879,106.6746428,"168 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,100.000 -500.000,9.0,9.0,9.2,4.7,0.0
+287,The AOH - Trà Sữa,10.8252013,106.6785624,"2/8 Nguyễn Văn Công, P. 3, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,20.000 -32.000,8.0,8.2,8.0,4.1,0.0
+288,Sushi Maru,10.819611,106.685958,"91 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -80.000,7.3,7.4,7.2,3.6,0.0
+289,Cơm Chiên Phủ Trứng Đặc Biệt - Cô 9,10.8423896,106.6724798,"411/58/13A Lê Đức Thọ, P. 17, Quận Gò Vấp, TP. HCM",,,,no,yes,no,30.000 -150.000,7.9,7.6,8.1,3.8,0.0
+290,Tào Phớ Mix WOAW - Trà Và Đồ Ăn,10.837803,106.654854,"804 Đường Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,30.000 -40.000,0.0,6.0,6.6,2.2,0.0
+291,Basax - Chicken & Korean Food - E Mart Gò Vấp,10.823667,106.693565,"366 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,59.000 -119.000,9.0,8.4,7.0,4.5,0.0
+292,Ding Tea - Vincom Plaza Gò Vấp,10.827014,106.689102,"Tầng 4 Vincom Plaza Gò Vấp, 12 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,22.000 -55.000,7.9,7.3,7.6,3.7,0.0
+293,Không Gian Xanh - Ẩm Thực Hội An,10.8393105,106.6536321,"872/25/15 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,yes,no,30.000 -50.000,9.5,9.5,8.2,4.7,0.0
+294,LaMe Hotpot,10.825242,106.690256,"545 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,50.000 -300.000,7.6,8.1,8.2,4.1,0.0
+295,Frank Cheese - Vũ Trụ Trà Sữa Và Bánh,10.8247778,106.6874317,"370 Nguyễn Thái Sơn, P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,17.000 -35.000,9.1,8.4,8.0,4.6,0.0
+296,Hương Quê - Bánh Đúc Nóng & Cháo Sườn,10.844688,106.657063,"284 Lê Văn Thọ, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,5.000 -38.000,7.5,7.1,7.6,3.5,0.0
+297,Mây Thai Tea - Ăn Vặt Thái,10.8410599312567,106.6449221223592,"1074 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,5.000 -15.000,8.8,8.3,7.1,3.6,0.0
+298,Phúc Tea - Phạm Văn Chiêu,10.8504679,106.657222,"488/28 Phạm Văn Chiêu, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,yes,8.000 -40.000,6.1,7.2,7.3,2.8,0.0
+299,Effoc Cafe - Phan Văn Trị,10.827209,106.688173,"661 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -60.000,7.7,7.7,7.7,3.3,0.0
+300,MỘC - Ẩm Thực Than Hồng,10.829677,106.681908,"1B Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -150.000,8.0,8.1,7.6,3.7,0.0
+301,Ăn Vặt Cô Thơ - Shop Online,10.826472,106.685096,"15/29bis Nguyễn Du, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,15.000 -50.000,8.3,8.0,7.8,4.4,0.0
+302,Trọng Tín - Xôi Gà,10.8235924,106.687885,"110 Nguyễn Văn Nghi, P. 5, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,12.000 -25.000,8.1,6.9,6.5,4.3,0.0
+303,Mặt Trời Đỏ - Buffet BBQ,10.8165144,106.6833659,"295 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,yes,no,no,50.000 -300.000,0.0,0.0,0.0,2.9,0.0
+304,Cõi Đá Cafe - Thống Nhất,10.83828,106.664629,"51/4A Thống Nhất, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -55.000,6.6,7.3,8.1,4.0,0.0
+305,Ốc Hoàng - Trương Minh Giảng,10.835287,106.679542,"11 Trương Minh Giảng, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -55.000,6.9,6.1,6.5,4.2,0.0
+306,Trà Đá Bơ 1102,10.8146461,106.6796561,"1 Phạm Văn Đồng, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,10.000 -25.000,9.4,9.1,7.7,4.0,0.0
+307,Chay Halo - Vegetarian,10.845777,106.652947,"162/3 Đường Số 9, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,8.000 -50.000,7.0,6.6,6.7,3.2,0.0
+308,Ngọc Bích - Cháo Dinh Dưỡng - Nguyễn Oanh,10.831672,106.677519,"136/1 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -50.000,9.6,9.6,9.6,4.2,0.0
+309,Lẩu Bò 9 Ký,10.825961,106.693688,"117/2 Dương Quảng Hàm, P.5, Quận Gò Vấp, TP. HCM",,,,no,no,no,100.000 -220.000,7.7,6.7,0.0,3.4,0.0
+310,Bánh Xèo Cô Nguyệt,10.837052,106.656239,"774 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,7.000 -7.000,0.0,0.0,0.0,2.7,0.0
+311,Ngói Đỏ BBQ,10.8424565,106.6428367999999,"918 Quang Trung, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -50.000,0.0,0.0,6.2,2.5,0.0
+312,AZ - Trà Sữa Đóng Chai -  Lê Văn Thọ,10.8439912,106.6570023,"251 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -90.000,10.0,10.0,9.9,4.2,0.0
+313,Sữa Chua Trân Châu Hạ Long - Hoàng Sa,10.7953419,106.69044,"195 Hoàng Sa, P. Tân Định, Quận 1, TP. HCM",,,,no,yes,yes,10.000 -50.000,6.7,7.1,6.8,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Trần Bình Trọng,10.759744,106.680207,"194 Trần Bình Trọng, P. 3, Quận 5, TP. HCM",,,,no,yes,yes,10.000 -50.000,8.1,7.4,6.7,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - 51 Đường D5,10.8062695,106.7148045,"51 Đường D5, P. 25, Quận Bình Thạnh, TP. HCM",,,,no,yes,yes,10.000 -50.000,6.5,6.4,7.2,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Phan Văn Trị,10.833689,106.670063,"672 A27 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -50.000,8.0,7.7,7.8,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - 38 Trần Hưng Đạo,10.766921,106.694164,"38 Trần Hưng Đạo, P. Phạm Ngũ Lão, Quận 1, TP. HCM",,,,no,no,no,10.000 -50.000,7.8,7.8,7.5,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Cao Thắng,10.770132,106.681956,"45B Cao Thắng, P. 3, Quận 3, TP. HCM",,,,no,no,no,20.000 -50.000,7.5,7.1,7.7,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Lạc Long Quân,10.7718,106.646093,"532 Lạc Long Quân, P. 5, Quận 11, TP. HCM",,,,no,yes,yes,10.000 -50.000,9.5,9.5,9.3,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Trần Cao Vân,10.783166,106.696276,"42 Trần Cao Vân, P. 6, Quận 3, TP. HCM",,,,yes,no,yes,10.000 -50.000,8.0,7.8,8.3,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Lê Trọng Tấn,10.807851,106.62076,"346 Lê Trọng Tấn, P. Tây Thạnh, Quận Tân Phú, TP. HCM",,,,no,no,no,20.000 -35.000,8.0,7.0,7.0,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Hoàng Diệu,10.762367,106.7026,"229 Hoàng Diệu, P. 8, Quận 4, TP. HCM",,,,no,no,no,10.000 -50.000,8.5,8.0,8.6,3.6,0.0
+313,Sữa Chua Trân Châu Hạ Long - Trường Chinh,10.801699,106.636821,"559 Trường Chinh, P. 14, Quận Tân Bình, TP. HCM",,,,no,no,no,20.000 -35.000,7.5,6.8,7.7,3.6,0.0
+314,Bún Đậu Tiên Tiên,10.8358851,106.664747,"206 Thống Nhất, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -50.000,6.4,6.5,6.3,3.0,0.0
+315,Bánh Bao Thơm Ngon - Lê Lợi,10.820502,106.686687,"58 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,14.000 -16.000,9.0,8.8,7.4,4.4,0.0
+316,"Cafe 273 - Cafe, Matcha & Cacao",10.8496634,106.6508519,"273 Phạm Văn Chiêu, P. 14, Quận Gò Vấp, TP. HCM",,,,no,no,no,39.000 -179.000,9.9,9.4,8.8,4.1,0.0
+317,Nhà Hàng Thoáng Việt - Quang Trung,10.835515,106.662665,"1 Quang Trung, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,50.000 -350.000,8.0,7.8,8.4,4.3,0.0
+318,Khoảng Lặng Coffee,10.836646,106.67627,"E10C An Nhơn, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -55.000,6.5,6.3,7.9,3.8,0.0
+319,Trà Sữa Kỳ Sơn,10.839693,106.667045,"368/10B Nguyễn Văn Lượng, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -35.000,9.8,9.7,9.3,4.9,0.0
+320,Bún Bò Chả Ghẹ 7 Ghiền - Bún Bò - Lê Văn Thọ,10.839557,106.657413,"111 Lê Văn Thọ, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -380.000,7.9,8.2,7.8,4.0,0.0
+321,Xì Trum Quán - Lê Thị Hồng,10.834191,106.678625,"40/72 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,8.000 -25.000,7.5,7.3,7.3,4.4,0.0
+322,Buffet Hải Sản Tươi Sống Những Chàng Trai,10.835875,106.635576,"233 Phan Huy Ích, P. 14, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,159.000 -199.000,0.0,0.0,0.0,2.0,0.0
+323,Nem Nướng À Ùm,10.8487916,106.666988,"862/5 Lê Đức Thọ, P. 15 (Hẻm Giáo Sứ Tân Hưng), Quận Gò Vấp, TP. HCM",,,,no,no,no,5.000 -420.000,9.5,9.4,8.9,4.5,0.0
+324,Nhà Hàng Vườn Cau 2 - Nguyễn Thái Sơn,10.8271467,106.6900723999999,"171D Nguyễn Thái Sơn, Quận Gò Vấp, TP. HCM",,,,no,yes,no,200.000 -500.000,0.0,0.0,0.0,2.6,0.0
+325,Dookki Việt Nam - Lẩu & Buffet Tokpokki - Phan Văn Trị,10.827105,106.689225,"Tầng 4, Vincom Phan Văn Trị, 12 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,no,39.000 -495.000,0.0,0.0,0.0,2.9,0.0
+326,Trà Sữa MÉO,10.8153982,106.676394,"221 Bạch Đằng , P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -30.000,7.9,8.4,7.6,4.0,0.0
+327,Mukbang - Nhà Hàng Hàn Quốc,10.82167,106.678794,"929 Nguyễn Kiệm, P. 3, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,50.000 -200.000,7.9,8.5,8.5,4.2,0.0
+328,Cô Năm - Bánh Tráng Trộn & Sinh Tố - Lê Thị Hồng,10.83546,106.678826,"45 Lê Thị Hồng, P. 7, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,15.000 -15.000,7.7,7.0,6.4,2.9,0.0
+329,Trạm Cơm Gà & Bánh Mì 24H - Gò Vấp,10.8436412,106.6570219,"237 Lê Văn Thọ, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,no,,9.6,9.7,9.7,4.8,0.0
+330,Phở Quê Hương,10.833285,106.670809,"1223/4 Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -44.000,6.9,6.6,6.6,3.4,0.0
+331,Mì Vịt Tiềm Chí Phát - Nguyễn Văn Nghi,10.8264392,106.680368,"402 Nguyễn Văn Nghi, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -150.000,6.5,0.0,0.0,2.7,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Thống Nhất,10.8382725,106.665215,"300 Thống Nhất, ( Đối Diện 245 Thống Nhất ) P. 11, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,25.000 -35.000,0.0,6.1,0.0,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Đường Số 1A,10.747705,106.612655,"266 Đường Số 1A, P. Bình Trị Đông B, Quận Bình Tân, TP. HCM",,,,no,no,no,25.000 -70.000,7.7,7.7,7.7,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Đường Số 47,10.7570808,106.7023511,"8 Đường Số 47, P. 4, Quận 4, TP. HCM",,,,no,no,yes,25.000 -35.000,8.4,8.6,8.2,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Lý Thường Kiệt,10.774949,106.656496,"281/26 Lý Thường Kiệt, P. 15, Quận 11, TP. HCM",,,,no,no,no,25.000 -35.000,0.0,0.0,0.0,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Tân Kỳ Tân Quý,10.802379,106.627143,"280 Tân Kỳ Tân Quý, P. Sơn Kỳ, Quận Tân Phú, TP. HCM",,,,no,no,no,25.000 -35.000,10.0,10.0,9.0,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Đường Số 27,10.743023,106.710945,"12 Đường Số 27, P. Tân Quy, Quận 7, TP. HCM",,,,no,no,no,25.000 -35.000,7.0,0.0,0.0,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Vườn Chuối,10.772988,106.683543,"46/2/8 Vườn Chuối, P. 4, Quận 3, TP. HCM",,,,no,no,no,25.000 -35.000,0.0,0.0,0.0,3.0,0.0
+332,Cơm Gà Xối Mỡ 365 - Đặc Biệt Các Loại Sốt - Ngô Thị Thu Minh,10.797479,106.662511,"100 Ngô Thị Thu Minh, P. 2, Quận Tân Bình, TP. HCM",,,,no,no,no,25.000 -35.000,0.0,0.0,0.0,3.0,0.0
+333,Đất Sài Gòn - Cafe Ngắm Máy Bay,10.830502961352,106.669008359313,"389/24 Quang Trung, P. 10, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -40.000,7.7,7.8,8.1,4.1,0.0
+334,Minh Khoa Café Phim,10.832874,106.6341376,"256/53 Phan Huy Ích, P. 12, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -35.000,8.4,8.3,8.4,3.9,0.0
+335,Sữa Chua Tin Tin - Shop Online,10.833144,106.683736,"2 Đường Số 20, Dương Quảng Hàm, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,15.000 -19.000,7.6,7.3,6.9,4.2,0.0
+336,Món Ngon Gia Lai,10.838664,106.67361,"222 Nguyễn Văn Lượng, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,10.000 -45.000,6.9,6.4,6.6,3.1,0.0
+337,Bánh Canh Trảng Bàng Cô Ba - Lê Đức Thọ,10.844527,106.67527,"514/32/10 Lê Đức Thọ, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -50.000,7.1,6.9,7.1,3.1,0.0
+338,Dalatown - Bánh Tráng Nướng & Bánh Căn Đà Lạt,10.8516679,106.6561878,"448 Lê Văn Thọ, P. 16, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,8.000 -27.000,9.5,9.3,9.1,4.8,0.0
+339,Style - Quán Nướng Ngói,10.831214,106.686805,"Chung Cư K26, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -55.000,7.5,6.9,7.1,3.3,0.0
+340,Bún Đậu Mẹt 128,10.815802,106.683034,"128 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -100.000,0.0,0.0,0.0,2.7,0.0
+341,Cuốn Việt - Coopmart Quang Trung,10.834566,106.661537,"Tầng Trệt Coopmart Quang Trung, 304A Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,40.000 -165.000,6.1,6.0,6.5,3.6,0.0
+342,Bánh Tráng Nướng - Lê Lợi,10.8207609,106.686002,"30 Lê Lợi, P. 4, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,10.000 -17.000,7.8,7.2,6.9,4.2,0.0
+343,Tre Vàng - Quán Nhậu Sân Vườn,10.8529369,106.6560458999999,"538 Lê Văn Thọ, P. 13, Quận Gò Vấp, TP. HCM",,,,no,no,no,40.000 -200.000,7.6,6.9,6.6,4.0,0.0
+344,Hải Sản Tươi 11 - Đường Số 11,10.8406831,106.6681381,"107/50 Đường 11, P.11, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,20.000 -80.000,10.0,9.9,9.5,4.2,0.0
+345,K Quán 2 - Kem Chuối & Yaourt Bịch,10.848264,106.677547,"511/20 Đường Số 5, P. 17, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,5.000 -5.000,9.5,9.3,9.1,4.7,0.0
+346,Cửa Hàng Thực Phẩm 107 - Đường Số 11,10.8405883,106.6680952,"107/50A Đường Số 11, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -500.000,9.9,9.8,9.5,4.7,0.0
+347,Cô Tím - Bún Mắm & Lẩu Mắm,10.8473656,106.6647373,"502/22 Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -600.000,8.3,8.1,7.9,4.5,0.0
+348,Bún Chả & Nem Cua Bể Hà Nội - Phan Văn Trị,10.835349,106.664655,"177 Thống Nhất, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -30.000,7.4,7.0,7.0,3.8,0.0
+349,B2 Coffee - Shop Online,10.8313296,106.6637609,"30/4 Thống Nhất, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,30.000 -60.000,9.4,9.3,9.4,4.9,0.0
+350,LitEatin' - Bánh Mì Hotdog - Nguyên Hồng,10.8187101,106.6904851,"96 Nguyên Hồng, P. 1, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,27.000 -35.000,8.9,8.7,7.0,4.0,0.0
+351,Quán Ốc Trần Đào,10.8173997,106.6786399999999,"891/79 Nguyễn Kiệm, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -50.000,6.3,6.2,6.4,3.5,0.0
+352,Quán Lươn Củ Nghệ,10.844697,106.665734,"440/44A Thống Nhất, P. 16, Quận Gò Vấp, TP. HCM",,,,no,no,yes,25.000 -35.000,7.9,7.9,6.5,3.4,0.0
+353,Ẩm Thực Thành Huế - Cây Trâm,10.843175,106.6516739,"287 Cây Trâm, Quận Gò Vấp, TP. HCM",,,,no,yes,no,30.000 -90.000,7.2,6.9,6.9,2.9,0.0
+354,A Đạt - Bánh Xèo Rau Rừng - Không Chi Nhánh,10.8147348,106.679353,"1 Phạm Văn Đồng, Quận Gò Vấp, TP. HCM",,,,no,no,no,35.000 -60.000,8.4,7.5,6.5,3.4,0.0
+355,Saigon Beer World,10.8176167,106.6862297999999,"212 Phạm Văn Đồng, P. 1, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,35.000 -1.450.000,8.4,8.5,9.3,4.6,0.0
+356,Gà Nướng Tấn Phát,10.845355,106.642187,"61 Phạm Văn Chiêu, P. 14, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,15.000 -120.000,9.3,9.3,9.3,2.5,0.0
+357,Nhà Hàng Đùi Cừu Nướng - Tân Sơn,10.836888755881,106.646089553833,"395/2 Tân Sơn, Quận Gò Vấp, TP. HCM",,,,no,no,yes,50.000 -500.000,6.6,6.0,0.0,2.6,0.0
+358,Triệu Vy - Bún Đậu Mắm Tôm,10.826347,106.692322,"17 Dương Quảng Hàm. P. 5, Quận Gò Vấp, TP. HCM",,,,no,no,yes,17.000 -50.000,6.9,7.3,6.4,3.3,0.0
+359,Đốm - Milk Tea & Coffee,10.8308048,106.67873,"618 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -50.000,8.5,8.2,7.8,4.3,0.0
+360,Kap Kap - Ẩm Thực Hoa & Cafe,10.825788,106.69008,"368 Phan Văn Trị, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,15.000 -220.000,0.0,0.0,6.1,3.1,0.0
+361,Alô Cú Đêm - Ăn Đêm Online,10.830626,106.679407,"590/2/10 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,13.000 -48.000,7.0,7.3,0.0,3.4,0.0
+362,Mì Cay & Cơm Chảo - Gia Hân Hân,10.837456,106.655664,"36 Đường 18, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -65.000,8.3,7.4,7.6,3.6,0.0
+363,Phở Ngọc - Đường Số 3,10.847696,106.651523,"201 Đường Số 3, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,yes,20.000 -40.000,8.4,7.1,7.6,3.3,0.0
+363,Phở Ngọc - Đường Số 3,10.8452719,106.6485638,"201 Đường Số 3, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -40.000,0.0,0.0,0.0,3.3,0.0
+364,"Bistro 68 - Steak, Spaghetti & Salad",10.835523,106.677246,"212/40 Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,25.000 -129.000,8.3,8.4,7.6,3.6,0.0
+365,Đạt Lý - Bánh Bột Lọc,10.836685,106.664978,"77 Thông Nhất, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,3.000 -5.000,6.8,6.5,6.6,3.4,0.0
+366,à cà phê bánh mì,10.835221,106.684802,"205 Phạm Huy Thông, P. 6, Quận Gò Vấp, TP. HCM",,,,yes,no,no,18.000 -35.000,7.1,7.2,6.7,4.0,0.0
+367,Xôi Ghẹ Chính Gốc - Gò Vấp,10.843915,106.6572026,"250 Lê Văn Thọ, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,,10.0,10.0,10.0,5.0,0.0
+368,King Beef BBQ,10.8208039238853,106.6833099345321,"16 Phạm Ngũ Lão, P. 4, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,15.000 -100.000,9.3,9.3,9.2,3.7,0.0
+369,Ăn Vặt Dasala - Món Ngon Độc Lạ - Quang Trung,10.8379702,106.6606819,"656/61/18 Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,yes,yes,no,35.000 -35.000,7.3,7.9,7.8,4.5,0.0
+370,Meet & More - Trà Sữa Hàn Quốc - Lê Đức Thọ,10.8358155,106.6812747,"164 Lê Đức Thọ, P. 6, Quận Gò Vấp, TP. HCM",,,,no,no,yes,18.000 -40.000,6.3,6.7,7.3,3.0,0.0
+370,Meet & More - Trà Sữa Hàn Quốc - Đường D2,10.80257,106.715727,"40 Đường D2, P. 25, Quận Bình Thạnh, TP. HCM",,,,no,no,yes,18.000 -40.000,7.5,8.0,8.5,3.0,0.0
+370,Meet & More - Trà Sữa Hàn Quốc - Nguyễn Oanh,10.8468834,106.6767097,"Tầng Trệt Lô A, Chung Cư An Lộc, Nguyễn Oanh, P. 17, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,25.000 -51.000,7.3,7.3,7.6,3.0,0.0
+370,Meet & More - Trà Sữa Hàn Quốc - Nguyễn Kiệm,10.82392,106.679171,"928 Nguyễn Kiệm, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -35.000,8.2,8.2,8.4,3.0,0.0
+370,Meet & More - Trà Sữa Hàn Quốc - Hiệp Bình,10.843834,106.730567,"123 Hiệp Bình, P. Hiệp Bình Chánh, Tp. Thủ Đức, TP. HCM",,,,no,no,yes,10.000 -40.000,10.0,10.0,10.0,3.0,0.0
+371,Miss Kim - Mực Sạch Rim,10.8351675,106.6840669000001,"566/137/6 Dương Quảng Hàm, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,40.000 -160.000,7.1,6.4,6.2,3.1,0.0
+372,MILANO COFFEE Premium - Phan Văn Trị,10.8307386,106.6795023,"590/2 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,19.000 -45.000,7.1,6.6,6.5,3.0,0.0
+372,MILANO COFFEE Premium - Cây Trâm,10.8427261,106.6538576,"186 Cây Trâm, P. 8, Quận Gò Vấp, TP. HCM",,,,no,no,yes,19.000 -45.000,6.1,6.1,6.3,3.0,0.0
+372,,,,,,,,yes,yes,yes,,0.0,0.0,0.0,3.0,0.0
+373,Chè Khúc Bạch Thu Oanh - Shop Online,10.838525,106.660833,"656/68/69 Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,20.000 -33.000,9.3,8.5,7.1,4.6,0.0
+374,Bột Chiên 36 - Đường Số 7,10.813445,106.68135,"36 Đường Số 7, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,no,12.000 -18.000,7.5,7.2,6.3,3.7,0.0
+375,"Bếp Mẹ Shin Will - Chân Gà Sốt Thái Cay 5 Cấp Độ Và Trà Sữa, Ăn Vặt",10.833617,106.686754,"102/5 Đường Số 20, P. 5, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,10.000 -100.000,9.8,9.4,9.5,4.7,0.0
+376,Đồng Hương Quán,10.8178567633343,106.6862549632788,"199 Phạm Văn Đồng, P. 4, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -120.000,7.4,7.6,7.7,3.3,0.0
+377,Coconino - Tea & Cheese - Lê Văn Thọ,10.84944,106.65646,"469 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,no,no,no,7.000 -37.000,8.2,8.3,7.6,3.8,0.0
+378,Trà Sữa Joah - Nguyễn Văn Nghi,10.82457,106.68621,"198 Nguyễn Văn Nghi, P.7, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -30.000,7.6,8.2,6.7,3.6,0.0
+379,Royal Tea Viet Nam By HongKong - 5 Quang Trung,10.835622,106.661161,"5 (số cũ 643) Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,yes,no,yes,35.000 -55.000,6.3,6.5,6.1,2.9,0.0
+380,Bánh Canh Cua Tư Ù - Lê Quang Định,10.820819,106.689142,"676 Lê Quang Định, P. 1, Quận Gò Vấp, TP. HCM",,,,no,no,no,15.000 -25.000,6.0,0.0,0.0,3.2,0.0
+381,Phở Cô Lệ - Đường Số 1,10.845489,106.662565,"69 Đường Số 1, P.11, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -55.000,7.7,7.0,7.4,3.4,0.0
+382,ĂN VẶT TY TY SHOP,10.8518207,106.6565096,"44/3 An Hội, P. 13, Quận Gò Vấp, TP. HCM",,,,no,no,no,10.000 -100.000,9.9,9.9,9.5,4.8,0.0
+383,Mì Cay Singa,10.8276416,106.6871191,"699 Phan Văn Trị, P. 7, Quận Gò Vấp, TP. HCM",,,,no,no,yes,39.000 -49.000,0.0,0.0,0.0,2.1,0.0
+384,Đồng Xanh Cafe - Lê Đức Thọ,10.8529397,106.659399,"1053 Lê Đức Thọ, P.13, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -55.000,6.8,6.7,8.5,4.0,0.0
+385,The Valentine - Tiệc Cưới,10.833206,106.671029,"18 Phan Văn Trị, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,2.000.000 -5.500.000,7.5,7.3,7.6,3.5,0.0
+386,Vuvuzela Beer Club - Lotte Mart Gò Vấp,10.838413,106.670952,"18 Phan Văn Trị - Nguyễn Văn Lượng, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,200.000 -300.000,7.2,7.3,6.6,3.4,0.0
+387,MILKEY - Lê Văn Thọ,10.84567,106.65569,"319/39 Lê Văn Thọ, P. 9, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,5.000 -25.000,8.9,8.5,8.5,3.9,0.0
+388,Bún Bò Vương - Lê Thị Hồng,10.833057,106.677765,"42 Lê Thị Hồng, P. 17, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -35.000,6.4,6.1,6.3,3.4,0.0
+388,Bún Bò Vương - Quang Trung,10.8383776,106.6593258,"656/45 Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -35.000,7.7,6.1,6.2,3.4,0.0
+388,Bún Bò Vương - Thống Nhất,10.85103,106.665106,"674 Thống Nhất, P. 15, Quận Gò Vấp, TP. HCM",,,,no,no,no,22.000 -45.000,8.6,7.9,7.4,3.4,0.0
+389,Bếp Nhà Bi - Bún Bò Cung Đình,10.848927,106.652001,"176 Đường Số 3, P. 9, Quận Gò Vấp, TP. HCM",,,,yes,yes,no,25.000 -50.000,7.4,7.5,6.6,4.1,0.0
+390,Hải Sản 68 - Quán Nhậu Gò Vấp,10.832898,106.672098,"18A Phan Văn Trị, P. 10, Quận Gò Vấp, TP. HCM",,,,yes,yes,yes,50.000 -300.000,8.3,8.7,9.3,4.3,0.0
+391,Dạ Khúc Cafe,10.8538872399859,106.6513865813613,"32/100 Đường 59, P. 14, Quận Gò Vấp, TP. HCM",,,,no,yes,yes,25.000 -55.000,7.1,7.2,7.9,3.3,0.0
+392,Hạt Dẻ Gò Vấp,10.830671,106.681233,"29/7/22 Lê Đức Thọ, P. 7, Quận Gò Vấp, TP. HCM",,,,yes,no,no,25.000 -500.000,7.9,7.9,7.3,3.8,0.0
+393,Mì Quảng 3 Anh Em - Pasteur,10.769942,106.702877,"20 Pasteur, P. Nguyễn Thái Bình, Quận 1, TP. HCM",,,,yes,no,yes,25.000 -66.000,6.5,6.7,6.3,3.2,0.0
+393,Mì Quảng 3 Anh Em - Nguyễn Thị Tần,10.746965,106.685716,"90 Nguyễn Thị Tần, P. 2, Quận 8, TP. HCM",,,,no,no,no,20.000 -50.000,6.8,7.0,6.8,3.2,0.0
+393,Mì Quảng 3 Anh Em - Phan Huy Ích,10.8419629,106.6385609,"402 Phan Huy Ích, P. 12, Quận Gò Vấp, TP. HCM",,,,yes,no,no,20.000 -35.000,6.8,6.7,0.0,3.2,0.0
+393,Mì Quảng 3 Anh Em - Phạm Văn Đồng,10.815072,106.6811769,"60 Phạm Văn Đồng, P. 3, Quận Gò Vấp, TP. HCM",,,,no,no,no,30.000 -50.000,0.0,6.8,6.6,3.2,0.0
+393,Mì Quảng 3 Anh Em - Eastmark City,10.7996434,106.8277998,"E1.08 CC MT Eastmark City, P. Long Trường, Tp. Thủ Đức, TP. HCM",,,,no,no,no,30.000 -60.000,0.0,0.0,0.0,3.2,0.0
+393,Mì Quảng 3 Anh Em - Dương Thị Mười,10.859194,106.629998,"65 Dương Thị Mười, P. Tân Chánh Hiệp, Quận 12, TP. HCM",,,,yes,no,yes,27.000 -40.000,10.0,10.0,10.0,3.2,0.0
+393,Mì Quảng 3 Anh Em - Hoàng Diệu,10.760884,106.700139,"L18 Hoàng Diệu, P. 6, Quận 4, TP. HCM",,,,yes,no,no,30.000 -50.000,7.0,7.0,7.0,3.2,0.0
+394,TO's Tea & Food - Thiên Đường Trà Sữa Nhật - Lê Đức Thọ,10.850047,106.664263,"996 Lê Đức Thọ (Đối Diện Chợ Xóm Mới), P. 13, Quận Gò Vấp, TP. HCM",,,,no,no,yes,15.000 -30.000,8.7,8.0,7.2,3.4,0.0
+395,Núi Ngự - Đặc Sản Ba Miền,10.837117,106.689337,"147/5 Đường số 23, Quận Gò Vấp, TP. HCM",,,,no,no,no,20.000 -110.000,7.4,7.0,7.7,4.0,0.0
+396,Trà Sữa Bumba - Quang Trung,10.835777,106.661657,"598 Quang Trung, P. 11, Quận Gò Vấp, TP. HCM",,,,no,no,yes,24.000 -45.000,8.9,8.3,8.9,4.0,0.0
