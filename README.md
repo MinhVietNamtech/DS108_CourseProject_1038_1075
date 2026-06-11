@@ -51,7 +51,7 @@ Mục tiêu chính của dự án:
 # 📂 Cấu trúc thư mục
 
 ```text
-DS108.Q21/
+DS108_CourseProject_1038_1075/
 ├── data
 │   ├── data_processed
 │   │   ├── test
